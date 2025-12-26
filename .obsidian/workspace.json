@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "D&D/Spencer's Campaign - Trickster Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Spencer's Campaign - Trickster Planning"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "D&D/Spencer's Campaign - Trickster Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Spencer's Campaign - Trickster Planning"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "D&D/Spencer's Campaign - Trickster Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Spencer's Campaign - Trickster Planning"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "D&D/Spencer's Campaign - Trickster Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Spencer's Campaign - Trickster Planning"
+            }
+          },
+          {
+            "id": "a0a1dac495db7288",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "176cbab2937512ab",
+  "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "Study Notes/God.md",
+    "Study Notes/Jesus.md",
+    "Study Notes/Man.md",
+    "Study Notes/Lucifer.md",
+    "D&D/Spencer's Campaign - Trickster Planning.md",
+    "README.md",
+    "Study Notes",
     "D&D"
   ]
 }
