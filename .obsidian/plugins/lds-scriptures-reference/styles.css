@@ -1,0 +1,187 @@
+/* CSS Variables */
+/* Common CSS Variables */
+:root {
+    --lds-callout-icon-quote: quote;
+    --lds-callout-font-size: 1em;
+    --lds-callout-line-height: 1.5em;
+    --lds-callout-title-font-size: 1.25em;
+    --lds-callout-title-line-height: 1.75em;
+    --lds-callout-padding: 10px 15px;
+    --lds-callout-border-radius: 5px;
+    --lds-callout-border-left-width: 2px;
+}
+
+/* Light Theme */
+.theme-light {
+    --lds-callout-color-primary: #007da5;
+    --lds-callout-color-bg: #ffffff;
+    --lds-callout-color-border: #ffffff;
+    --lds-callout-background-gradient: linear-gradient(
+        to right,
+        rgba(0, 125, 165, 0.1),
+        rgba(0, 125, 165, 0.05)
+    );
+}
+
+/* Dark Theme */
+.theme-dark {
+    --lds-callout-color-primary: #00c7ff;
+    --lds-callout-color-bg: #333333;
+    --lds-callout-color-border: #444444;
+    --lds-callout-background-gradient: linear-gradient(
+        to right,
+        rgba(0, 199, 255, 0.1),
+        rgba(0, 199, 255, 0.05)
+    );
+}
+
+/* Lds Callout */
+.callout[data-callout="ldslib"] {
+    --lds-callout-icon: var(--lds-callout-icon-quote);
+    --link-external-color: var(--lds-callout-color-primary);
+    border-color: var(--lds-callout-color-border) !important;
+    border-radius: var(--lds-callout-border-radius);
+    border-left-color: var(--lds-callout-color-primary) !important;
+    border-left-width: var(--lds-callout-border-left-width) !important;
+    background-color: var(--lds-callout-color-bg);
+    background-image: var(--lds-callout-background-gradient);
+    font-size: var(--lds-callout-font-size);
+    line-height: var(--lds-callout-line-height);
+    margin: auto;
+    margin-bottom: 10px;
+    padding: var(--lds-callout-padding);
+
+    & > .callout-title > .callout-title-inner {
+        color: var(--lds-callout-color-primary);
+        font-size: var(--lds-callout-title-font-size);
+        line-height: var(--lds-callout-title-line-height);
+    }
+
+    & > .callout-title > .callout-icon {
+        color: #000000;
+        display: none;
+    }
+}
+
+.callout[data-callout="ldslib"] .callout-content p {
+    font-style: italic;
+}
+
+/* General Conference byline */
+.callout[data-callout="ldslib-byline"] {
+    border-color: transparent !important;
+    background-color: transparent !important;
+    text-align: right;
+    color: var(--lds-callout-color-primary);
+    font-size: var(--lds-callout-font-size);
+    line-height: var(--lds-callout-line-height);
+    margin: auto;
+
+    & > .callout-title > .callout-icon {
+        display: none;
+    }
+
+    & > .callout-title > .callout-title-inner {
+        display: none;
+    }
+}
+
+/* for conference talk paragraph picker modal */
+div.modal-content.conference-talk-modal {
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    & h1 {
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: xx-large;
+    }
+
+    & div.body-block {
+        font-family: Georgia, "Times New Roman", Times, serif;
+    }
+
+    & [data-aid] {
+        user-select: text;
+    }
+
+    & [data-aid].selected {
+        padding-left: 0.75rem;
+        border-left: solid 2px var(--lds-callout-color-primary);
+    }
+
+    & img {
+        width: 100%;
+    }
+}
+
+div.modal-content.conference-talk-modal > header {
+    /* fit video to modal */
+    & > video#video2 {
+        width: 100%;
+    }
+
+    /* p element for author */
+    & > div.byline > p {
+        font-family: "Arial", "Helvetica", sans-serif;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    /* p element for calling */
+    & > div.byline > p.author-role {
+        font-style: italic;
+        margin-bottom: 1rem;
+    }
+
+    /* talk summary */
+    & > p.kicker {
+        font-weight: 300;
+        font-style: italic;
+        margin-top: 2rem;
+        margin-bottom: 4rem;
+    }
+}
+
+/* div with "Create Link" button */
+div.modal-content.conference-talk-modal > div.footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-top: 2rem;
+
+    & > button:hover {
+        cursor: pointer;
+    }
+
+    & > button.create-link {
+        background-color: var(--interactive-accent);
+        color: var(--text-on-accent);
+    }
+}
+
+div#spinner-modal {
+    box-shadow: none;
+    background-color: unset;
+    border: unset;
+
+    & > div.modal-close-button::before {
+        content: none;
+    }
+}
+
+.lds-library-spinner {
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 3px solid var(--background-modifier-border);
+    border-top-color: var(--interactive-accent);
+    border-radius: 50%;
+    animation: lds-library-spin 0.8s linear infinite;
+    margin: 8px auto;
+}
+
+.lds-library-spinner.larger {
+    width: 3rem;
+    height: 3rem;
+}
+
+@keyframes lds-library-spin { to { transform: rotate(360deg); } }
