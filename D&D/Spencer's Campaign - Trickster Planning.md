@@ -25,7 +25,7 @@ Background is perfect for the desired character flavour, but needs one small twe
 
 **Ability Scores**:
 Using Point Buy,
-| Str 8, Dex 15+1, Con 14, Int 10, Wis 15+2, Cha 8 |
+| Str 8, Dex 15+1, Con 14, Int 10, Wis 15+2, Cha 8 | hello
 
 **Starting Equipment:**
 
