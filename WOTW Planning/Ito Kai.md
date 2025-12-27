@@ -11,7 +11,7 @@ Story Arc:
 Become Swordmaster
 • Gather materials for/execute forging process of Durante
 Become Trueblade, reconnect with Luci's Soul through Durante
-
+![[Notes_251227_091558_4fe.png]]
 Goals:
 • Max out Lycian fame
 • Liberate Caelin (either take control or return to Lycia after removing bandits)
