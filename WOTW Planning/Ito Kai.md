@@ -1,6 +1,21 @@
+## **Backstory**
+Name: Ito Kai  
+  
+Class: Myrmidon  
+  
+Age: 24  
+  
+Born in: Caelin, Lycia  
+  
+Appearance: Standing at 5'10" and weighing in at 175 lbs, Ito's expression is shown only through calm. If eyes truly are the windows to the soul, Ito's brightly colored blue eyes are the only way to determine his feelings. The wildly messy blonde hair Ito sports hints at his style, while his lean, muscular build shows great strength and confidence. His movements show care and finesse, especially in each move he makes in combat.  
+  
+Personality: Once energetic and uncontainably bright in emotion, Ito has buried those emotions deep inside himself. The tremendous amount of grief he's felt in his life stills haunts him, and he's kept all the pain bottled up for years. Ito only expresses this pain in combat, using the raw emotion to fuel his aggressive combat style. When not in combat, Ito retains a very calm and collected manner, never reacting harshly to anything. The small things Ito does hint at a kind, caring side to him, but because of his familial losses he is much more subtle about it. Since his loss, Ito has gained an extreme hero complex, which could also be perceived as a type of death wish.  
+  
+Story: Although he hails from a smaller part of Lycia, Ito was in no way raised poorly. His family worked very closely with one of Caelin's military leaders, and as such Ito received one of the best educations available at the time. Unfortunately this was in the midst of war, so his main focus was learning how to survive. He always had some type of sword with him, ranging from the wooden practice swords to the iron sword his father owned. While on a trip to Ostia (before its destruction), Ito met a young lady and they quickly bonded, becoming fast friends and young lovers. Once they were both old enough, they were married and settled, but because bandits, monsters, and war had gotten much worse, it was no longer safe to live where they were. One night their small village was attacked by bandits, who heavily wounded some and killed many. Those who were heavily wounded and tried to escape were devoured by monsters and included Ito's wife, who was unable to survive even with Ito's best help. As his wife died, Ito did his best to fend off the monsters that attacked him, before he fell due to blood loss. Thankfully, Ito was saved by a small band of mercenaries that had a healer in their group. They couldn't do anything to save his wife however, as she had painfully died before Ito could fend off the monsters attacking her. Because he was grateful and needed to recover, Ito joined the group that saved him. For a while, Ito was somewhat happy, still able to express himself and feel joy because of the kindness of his new friends. While traveling near Etruria, however, they were mistaken for a Lycian scouting party, and were slaughtered without reason. Once again, Ito was the only one to survive, but this time because he had ran in fear. From this point on, the emotional pain was too much, and Ito suddenly felt like the only thing to do now in memory of his team and wife, was to be someone's hero. He wouldn't run anymore. He would use the training from his youth and from the time he spent as a mercenary to benefit him in rescuing people.  
+  
+It started out small, with the silent liberation of several small hamlets from bandit groups and monsters as he slowly made his way back to his home village, building his strength and skill. Eventually he got to the place he used to call home, which was now overrun by a decently sized group of bandits. The bandits had gotten lazy in the years since they took over, as they felt invincible in their homemade "fortress" in the village center. Ito snuck in one night, silently and quickly executing a large number of careless, drunk men that had once killed his family and friends. He made his way through the place and found their leader, who he challenged to a duel. The drunken bandit "king" was unable to keep up with Ito's speed and fluidity in motion, and was quickly eviscerated and killed. Ito, now finished with what he came to do, left under the cover of the remaining darkness and began his search for someone to save, a fear in the back of his mind that he wouldn't be able to live up to his emotional need to do so.
 
-
-
+## **Character Journal (Thread Log)**
 
 
 ## **Future Planning:**
