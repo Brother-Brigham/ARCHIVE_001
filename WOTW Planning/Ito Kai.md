@@ -3,7 +3,7 @@
 
 
 
-Future Planning:
+**Future Planning:**
 
 ![[Notes_251227_091550_2c5.png]]
 Story Arc:
@@ -19,13 +19,7 @@ Goals:
 • Become official Trueblade, go Plus Ultra on Swordmaster title
 • Wreck dudes
 • Thwart Etrurian incursions?
-
-
-
-
-
-
-
+![[Notes_251227_091605_7fa.png]]
 Progression:
 1. Myrmidon Start (0)
 2. Iron Sword (0)
