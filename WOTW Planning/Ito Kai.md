@@ -3,7 +3,7 @@
 
 
 
-**Future Planning:**
+## **Future Planning:**
 
 ![[Notes_251227_091550_2c5.png]]
 Story Arc:
