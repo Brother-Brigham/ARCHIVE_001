@@ -6,4 +6,6 @@
 
 (Job 37:18 - more accurate to render "glass" as "mirror")
 
-:1 Corinthians 13 12
+> [!ldslib] [1 Corinthians 13:12](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng&id=p12)
+> 12 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
+
