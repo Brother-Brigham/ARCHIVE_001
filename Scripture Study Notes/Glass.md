@@ -24,3 +24,8 @@
 
 > [!ldslib] [Revelation 21:21](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng&id=p21)
 > 21 And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
+
+> [!ldslib] [Ether 3:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p1)
+> 1 And it came to pass that the brother of Jared, (now the number of the vessels which had been prepared was eight) went forth unto the mount, which they called the mount Shelem, because of its exceeding height, and did molten out of a rock sixteen small stones; and they were white and clear, even as transparent glass; and he did carry them in his hands upon the top of the mount, and cried again unto the Lord, saying:
+
+:D&C 77 1:
