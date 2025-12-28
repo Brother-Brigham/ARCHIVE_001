@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Earth"
             }
+          },
+          {
+            "id": "eac05450a82df89b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "849f7437877cc29b",
+  "active": "eac05450a82df89b",
   "lastOpenFiles": [
-    "Woman.md",
     "Earth.md",
+    "Woman.md",
     "Scripture Study Notes/Glass.md",
     "Scripture Study Notes/God.md",
     "Untitled.canvas",
