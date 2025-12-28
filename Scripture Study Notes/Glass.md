@@ -16,3 +16,11 @@
 > 23 For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:
 > 24 For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
 
+> [!ldslib] [Revelation 15:2](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=eng&id=p2)
+> 2 And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God.
+
+> [!ldslib] [Revelation 21:18](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng&id=p18)
+> 18 And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.
+
+> [!ldslib] [Revelation 21:21](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng&id=p21)
+> 21 And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
