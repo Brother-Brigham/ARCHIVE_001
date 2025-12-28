@@ -1,6 +1,11 @@
 > [!ldslib] [Revelation 4:6](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=eng&id=p6)
 > 6 And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
 
+Ouroboros- [[Sea]] of [[Glass]] is [[Earth]]
+
+> [!ldslib] [Doctrine and Covenants 77:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=p1)
+> 1 Q. What is the sea of glass spoken of by John, 4th chapter, and 6th verse of the Revelation?A. It is the earth, in its sanctified, immortal, and eternal state.
+
 > [!ldslib] [Job 37:18](https://www.churchofjesuschrist.org/study/scriptures/ot/job/37?lang=eng&id=p18)
 > 18 Hast thou with him spread out the sky, which is strong, and as a molten looking glass?
 
@@ -28,4 +33,3 @@
 > [!ldslib] [Ether 3:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p1)
 > 1 And it came to pass that the brother of Jared, (now the number of the vessels which had been prepared was eight) went forth unto the mount, which they called the mount Shelem, because of its exceeding height, and did molten out of a rock sixteen small stones; and they were white and clear, even as transparent glass; and he did carry them in his hands upon the top of the mount, and cried again unto the Lord, saying:
 
-:D&C 77 1:
