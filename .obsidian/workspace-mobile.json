@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "eac05450a82df89b",
+  "active": "849f7437877cc29b",
   "lastOpenFiles": [
     "Earth.md",
     "Scripture Study Notes/Glass.md",
