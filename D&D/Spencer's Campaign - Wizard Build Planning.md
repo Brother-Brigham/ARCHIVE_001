@@ -8,16 +8,10 @@
 - Languages. You can speak, read, and write Common and Infernal.
 - Appearance. Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4+1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
 
-Going Winged Tiefling gets free, at-will flight--very good for movement and positioning, especially kiting melee enemies. 
+Going Winged Tiefling gets free, at-will flight--very good for movement and positioning, especially kiting melee enemies. Darkvision is practically a necessity, and the fire resistance is also very nice. Human is a good alternative--I'd probably pick the Tough feat, Musician for support, or one of the Magic Initiate feats for relevant spell needs. Extra feat to start is OP.
 
-Grabbing Investigation for flavour, proficiency will be a nice boost to the initial +0 on Int checks. Consider Arcana for scribing spell scrolls, but can get that later.
-
-We'll be boosting Dex later on down the road.
-
-Picking Medium as the size is less good if considering using a mount, but I like it better and (might? definitely in 2014 rules) needed it to use greatswords.
-
-**Background** - Criminal (Custom)
-- Ability Scores: **Dexterity**, Constitution, **Wisdom**
+**Background** - Criminal
+- Ability Scores: **Dexterity**, Constitution, **Intelligence**
 - Feat: [Alert](https://5e.tools/feats.html#alert_xphb)
 - Skill Proficiencies: Sleight of Hand, Stealth
 - Tool Proficiency: [Thieves' Tools](https://5e.tools/items.html#thieves'%20tools_xphb)
@@ -27,13 +21,13 @@ Background is perfect for the desired character flavour, but needs one small twe
 
 **Ability Scores**:
 Using Point Buy,
-| Str 8, Dex 15+1, Con 14, Int 10, Wis 15+2, Cha 8 |
+| Str 9, Dex 13+1, Con 14, Int 15+2, Wis 13, Cha 8 |
 
 **Starting Equipment:**
 
-Fighter starts with 155 gp, Criminals start with 50. Buy Thieves' Tools, Greatsword, Longbow, Quiver(s), Arrows, and Scale Mail. Consider saving the gold, but feel free to purchase any mundane equipment you might need (consider ten-foot poles and crowbars for dealing with traps). When Dex gets higher later, consider swapping to studded leather armour.
 
-Purchasing goals are flexible.
+
+First purchasing goal is half-plate. 
 
 **Class Progression**:
 
