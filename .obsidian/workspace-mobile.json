@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5b951eec86b097",
+        "id": "a83666e31efed87c",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa5e2ff811fd95d",
+            "id": "849f7437877cc29b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,8 +168,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "aaa5e2ff811fd95d",
+  "active": "849f7437877cc29b",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Scripture Study Notes/God.md",
     "Red Ivy Records/Concepts/ALBUM Home for Christmas.md",
     "Red Ivy Records/Concepts/ALBUM The Way of the Wanderer.md",
