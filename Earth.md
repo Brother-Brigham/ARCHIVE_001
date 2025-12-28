@@ -14,9 +14,10 @@ The Most High [[God]] possesses (owns? controls?) Heaven and Earth.
 > [!ldslib] [Genesis 24:3](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=eng&id=p3)
 > 3 And I will make thee swear by the Lord, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:
 
-Once made immortal, eternal, and 
+Once made immortal, eternal, and sanctified, it is represented by a [[Sea]] of [[Glass]].
 
 > [!ldslib] [Revelation 4:6](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=eng&id=p6)
 > 6 And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
 
-:Doctrine and Covenants 77 
+> [!ldslib] [Doctrine and Covenants 77:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=p1)
+> 1 Q. What is the sea of glass spoken of by John, 4th chapter, and 6th verse of the Revelation?A. It is the earth, in its sanctified, immortal, and eternal state.
