@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Earth.md",
+                "file": "Scripture Study Notes/God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Earth"
+              "title": "God"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,12 +178,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "eac05450a82df89b",
+  "active": "849f7437877cc29b",
   "lastOpenFiles": [
     "Earth.md",
+    "Scripture Study Notes/God.md",
     "Woman.md",
     "Scripture Study Notes/Glass.md",
-    "Scripture Study Notes/God.md",
     "Untitled.canvas",
     "Red Ivy Records/Concepts/ALBUM Home for Christmas.md",
     "Red Ivy Records/Concepts/ALBUM The Way of the Wanderer.md",
