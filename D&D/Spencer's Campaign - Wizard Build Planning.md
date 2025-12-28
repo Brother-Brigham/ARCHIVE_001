@@ -1,12 +1,14 @@
-**Species** - Human
 - Creature Type: Humanoid
-- Size: **Medium** (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species
-- Speed: 30 feet
-- Resourceful. You gain [Heroic Inspiration](https://5e.tools/variantrules.html#heroic%20inspiration_xphb) whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
-- Skillful. You gain proficiency in one skill of your choice. (**Investigation**)
-- Versatile. You gain an [Origin feat](https://5e.tools/feats.html#blankhash,flstcategory:o=1) of your choice. (**Magic Initiate: Wizard**, Wis as Spellcasting Ability)
+- Size: Medium
+- Speed: 30 feet, Fly 30 feet
+- Age. Tieflings mature at the same rate as humans but live a few years longer.
+- Darkvision. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+- Hellish Resistance. You have resistance to fire damage.
+- Winged. You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing heavy armor.
+- Languages. You can speak, read, and write Common and Infernal.
+- Appearance. Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4+1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
 
-Going Human nets an extra Origin feat. Going with Magic Initiate: Wizard nets access to True Strike (so we can make weapon attacks w/ our Spellcasting Ability modifier), Booming Blade (tech choice for much later, once we have Spirit Guardians and try to keep it up), and Shield (One free cast /day, best defensive spell against AC attacks).
+Going Winged Tiefling gets free, at-will flight--very good for movement and positioning, especially kiting melee enemies. 
 
 Grabbing Investigation for flavour, proficiency will be a nice boost to the initial +0 on Int checks. Consider Arcana for scribing spell scrolls, but can get that later.
 
