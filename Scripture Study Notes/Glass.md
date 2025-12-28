@@ -12,6 +12,7 @@
 > [!ldslib] [2 Corinthians 3:18](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/3?lang=eng&id=p18)
 > 18 But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
 
-> [!ldslib] [James 1:23-24](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng&id=p23)
+> [!ldslib] [James 1:23-24](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng&id=p23-p24)
 > 23 For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:
+> 24 For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
 
