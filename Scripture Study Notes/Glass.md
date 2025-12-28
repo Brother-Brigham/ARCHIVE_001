@@ -6,4 +6,4 @@
 
 (Job 37:18 - more accurate to render "glass" as "mirror")
 
-:1 Corinthians 
+:1 Corinthians 13 12
