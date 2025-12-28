@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "849f7437877cc29b",
+  "active": "eac05450a82df89b",
   "lastOpenFiles": [
-    "Scripture Study Notes/Glass.md",
     "Earth.md",
+    "Scripture Study Notes/Glass.md",
     "Heaven.md",
     "Scripture Study Notes/God.md",
     "Woman.md",
