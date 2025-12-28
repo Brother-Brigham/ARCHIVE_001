@@ -6,11 +6,6 @@ Ouroboros- [[Sea]] of [[Glass]] is [[Earth]]
 > [!ldslib] [Doctrine and Covenants 77:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=p1)
 > 1 Q. What is the sea of glass spoken of by John, 4th chapter, and 6th verse of the Revelation?A. It is the earth, in its sanctified, immortal, and eternal state.
 
-> [!ldslib] [Job 37:18](https://www.churchofjesuschrist.org/study/scriptures/ot/job/37?lang=eng&id=p18)
-> 18 Hast thou with him spread out the sky, which is strong, and as a molten looking glass?
-
-(Job 37:18 - more accurate to render "glass" as "mirror")
-
 > [!ldslib] [1 Corinthians 13:12](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng&id=p12)
 > 12 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 
