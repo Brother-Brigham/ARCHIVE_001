@@ -11,3 +11,6 @@
 
 The Most High [[God]] possesses (owns? controls?) [[Heaven]] and [[Earth]].
 
+> [!ldslib] [Genesis 24:3](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=eng&id=p3)
+> 3 And I will make thee swear by the Lord, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:
+
