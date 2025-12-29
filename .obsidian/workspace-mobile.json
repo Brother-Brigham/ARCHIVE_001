@@ -11,10 +11,14 @@
             "id": "849f7437877cc29b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WOTW Planning/Ito Kai.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ito Kai"
             }
           },
           {
