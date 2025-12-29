@@ -62,8 +62,27 @@ Progression:
 24. Durante complete
 25. Delphi Shield (1065)
 
-
-
+Alternate Progression:
+1. Myrmidon Start (0)
+2. Iron Sword (0)
+3. Celerity (50) (Agility skill)
+4. Lancereaver (75) (Effective against Lances)
+5. Armour Slayer (113) (Effective against armoured units)
+6. Horse Cutter (151) (Effective against cavalry/mounted units)
+7. Wyrm Slayer (189) (Effective against dragons and wyvern-mounted units)
+8. Swordmaster Promotion (200)
+9. Silver Sword (239) (Effective against monsters)
+10. Regal Blade (339) (Nullifies magic on contact with blade)
+11. Killing Edge (377) (increases critical hit ratio)
+12. Brave Sword (415) (enables two attacks per one turn attacking)
+13. Ito’s Blade Complete
+14. Adept (465) (Additional attack skill)
+15. Champion (Trueblade) Promotion (500)
+16. Nihil (515) (Nullifies enemy skills skill)
+17. Celerity 2 (565) (improved skill)
+18. Adept 2 (615) (improved skill)
+19. Nihil 2 (665) (improved skill)
+20. Delphi Shield (815) (deflects oncoming arrows)
 
 
 
