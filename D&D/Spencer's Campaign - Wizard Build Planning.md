@@ -24,10 +24,15 @@ Using Point Buy,
 | Str 9, Dex 13+1, Con 14, Int 15+2, Wis 13, Cha 8 |
 
 **Starting Equipment:**
+Taking starting gold. DM allowed Ranger starting gold instead of Wizard, so we have an overall budget of 200 gp. Take the following:
+- Scale Mail (50 gp)
+- Shield (10 gp)
+- Sprig of Mistletoe (1 gp)
+- Spellbook (2 gp)
+- 
 
 
-
-First purchasing goal is half-plate. After that, worry about
+First purchasing goal is half-plate. After that, worry about finding spellbooks and spell scrolls to fill out own spellbook. 
 
 **Class Progression**:
 
