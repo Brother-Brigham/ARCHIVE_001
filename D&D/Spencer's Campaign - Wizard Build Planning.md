@@ -17,7 +17,7 @@ Going Winged Tiefling gets free, at-will flight--very good for movement and posi
 - Tool Proficiency: [Thieves' Tools](https://5e.tools/items.html#thieves'%20tools_xphb)
 - Equipment: Choose A or **B**: (A) [2 Daggers](https://5e.tools/items.html#dagger_xphb), [Thieves' Tools](https://5e.tools/items.html#thieves'%20tools_xphb), [Crowbar](https://5e.tools/items.html#crowbar_xphb), [2 Pouches](https://5e.tools/items.html#pouch_xphb), [Traveler's Clothes](https://5e.tools/items.html#traveler's%20clothes_xphb), 16 GP; or (B) 50 GP
 
-Background is perfect for the desired character flavour, but needs one small tweak to the ability scores: swapping Intelligence for Wisdom. Put the +2 in Wisdom, and the +1 in either Dexterity or Constitution depending on point buy actions. I went with Dexterity to push it to 16.
+Background is perfect for the desired character flavour, the skills are nice to have (though we won’t be as good as a rogue) the feat is excellent, and the ability scores are perfect. Taking starting gold, rather than equipment.
 
 **Ability Scores**:
 Using Point Buy,
