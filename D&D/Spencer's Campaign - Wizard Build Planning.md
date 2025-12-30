@@ -50,27 +50,25 @@ Taking starting gold. DM allowed Ranger starting gold instead of Wizard, so we h
 - Jug (0.02 gp)
 - Sack (0.01 gp)
 
+If I did the math correctly, this loadout leaves us with 1 gold piece, 9 silver pieces, and 5 copper pieces. This homie is definitely living the “wretched” lifestyle, lmao.
 
 
-
-First purchasing goal is half-plate. After that, worry about finding spellbooks and spell scrolls to fill out own spellbook. 
+First purchasing goal is half-plate. After that, worry about finding spellbooks and spell scrolls to fill out own spellbook. Would be good to get a backup spellbook in case the main one goes missing.
 
 **Class Progression**:
 
-Level 1 - **Fighter 1**
-- Fighting Style: Defense is the pick here, but Archery was worth considering.
-- Second Wind: Very good, especially at lower levels. Will be more useful later when we take a second Fighter level.
-- Weapon Mastery: Greatsword, Longbow, and a flex pick. Tempted to pick up Shortbow or Rapier.
+Level 1 - **Wizard 1**
+- 
 
-Fighter 1 gets Constitution save proficiency. This will be crucial for boosting the utility we get from Cleric later when needing to maintain concentration. We also gain access to all armour, weapons, and shields, and our most important skill proficiency, Perception. Other skill pick is flexible, I'm going with Insight for now; might change by the time the campaign actually starts.
+{Explanation}
 
-Level 2 - Fighter 1/**Cleric 1**
+Level 2 - Wizard 1/**Ranger 1**
 - Spellcasting (Cantrips: Guidance, Mending, Spare the Dying; Level 1: Bless, Command, Cure Wounds, Guiding Bolt)
 - Divine Order (Thaumaturge: Thaumaturgy; Wis mod bonus to Arcana and Religion checks)
 
-This is step one of the core of our build. We're focusing on the Trickery Domain as our core identity, and building around it to supplement the core and strengthen its utility niches while trying to bolster our typical Cleric role and boost our single-target damage to a reasonable degree. 
+This is the armour dip. Also picking up weapon mastery and some utility spells, thx Ranger for something usable :)
 
-Level 3 - Fighter 1/**Cleric 2**
+Level 3 - **Wizard 2**/Ranger 1
 - Channel Divinity
 - Prepared Spells (Level 1: Bless, Command, Cure Wounds, Guiding Bolt, **Shield of Faith**)
 
