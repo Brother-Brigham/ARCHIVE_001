@@ -16,7 +16,7 @@ Story: Although he hails from a smaller part of Lycia, Ito was in no way raised 
 It started out small, with the silent liberation of several small hamlets from bandit groups and monsters as he slowly made his way back to his home village, building his strength and skill. Eventually he got to the place he used to call home, which was now overrun by a decently sized group of bandits. The bandits had gotten lazy in the years since they took over, as they felt invincible in their homemade "fortress" in the village center. Ito snuck in one night, silently and quickly executing a large number of careless, drunk men that had once killed his family and friends. He made his way through the place and found their leader, who he challenged to a duel. The drunken bandit "king" was unable to keep up with Ito's speed and fluidity in motion, and was quickly eviscerated and killed. Ito, now finished with what he came to do, left under the cover of the remaining darkness and began his search for someone to save, a fear in the back of his mind that he wouldn't be able to live up to his emotional need to do so.
 
 ## **Character Journal (Thread Log)**
-
+### 
 
 ## **Future Planning:**
 
