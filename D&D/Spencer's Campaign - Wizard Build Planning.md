@@ -27,7 +27,7 @@ Using Point Buy,
 
 
 
-First purchasing goal is half-plate. 
+First purchasing goal is half-plate. After that, worry about
 
 **Class Progression**:
 
