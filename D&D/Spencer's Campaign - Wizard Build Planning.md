@@ -51,6 +51,8 @@ Taking starting gold. DM allowed Ranger starting gold instead of Wizard, so we h
 - Sack (0.01 gp)
 
 
+
+
 First purchasing goal is half-plate. After that, worry about finding spellbooks and spell scrolls to fill out own spellbook. 
 
 **Class Progression**:
