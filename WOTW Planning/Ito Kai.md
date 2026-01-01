@@ -246,6 +246,7 @@ Ito did not intend to kill magic boy, but he did intend to win.
 
 ![[Notes_251227_091550_2c5.png]]
 Story Arc:
+- Learn from [[Theos Aletheios]] 
 - Gather materials for/execute forging process of Ito's Blade
 - Become Swordmaster
 - Complete Ito’s Blade
