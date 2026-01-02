@@ -9,14 +9,14 @@ Intellectual
 - Set up effective home lab for cybersecurity skills practicing
 - Take the free ArcX course on cybersecurity
 - Take Greek vocab more seriously
-- Start learning Russian (maybe?)
+- Start learning Russian (maybe? Best for career, but another language might be more fun. Arabic is another good one for career, but maybe not as good as Russian.)
 - Guitar 15 mins/day
 
 Social
 - Devote adequate time to the Study and Faith Society
 - Spend adequate time hanging out with other people (Cam and Maddie, Spencer and Claire, etc.)
 - Go on dates weekly when possible
-- Take more steps toward digital privacy
+- Take more steps toward digital privacy for personal life; segment which data is acceptably “public” and which isn’t
 
 Spiritual
 - Read scriptures for first 30 mins/day, increase to 1 hr/day if able

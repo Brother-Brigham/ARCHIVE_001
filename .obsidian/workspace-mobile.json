@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WOTW Planning/Ito Kai.md",
+                "file": "Journal Entries/2026 Jan 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ito Kai"
+              "title": "2026 Jan 1"
             },
             "group": "1966ecae018f61a3"
           },
@@ -226,6 +226,8 @@
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
     "Goals for 2026.md",
+    "Journal Entries/2026 Jan 1.md",
+    "Journal Entries",
     "WOTW Planning/Ito Kai.md",
     "WOTW Planning/Theos Aletheios.md",
     "Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
@@ -262,8 +264,6 @@
     "Scripture Study Notes/Man.md",
     "Scripture Study Notes",
     "Test.md",
-    "D&D",
-    "LICENSE",
-    "Scripture Study Notes/Lucifer.md"
+    "D&D"
   ]
 }
