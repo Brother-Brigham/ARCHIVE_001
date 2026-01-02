@@ -11,14 +11,12 @@
             "id": "bf74bbdd11008a34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "WOTW Planning/Ito Kai.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Notes_251227_091550_2c5.png"
               },
-              "icon": "lucide-file",
-              "title": "Ito Kai"
+              "icon": "lucide-image",
+              "title": "Notes_251227_091550_2c5"
             }
           }
         ]
@@ -196,6 +194,9 @@
   },
   "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "WOTW Planning/Ito Kai.md",
+    "Journal Entries/2026 Jan 1.md",
+    "Journal Entries",
     "Goals for 2026.md",
     "D&D/Spencer's Campaign - Wizard Build Planning.md",
     "WOTW Planning/Theos Aletheios.md",
@@ -204,7 +205,6 @@
     "Scripture Study Notes/Earth.md",
     "Untitled.canvas",
     "Scripture Study Notes/Glass.md",
-    "WOTW Planning/Ito Kai.md",
     "Scripture Study Notes/Woman.md",
     "Scripture Study Notes/Lucifer.md",
     "Scripture Study Notes/Man.md",
@@ -234,7 +234,6 @@
     "README.md",
     "Study Notes/God.md",
     "Study Notes/Jesus.md",
-    "Study Notes/Man.md",
     "Study Notes",
     "D&D"
   ]
