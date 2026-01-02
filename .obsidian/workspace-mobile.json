@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WOTW Planning/Theos Aletheios.md",
+                "file": "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theos Aletheios"
+              "title": "Spencer’s Campaign - Sorcerer Build Planning"
             },
             "group": "1966ecae018f61a3"
           },
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "D&D/Spencer's Campaign - Wizard Build Planning.md",
+            "file": "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,14 +225,16 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
+    "D&D/Spencer's Campaign - Trickster Build Planning.md",
+    "D&D/Spencer's Campaign - Wizard Build Planning.md",
+    "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
+    "WOTW Planning/Theos Aletheios.md",
     "Journal Entries/2026 Jan 1.md",
     "Goals for 2026.md",
     "Journal Entries",
     "WOTW Planning/Ito Kai.md",
-    "WOTW Planning/Theos Aletheios.md",
     "Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
     "Post Drafts for The Mountaineer",
-    "D&D/Spencer's Campaign - Wizard Build Planning.md",
     "Earth.md",
     "Scripture Study Notes/Glass.md",
     "Heaven.md",
@@ -253,7 +255,6 @@
     "Red Ivy Records",
     "README.md",
     "Attachments",
-    "D&D/Spencer's Campaign - Trickster Build Planning.md",
     "D&D/Spencer's Campaign - Trickster Planning.md",
     "Attachments/Notes_251227_091558_4fe.png",
     "WOTW Planning",
@@ -263,7 +264,6 @@
     "Scripture Study Notes/Jesus.md",
     "Scripture Study Notes/Man.md",
     "Scripture Study Notes",
-    "Test.md",
     "D&D"
   ]
 }
