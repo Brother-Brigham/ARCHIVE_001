@@ -1,5 +1,17 @@
 inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
 
+## Spell Lists
+### Species
+- **Cantrips:** Druidcraft
+- **Level 1:** Longstrider
+- **Level 2:** Pass Without Trace
+### Sorcerer
+- **Cantrips:** 
+- **Level 1:** 
+### Warlock
+- **Cantrips:** 
+- **Level 1:** 
+
 ## Starting Features
 ### Species
 **Elf (Wood Elf Lineage)**
@@ -45,7 +57,7 @@ You gain the following benefits.
 ### Spellcasting
 Drawing from your innate magic, you can cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](https://5e.tools/spells.html#blankhash,flstclass:sorcerer=1) later in the class's description.
 
-Cantrips. You know four Sorcerer cantrips of your choice. [Light](https://5e.tools/spells.html#light_xphb), [Prestidigitation](https://5e.tools/spells.html#prestidigitation_xphb), [Shocking Grasp](https://5e.tools/spells.html#shocking%20grasp_xphb), and [Sorcerous Burst](https://5e.tools/spells.html#sorcerous%20burst_xphb) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+**Cantrips**. You know four Sorcerer cantrips of your choice. [Light](https://5e.tools/spells.html#light_xphb), [Prestidigitation](https://5e.tools/spells.html#prestidigitation_xphb), [Shocking Grasp](https://5e.tools/spells.html#shocking%20grasp_xphb), and [Sorcerous Burst](https://5e.tools/spells.html#sorcerous%20burst_xphb) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
