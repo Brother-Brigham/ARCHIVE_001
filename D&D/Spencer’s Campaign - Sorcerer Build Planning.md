@@ -71,9 +71,9 @@ If another Sorcerer feature gives you spells that you always have prepared, thos
 
 **Changing Your Prepared Spells**. Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
 
-Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
+**Spellcasting Ability**. Charisma is your spellcasting ability for your Sorcerer spells.
 
-Spellcasting Focus. You can use an [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Sorcerer spells.
+**Spellcasting Focus**. You can use an [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Sorcerer spells.
 
 ### Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you can unleash that magic for 1 minute, during which you gain the following benefits:
