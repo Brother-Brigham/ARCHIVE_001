@@ -89,7 +89,6 @@ Replacing and Gaining Invocations. Whenever you gain a Warlock level, you can r
 When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
 
 You can't pick the same invocation more than once unless its description says otherwise.
-
 #### 
 
 ## Level 3: Sorcerer 1/Warlock 2
