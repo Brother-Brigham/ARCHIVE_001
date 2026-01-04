@@ -71,4 +71,25 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
 
-## Level 2: Sor
+## Level 2: Sorcerer 1/Warlock 1
+### Core Traits/Multiclassing
+**Primary Ability:** Charisma
+**Hit Point Die:** D8 per Warlock level
+**Hit Points per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](https://5e.tools/items.html#leather%20armor_xphb), [Sickle](https://5e.tools/items.html#sickle_xphb), 2 [Daggers](https://5e.tools/items.html#dagger_xphb), [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) ([orb](https://5e.tools/items.html#orb_xphb)), [Book](https://5e.tools/items.html#book_xphb) (occult lore), [Scholar's Pack](https://5e.tools/items.html#scholar's%20pack_xphb), and 15 GP; or (B) 100 GP
+**Armor Training:** [Light armor](https://5e.tools/items.html#blankhash,flsttype:light%20armor=1)
+
+### Eldritch Invocations
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "[Eldritch Invocation Options](https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:ei=1,flstsource:xphb=1)" section later in this class's description.
+
+Prerequisites. If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
+
+Replacing and Gaining Invocations. Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
+
+When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
+
+You can't pick the same invocation more than once unless its description says otherwise.
+
+#### 
+
+## Level 3: Sorcerer 1/Warlock 2
