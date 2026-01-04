@@ -34,6 +34,41 @@ You gain the following benefits.
 
 **Initiative Swap.** Immediately after you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can swap your [Initiative](https://5e.tools/variantrules.html#initiative_xphb) with the [Initiative](https://5e.tools/variantrules.html#initiative_xphb) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_xphb) condition.
 ### Ability Scores
-8 Str, 14 Dex, 
+8 Str, 14 Dex, 15+1 Con, 8 Int, 10 Wis, 15+2 Cha
 
+## Level 1: Sorcerer 1
+### Core Traits
+**Primary Ability:** Charisma
+**Hit Point Die:** D6 per Sorcerer level
+**Hit Points at Level 1:** 6 + Con. modifier<br>**Hit Points per additional Sorcerer Level:** D6 + your Con. modifier, or, 4 + your Con. modifier<br>**Saving Throw Proficiencies:** Constitution, Charisma<br>**Skill Proficiencies:** _Choose 2:_ Arcana, Deception, Insight, Intimidation, Persuasion, or Religion.<br>**Weapon Proficiencies:** [Simple weapons](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1)<br>**Starting Equipment:** _Choose A or B:_ (A) [Spear](https://5e.tools/items.html#spear_xphb), 2 [Daggers](https://5e.tools/items.html#dagger_xphb), [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) ([crystal](https://5e.tools/items.html#crystal_xphb)), [Dungeoneer's Pack](https://5e.tools/items.html#dungeoneer's%20pack_xphb), and 28 GP; or (B) 50 GP
 
+### Spellcasting
+Drawing from your innate magic, you can cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](https://5e.tools/spells.html#blankhash,flstclass:sorcerer=1) later in the class's description.
+
+Cantrips. You know four Sorcerer cantrips of your choice. [Light](https://5e.tools/spells.html#light_xphb), [Prestidigitation](https://5e.tools/spells.html#prestidigitation_xphb), [Shocking Grasp](https://5e.tools/spells.html#shocking%20grasp_xphb), and [Sorcerous Burst](https://5e.tools/spells.html#sorcerous%20burst_xphb) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+
+When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
+
+Spell Slots. The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [Burning Hands](https://5e.tools/spells.html#burning%20hands_xphb) and [Detect Magic](https://5e.tools/spells.html#detect%20magic_xphb) are recommended.
+
+The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
+
+If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
+
+Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+
+Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
+
+Spellcasting Focus. You can use an [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Sorcerer spells.
+
+### Innate Sorcery
+An event in your past left an indelible mark on you, infusing you with simmering magic. As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you can unleash that magic for 1 minute, during which you gain the following benefits:
+
+- The spell save DC of your Sorcerer spells increases by 1.
+- You have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on the attack rolls of Sorcerer spells you cast.
+
+You can use this feature twice, and you regain all expended uses of it when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+## Level 2: Sor
