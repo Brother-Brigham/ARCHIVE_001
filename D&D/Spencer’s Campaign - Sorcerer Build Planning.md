@@ -3,20 +3,22 @@ inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
 ## Starting Features:
 ### Species
 **Elf (Wood Elf Lineage)**
-- Creature Type: Humanoid
+- **Creature Type**: Humanoid
+- **Size**: Medium (about 5-6 feet tall)
+- **Speed**: 30 feet 
 
-- Size: Medium (about 5-6 feet tall)
-    
-- Speed: 30 feet 
-    
+**Darkvision**. You have Darkvision with a range of 60 feet.
 
-Darkvision. You have Darkvision with a range of 60 feet.
-
-Elven Lineage. You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
+**Elven Lineage.** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
 
 When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). You can also cast the spell using any spell slots you have of the appropriate level.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+Intelligence, Wisdom, or **Charisma** is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+
+Wood Elf 
+- Your [Speed](https://5e.tools/variantrules.html#speed_xphb) increases to 35 feet. You also know the [Druidcraft](https://5e.tools/spells.html#druidcraft_xphb)cantrip.
+- Level 3: [Longstrider](https://5e.tools/spells.html#longstrider_xphb) 
+- Level 5: [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_xphb)
 ### Background
 #### Inquisitive
 You have honed your talents of investigation and deduction—fueled by a boundless curiosity—to explore mysteries, find missing people, recover stolen goods, unearth corruption and conspiracies, and solve crimes. As an inquisitive, you might have pursued freelance work, signed on with an inquisitive agency (perhaps one licensed by a dragonmarked house such as Medani or Tharashk), reported for a broadsheet, or worked for a police force.
@@ -32,5 +34,6 @@ You gain the following benefits.
 
 **Initiative Swap.** Immediately after you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can swap your [Initiative](https://5e.tools/variantrules.html#initiative_xphb) with the [Initiative](https://5e.tools/variantrules.html#initiative_xphb) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_xphb) condition.
 ### Ability Scores
+8 Str, 14 Dex, 
 
 
