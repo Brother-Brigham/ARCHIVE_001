@@ -180,4 +180,12 @@ The number of times you can cast the spell without a spell slot increases when y
 Your training with weapons allows you to use the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of two kinds of [weapons](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1~martial%20weapon=1) of your choice with which you have proficiency, such as [Longbows](https://5e.tools/items.html#longbow_xphb) and [Shortswords](https://5e.tools/items.html#shortsword_xphb).
 
 Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of [Scimitars](https://5e.tools/items.html#scimitar_xphb) and [Longswords](https://5e.tools/items.html#longsword_xphb).
+## Level 5: Sorcerer 2/Warlock 2/Ranger 1
+### Metamagic
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "[Metamagic Options](https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:mm=1,flstsource:xphb=1)" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+
+You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
+
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+#### Metamagic Options
 
