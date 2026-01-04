@@ -15,7 +15,7 @@ inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
 - **Cantrips:** Minor Illusion, Mold Earth
 - **Level 1:** Shield
 ### Ranger
-- **Level 1:** Goodberry, Cure Wounds
+- **Level 1:** Goodberry, Cure Wounds, Hunter’s Mark
 
 ## Starting Features
 ### Species
@@ -149,5 +149,35 @@ You gain the following benefits.
 **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
 ## Level 4: Sorcerer 1/Warlock 2/Ranger 1
+### Core Traits/Multiclassing
+**Primary Ability:** Dexterity and Wisdom
+**Hit Point Die:** D10 per Ranger level
+**Hit Points per additional Ranger Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**Skill Proficiencies:** _Choose 1:_ Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival.
+**Weapon Proficiencies:** [Martial weapons](https://5e.tools/items.html#blankhash,flsttype:martial%20weapon=1)
+**Armor Training:** [Light](https://5e.tools/items.html#blankhash,flsttype:light%20armor=1) and [Medium armor](https://5e.tools/items.html#blankhash,flsttype:medium%20armor=1) and [Shields](https://5e.tools/items.html#shield_xphb).
+### Spellcasting
+You have learned to channel the magical essence of nature to cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](https://5e.tools/spells.html#blankhash,flstclass:ranger=1) later in the class's description.
 
+**Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two [level 1 Ranger spells](https://5e.tools/spells.html#blankhash,flstclass:ranger=1,flstlevel:1=1). [Cure Wounds](https://5e.tools/spells.html#cure%20wounds_xphb) and [Ensnaring Strike](https://5e.tools/spells.html#ensnaring%20strike_xphb) are recommended.
+
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
+
+If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
+
+**Changing Your Prepared Spells**. Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can replace one spell on your list with another Ranger spell for which you have spell slots.
+
+**Spellcasting Ability**. Wisdom is your spellcasting ability for your Ranger spells.
+
+**Spellcasting Focus**. You can use a [Druidic Focus](https://5e.tools/items.html#druidic%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Ranger spells.
+### Favored Enemy
+You always have the [Hunter's Mark](https://5e.tools/spells.html#hunter's%20mark_xphb) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
+### Weapon Mastery
+Your training with weapons allows you to use the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of two kinds of [weapons](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1~martial%20weapon=1) of your choice with which you have proficiency, such as [Longbows](https://5e.tools/items.html#longbow_xphb) and [Shortswords](https://5e.tools/items.html#shortsword_xphb).
+
+Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of [Scimitars](https://5e.tools/items.html#scimitar_xphb) and [Longswords](https://5e.tools/items.html#longsword_xphb).
 
