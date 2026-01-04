@@ -6,14 +6,14 @@ inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
 - **Level 1:** Longstrider
 - **Level 2:** Pass Without Trace
 ### Sorcerer
-- **Cantrips:** 
-- **Level 1:** 
+- **Cantrips:** Minor Illusion, Mold Earth, Mind Sliver, Sorcerous Burst
+- **Level 1:** Absorb Elements, Grease
 ### Warlock
-- **Cantrips:** True Strike, 
+- **Cantrips:** True Strike, Magic Stone
 - **Level 1:** 
 ### Magic Initiate (Wizard)
 - **Cantrips:** 
-- **Level 1:** 
+- **Level 1:** Shield
 ### Ranger
 - **Cantrips:** 
 - **Level 1:** 
