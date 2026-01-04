@@ -46,7 +46,7 @@ You gain the following benefits.
 
 **Initiative Swap.** Immediately after you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can swap your [Initiative](https://5e.tools/variantrules.html#initiative_xphb) with the [Initiative](https://5e.tools/variantrules.html#initiative_xphb) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_xphb) condition.
 ### Ability Scores
-8 Str, 14 Dex, 15+1 Con, 8 Int, 10 Wis, 15+2 Cha
+9 Str, 14 Dex, 13+1 Con, 8 Int, 13 Wis, 15+2 Cha
 
 ## Level 1: Sorcerer 1
 ### Core Traits
@@ -135,5 +135,7 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstdamage%20type:acid=1~bludgeoning=1~cold=1~fire=1~force=1~lightning=1~necrotic=1~piercing=1~poison=1~psychic=1~radiant=1~slashing=1~thunder=1) that deals damage. You can add your Charisma modifier to that spell's damage rolls.
 #### Repelling Blast
 Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstspell%20attack:m=1~r=1~o=1) that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
+
+#### 
 
 
