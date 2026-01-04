@@ -15,7 +15,7 @@ inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
 - **Cantrips:** Minor Illusion, Mold Earth
 - **Level 1:** Shield
 ### Ranger
-- **Level 1:** 
+- **Level 1:** Goodberry, Cure Wounds
 
 ## Starting Features
 ### Species
@@ -137,9 +137,9 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 ### Additional Invocations
 #### Agonizing Blast
-Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstdamage%20type:acid=1~bludgeoning=1~cold=1~fire=1~force=1~lightning=1~necrotic=1~piercing=1~poison=1~psychic=1~radiant=1~slashing=1~thunder=1) that deals damage. You can add your Charisma modifier to that spell's damage rolls.
+Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstdamage%20type:acid=1~bludgeoning=1~cold=1~fire=1~force=1~lightning=1~necrotic=1~piercing=1~poison=1~psychic=1~radiant=1~slashing=1~thunder=1) that deals damage (True Strike). You can add your Charisma modifier to that spell's damage rolls.
 #### Repelling Blast
-Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstspell%20attack:m=1~r=1~o=1) that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
+Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstspell%20attack:m=1~r=1~o=1) that requires an attack roll (True Strike). When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 #### Lessons of the First Ones (drop Eldritch Mind)
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one [Origin feat](https://5e.tools/feats.html#blankhash,flstcategory:o=1) of your choice.
 ##### Magic Initiate (Wizard)
@@ -147,5 +147,7 @@ You gain the following benefits.
 **Two Cantrips.** You learn two cantrips of your choice from the [Cleric](https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:cleric=1), [Druid](https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:druid=1), or [Wizard](https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:wizard=1) spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 **Level 1 Spell.** Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). You can also cast the spell using any spell slots you have.
 **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+
+## Level 4: Sorcerer 1/Warlock 2/Ranger 1
 
 
