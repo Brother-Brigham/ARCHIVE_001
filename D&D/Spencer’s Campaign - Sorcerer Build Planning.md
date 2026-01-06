@@ -1,5 +1,10 @@
 inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
+## Backstory
+*Legend has it—in a mystic land, far away—there was once a thief so sharp, and so cunning, that even the gods feared him. Since no place could keep him out, he was thrown alive into a crucible of molten iron. There his  incorrigible spirit was captured, in the form of a great black key. For uncounted centuries The Black Key lay hidden while ambitious men searched for it, knowing whoever possessed it would have the power to enter the realms of the gods themselves. And with it, join them.*
 
+*I seek The Black Key. Not for reasons of gain, or delusion of grandeur. To enter the heavens is to fulfil The Deviant’s true call—a call to test the even the gods.* 
+
+*I’ve made a career of getting into places I shouldn’t, for the express purpose of making them better. Alone, with crews, clandestinely, in plain sight. If I can get in, so can someone else. You’re just lucky I’m on your side.*
 ## Spell Lists
 ### Species
 - **Cantrips:** Druidcraft
@@ -88,7 +93,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
 
-## Level 2: Sorcerer 1/Warlock 1
+## Level 2: Warlock 1
 ### Core Traits/Multiclassing
 **Primary Ability:** Charisma
 **Hit Point Die:** D8 per Warlock level
@@ -131,7 +136,7 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 **Spellcasting Focus**. You can use an [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Warlock spells.
 
-## Level 3: Sorcerer 1/Warlock 2
+## Level 3: Warlock 2
 ### Magical Cunning
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
 
@@ -148,7 +153,7 @@ You gain the following benefits.
 **Level 1 Spell.** Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). You can also cast the spell using any spell slots you have.
 **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
-## Level 4: Sorcerer 1/Warlock 2/Ranger 1
+## Level 4: Ranger 1
 ### Core Traits/Multiclassing
 **Primary Ability:** Dexterity and Wisdom
 **Hit Point Die:** D10 per Ranger level
@@ -180,7 +185,27 @@ The number of times you can cast the spell without a spell slot increases when y
 Your training with weapons allows you to use the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of two kinds of [weapons](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1~martial%20weapon=1) of your choice with which you have proficiency, such as [Longbows](https://5e.tools/items.html#longbow_xphb) and [Shortswords](https://5e.tools/items.html#shortsword_xphb).
 
 Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of [Scimitars](https://5e.tools/items.html#scimitar_xphb) and [Longswords](https://5e.tools/items.html#longsword_xphb).
-## Level 5: Sorcerer 2/Warlock 2/Ranger 1
+## Level 5: Sorcerer 2
+### Font of Magic
+You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
+
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
+
+**Converting Spell Slots to Sorcery Points.** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
+
+**Creating Spell Slots.** As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+
+Any spell slot you create with this feature vanishes when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+| Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
+| ---------------- | ------------------ | ------------------- |
+| 1                | 2                  | 2                   |
+| 2                | 3                  | 3                   |
+| 3                | 5                  | 5                   |
+| 4                | 6                  | 7                   |
+| 5                | 7                  | 9                   |
 ### Metamagic
 Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "[Metamagic Options](https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:mm=1,flstsource:xphb=1)" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
@@ -188,4 +213,9 @@ You can use only one Metamagic option on a spell when you cast it unless otherwi
 
 Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 #### Metamagic Options
-
+##### Subtle Spell
+_Cost: 1 Sorcery Point_
+When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
+##### Twinned Spell
+_Cost: 1 Sorcery Point_
+When you cast a spell, such as [Charm Person](https://5e.tools/spells.html#charm%20person_xphb), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
