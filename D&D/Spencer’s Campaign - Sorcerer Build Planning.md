@@ -1,0 +1,221 @@
+inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
+## Backstory
+*Legend has it—in a mystic land, far away—there was once a thief so sharp, and so cunning, that even the gods feared him. Since no place could keep him out, he was thrown alive into a crucible of molten iron. There his  incorrigible spirit was captured, in the form of a great black key. For uncounted centuries The Black Key lay hidden while ambitious men searched for it, knowing whoever possessed it would have the power to enter the realms of the gods themselves. And with it, join them.*
+
+*I seek The Black Key. Not for reasons of gain, or delusion of grandeur. To enter the heavens is to fulfil The Deviant’s true call—a call to test the even the gods.* 
+
+*I’ve made a career of getting into places I shouldn’t, for the express purpose of making them better. Alone, with crews, clandestinely, in plain sight. If I can get in, so can someone else. You’re just lucky I’m on your side.*
+## Spell Lists
+### Species
+- **Cantrips:** Druidcraft
+- **Level 1:** Longstrider
+- **Level 2:** Pass Without Trace
+### Sorcerer
+- **Cantrips:** , , Mind Sliver, Sorcerous Burst
+- **Level 1:** Absorb Elements, Grease
+### Warlock
+- **Cantrips:** True Strike, Magic Stone
+- **Level 1:** 
+### Magic Initiate (Wizard)
+- **Cantrips:** Minor Illusion, Mold Earth
+- **Level 1:** Shield
+### Ranger
+- **Level 1:** Goodberry, Cure Wounds, Hunter’s Mark
+
+## Starting Features
+### Species
+**Elf (Wood Elf Lineage)**
+- **Creature Type**: Humanoid
+- **Size**: Medium (about 5-6 feet tall)
+- **Speed**: 30 feet 
+
+**Darkvision**. You have Darkvision with a range of 60 feet.
+
+**Elven Lineage.** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
+
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). You can also cast the spell using any spell slots you have of the appropriate level.
+
+Intelligence, Wisdom, or **Charisma** is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+
+Wood Elf 
+- Your [Speed](https://5e.tools/variantrules.html#speed_xphb) increases to 35 feet. You also know the [Druidcraft](https://5e.tools/spells.html#druidcraft_xphb)cantrip.
+- Level 3: [Longstrider](https://5e.tools/spells.html#longstrider_xphb) 
+- Level 5: [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_xphb)
+### Background
+#### Inquisitive
+You have honed your talents of investigation and deduction—fueled by a boundless curiosity—to explore mysteries, find missing people, recover stolen goods, unearth corruption and conspiracies, and solve crimes. As an inquisitive, you might have pursued freelance work, signed on with an inquisitive agency (perhaps one licensed by a dragonmarked house such as Medani or Tharashk), reported for a broadsheet, or worked for a police force.
+- Ability Scores: Constitution, Intelligence, Charisma
+- Feat: [Alert](https://5e.tools/feats.html#alert_xphb)
+- Skill Proficiencies: Insight and Investigation
+- Tool Proficiencies: [Thieves' Tools](https://5e.tools/items.html#thieves'%20tools_xphb)
+- Equipment: Choose A or B: (A) [Thieves' Tools](https://5e.tools/items.html#thieves'%20tools_xphb), [Bullseye Lantern](https://5e.tools/items.html#bullseye%20lantern_xphb), [Crowbar](https://5e.tools/items.html#crowbar_xphb), [Oil](https://5e.tools/items.html#oil_xphb) (10 flasks), [Traveler's Clothes](https://5e.tools/items.html#traveler's%20clothes_xphb), 10 GP; or (B) 50 GP
+#### Alert
+You gain the following benefits.
+
+**Initiative Proficiency.** When you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to the roll.
+
+**Initiative Swap.** Immediately after you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can swap your [Initiative](https://5e.tools/variantrules.html#initiative_xphb) with the [Initiative](https://5e.tools/variantrules.html#initiative_xphb) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_xphb) condition.
+### Ability Scores
+9 Str, 14 Dex, 13+1 Con, 8 Int, 13 Wis, 15+2 Cha
+
+## Level 1: Sorcerer 1
+### Core Traits
+**Primary Ability:** Charisma
+**Hit Point Die:** D6 per Sorcerer level
+**Hit Points at Level 1:** 6 + Con. modifier<br>**Hit Points per additional Sorcerer Level:** D6 + your Con. modifier, or, 4 + your Con. modifier<br>**Saving Throw Proficiencies:** Constitution, Charisma<br>**Skill Proficiencies:** _Choose 2:_ Arcana, Deception, Insight, Intimidation, Persuasion, or Religion.<br>**Weapon Proficiencies:** [Simple weapons](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1)<br>**Starting Equipment:** _Choose A or B:_ (A) [Spear](https://5e.tools/items.html#spear_xphb), 2 [Daggers](https://5e.tools/items.html#dagger_xphb), [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) ([crystal](https://5e.tools/items.html#crystal_xphb)), [Dungeoneer's Pack](https://5e.tools/items.html#dungeoneer's%20pack_xphb), and 28 GP; or (B) 50 GP
+
+### Spellcasting
+Drawing from your innate magic, you can cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](https://5e.tools/spells.html#blankhash,flstclass:sorcerer=1) later in the class's description.
+
+**Cantrips**. You know four Sorcerer cantrips of your choice. [Light](https://5e.tools/spells.html#light_xphb), [Prestidigitation](https://5e.tools/spells.html#prestidigitation_xphb), [Shocking Grasp](https://5e.tools/spells.html#shocking%20grasp_xphb), and [Sorcerous Burst](https://5e.tools/spells.html#sorcerous%20burst_xphb) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+
+When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
+
+**Spell Slots**. The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [Burning Hands](https://5e.tools/spells.html#burning%20hands_xphb) and [Detect Magic](https://5e.tools/spells.html#detect%20magic_xphb) are recommended.
+
+The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
+
+If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
+
+**Changing Your Prepared Spells**. Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+
+**Spellcasting Ability**. Charisma is your spellcasting ability for your Sorcerer spells.
+
+**Spellcasting Focus**. You can use an [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Sorcerer spells.
+
+### Innate Sorcery
+An event in your past left an indelible mark on you, infusing you with simmering magic. As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you can unleash that magic for 1 minute, during which you gain the following benefits:
+
+- The spell save DC of your Sorcerer spells increases by 1.
+- You have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on the attack rolls of Sorcerer spells you cast.
+
+You can use this feature twice, and you regain all expended uses of it when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+## Level 2: Warlock 1
+### Core Traits/Multiclassing
+**Primary Ability:** Charisma
+**Hit Point Die:** D8 per Warlock level
+**Hit Points per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](https://5e.tools/items.html#leather%20armor_xphb), [Sickle](https://5e.tools/items.html#sickle_xphb), 2 [Daggers](https://5e.tools/items.html#dagger_xphb), [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) ([orb](https://5e.tools/items.html#orb_xphb)), [Book](https://5e.tools/items.html#book_xphb) (occult lore), [Scholar's Pack](https://5e.tools/items.html#scholar's%20pack_xphb), and 15 GP; or (B) 100 GP
+**Armor Training:** [Light armor](https://5e.tools/items.html#blankhash,flsttype:light%20armor=1)
+
+### Eldritch Invocations
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "[Eldritch Invocation Options](https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:ei=1,flstsource:xphb=1)" section later in this class's description.
+
+Prerequisites. If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
+
+Replacing and Gaining Invocations. Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
+
+When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
+
+You can't pick the same invocation more than once unless its description says otherwise.
+#### Eldritch Mind
+You have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on Constitution saving throws that you make to maintain [Concentration](https://5e.tools/conditionsdiseases.html#concentration_xphb).
+### Pact Magic
+Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](https://5e.tools/spells.html#blankhash,flstclass:warlock=1) later in the class's description.
+
+**Cantrips**. You know two Warlock cantrips of your choice. [Eldritch Blast](https://5e.tools/spells.html#eldritch%20blast_xphb) and [Prestidigitation](https://5e.tools/spells.html#prestidigitation_xphb) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+
+When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
+
+**Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](https://5e.tools/spells.html#witch%20bolt_xphb), you must spend one of those slots, and you cast it as a level 3 spell.
+
+**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](https://5e.tools/spells.html#charm%20person_xphb) and [Hex](https://5e.tools/spells.html#hex_xphb) are recommended.
+
+The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
+
+If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
+
+**Changing Your Prepared Spells**. Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
+
+**Spellcasting Ability**. Charisma is the spellcasting ability for your Warlock spells.
+
+**Spellcasting Focus**. You can use an [Arcane Focus](https://5e.tools/items.html#arcane%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Warlock spells.
+
+## Level 3: Warlock 2
+### Magical Cunning
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+### Additional Invocations
+#### Agonizing Blast
+Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstdamage%20type:acid=1~bludgeoning=1~cold=1~fire=1~force=1~lightning=1~necrotic=1~piercing=1~poison=1~psychic=1~radiant=1~slashing=1~thunder=1) that deals damage (True Strike). You can add your Charisma modifier to that spell's damage rolls.
+#### Repelling Blast
+Choose one of your known [Warlock cantrips](https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1,flstspell%20attack:m=1~r=1~o=1) that requires an attack roll (True Strike). When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
+#### Lessons of the First Ones (drop Eldritch Mind)
+You have received knowledge from an elder entity of the multiverse, allowing you to gain one [Origin feat](https://5e.tools/feats.html#blankhash,flstcategory:o=1) of your choice.
+##### Magic Initiate (Wizard)
+You gain the following benefits.
+**Two Cantrips.** You learn two cantrips of your choice from the [Cleric](https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:cleric=1), [Druid](https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:druid=1), or [Wizard](https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:wizard=1) spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+**Level 1 Spell.** Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). You can also cast the spell using any spell slots you have.
+**Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+
+## Level 4: Ranger 1
+### Core Traits/Multiclassing
+**Primary Ability:** Dexterity and Wisdom
+**Hit Point Die:** D10 per Ranger level
+**Hit Points per additional Ranger Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**Skill Proficiencies:** _Choose 1:_ Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival.
+**Weapon Proficiencies:** [Martial weapons](https://5e.tools/items.html#blankhash,flsttype:martial%20weapon=1)
+**Armor Training:** [Light](https://5e.tools/items.html#blankhash,flsttype:light%20armor=1) and [Medium armor](https://5e.tools/items.html#blankhash,flsttype:medium%20armor=1) and [Shields](https://5e.tools/items.html#shield_xphb).
+### Spellcasting
+You have learned to channel the magical essence of nature to cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](https://5e.tools/spells.html#blankhash,flstclass:ranger=1) later in the class's description.
+
+**Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two [level 1 Ranger spells](https://5e.tools/spells.html#blankhash,flstclass:ranger=1,flstlevel:1=1). [Cure Wounds](https://5e.tools/spells.html#cure%20wounds_xphb) and [Ensnaring Strike](https://5e.tools/spells.html#ensnaring%20strike_xphb) are recommended.
+
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
+
+If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
+
+**Changing Your Prepared Spells**. Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can replace one spell on your list with another Ranger spell for which you have spell slots.
+
+**Spellcasting Ability**. Wisdom is your spellcasting ability for your Ranger spells.
+
+**Spellcasting Focus**. You can use a [Druidic Focus](https://5e.tools/items.html#druidic%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Ranger spells.
+### Favored Enemy
+You always have the [Hunter's Mark](https://5e.tools/spells.html#hunter's%20mark_xphb) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
+### Weapon Mastery
+Your training with weapons allows you to use the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of two kinds of [weapons](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1~martial%20weapon=1) of your choice with which you have proficiency, such as [Longbows](https://5e.tools/items.html#longbow_xphb) and [Shortswords](https://5e.tools/items.html#shortsword_xphb).
+
+Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](https://5e.tools/variantrules.html#weapon%20mastery%20properties_xphb) of [Scimitars](https://5e.tools/items.html#scimitar_xphb) and [Longswords](https://5e.tools/items.html#longsword_xphb).
+## Level 5: Sorcerer 2
+### Font of Magic
+You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
+
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
+
+**Converting Spell Slots to Sorcery Points.** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
+
+**Creating Spell Slots.** As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+
+Any spell slot you create with this feature vanishes when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+| Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
+| ---------------- | ------------------ | ------------------- |
+| 1                | 2                  | 2                   |
+| 2                | 3                  | 3                   |
+| 3                | 5                  | 5                   |
+| 4                | 6                  | 7                   |
+| 5                | 7                  | 9                   |
+### Metamagic
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "[Metamagic Options](https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:mm=1,flstsource:xphb=1)" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+
+You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
+
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+#### Metamagic Options
+##### Subtle Spell
+_Cost: 1 Sorcery Point_
+When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
+##### Twinned Spell
+_Cost: 1 Sorcery Point_
+When you cast a spell, such as [Charm Person](https://5e.tools/spells.html#charm%20person_xphb), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.

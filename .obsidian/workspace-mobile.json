@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal Entries/2026 Jan 1.md",
+                "file": "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026 Jan 1"
-            },
-            "group": "1966ecae018f61a3"
+              "title": "Spencer’s Campaign - Sorcerer Build Planning"
+            }
           },
           {
             "id": "eac05450a82df89b",
@@ -31,50 +30,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "59b2540a6ec7a004",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e25a861b692956b5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "WOTW Planning/Ito Kai.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 2.4049448677685623,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "1966ecae018f61a3"
           }
         ]
       }
@@ -167,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "D&D/Spencer's Campaign - Wizard Build Planning.md",
+            "file": "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,14 +180,16 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
-    "Goals for 2026.md",
+    "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
+    "D&D/Spencer's Campaign - Trickster Build Planning.md",
+    "D&D/Spencer's Campaign - Wizard Build Planning.md",
+    "WOTW Planning/Theos Aletheios.md",
     "Journal Entries/2026 Jan 1.md",
+    "Goals for 2026.md",
     "Journal Entries",
     "WOTW Planning/Ito Kai.md",
-    "WOTW Planning/Theos Aletheios.md",
     "Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
     "Post Drafts for The Mountaineer",
-    "D&D/Spencer's Campaign - Wizard Build Planning.md",
     "Earth.md",
     "Scripture Study Notes/Glass.md",
     "Heaven.md",
@@ -253,7 +210,6 @@
     "Red Ivy Records",
     "README.md",
     "Attachments",
-    "D&D/Spencer's Campaign - Trickster Build Planning.md",
     "D&D/Spencer's Campaign - Trickster Planning.md",
     "Attachments/Notes_251227_091558_4fe.png",
     "WOTW Planning",
@@ -263,7 +219,6 @@
     "Scripture Study Notes/Jesus.md",
     "Scripture Study Notes/Man.md",
     "Scripture Study Notes",
-    "Test.md",
     "D&D"
   ]
 }
