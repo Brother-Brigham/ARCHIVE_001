@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/W26/POLSC100/7 Jan 2026.md",
+                "file": "To-do List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Jan 2026"
+              "title": "To-do List"
             }
           }
         ]
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a1dac495db7288",
+  "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "Course Notes/W26/POLSC100/7 Jan 2026.md",
+    "To-do List.md",
     "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
     "Attachments/Notes_251227_091550_2c5.png",
-    "Course Notes/W26/POLSC100/7 Jan 2026.md",
     "Course Notes/W26/POLSC100",
     "Course Notes/W26",
     "Course Notes",
@@ -237,7 +238,6 @@
     "Notes_251227_091605_7fa.png",
     "Notes_251227_091558_4fe.png",
     "Notes_251227_091550_2c5.png",
-    "D&D/Spencer's Campaign - Trickster Build Planning.md",
-    "README.md"
+    "D&D/Spencer's Campaign - Trickster Build Planning.md"
   ]
 }
