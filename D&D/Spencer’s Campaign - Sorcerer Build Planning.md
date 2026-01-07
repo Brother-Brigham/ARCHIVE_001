@@ -4,7 +4,7 @@ inspiration - https://youtu.be/6um5kDCcL9w?si=AlJ0XYCY3czu7Lw-
 
 *I seek The Black Key. Not for reasons of gain, or delusion of grandeur. To enter the heavens is to fulfil The Deviant’s true call—a call to test the even the gods.* 
 
-*I’ve made a career of getting into places I shouldn’t, for the express purpose of making them better. Alone, with crews, clandestinely, in plain sight. If I can get in, so can someone else. You’re just lucky I’m on your side.*
+*There's nothing I want more than to get in where I am kept out. I’ve made a career of it, for the express purpose of making such places better. Alone, with crews, clandestinely, in plain sight. If I can get in, so can someone else. You’re just lucky that getting in is all I want.*
 ## Spell Lists
 ### Species
 - **Cantrips:** Druidcraft
