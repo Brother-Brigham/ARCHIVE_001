@@ -11,12 +11,14 @@
             "id": "bf74bbdd11008a34",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Notes_251227_091550_2c5.png"
+                "file": "Course Notes/W26/POLSC100/7 Jan 2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Notes_251227_091550_2c5"
+              "icon": "lucide-file",
+              "title": "7 Jan 2026"
             }
           }
         ]
@@ -194,6 +196,11 @@
   },
   "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "Attachments/Notes_251227_091550_2c5.png",
+    "Course Notes/W26/POLSC100/7 Jan 2026.md",
+    "Course Notes/W26/POLSC100",
+    "Course Notes/W26",
+    "Course Notes",
     "WOTW Planning/Ito Kai.md",
     "Journal Entries/2026 Jan 1.md",
     "Journal Entries",
@@ -224,17 +231,12 @@
     "Scripture Study Notes/Heaven.md",
     "Attachments/Notes_251227_091605_7fa.png",
     "Attachments/Notes_251227_091558_4fe.png",
-    "Attachments/Notes_251227_091550_2c5.png",
     "Attachments",
     "WOTW Planning",
     "Notes_251227_091605_7fa.png",
     "Notes_251227_091558_4fe.png",
     "Notes_251227_091550_2c5.png",
     "D&D/Spencer's Campaign - Trickster Build Planning.md",
-    "README.md",
-    "Study Notes/God.md",
-    "Study Notes/Jesus.md",
-    "Study Notes",
-    "D&D"
+    "README.md"
   ]
 }
