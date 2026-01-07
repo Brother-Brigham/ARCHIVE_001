@@ -32,3 +32,8 @@ Wednesday
 Thursday
 - [ ] W02 Current Events Commentary
 - [ ] CH 02 Simulation and Quiz
+- [ ] POLSC100 Upload Resume
+- [ ] What is Political Science?
+Friday
+- [ ] SSC Week 2: Administrative Policies, Record Keeping, and Reporting
+- [ ] 
