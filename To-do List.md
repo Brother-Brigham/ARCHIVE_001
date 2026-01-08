@@ -1,9 +1,10 @@
-Wednesday
+Today
 - [ ] POLSC110 Ebook Reading Ch. 1
 - [ ] POLSC110 A More Perfect Union Part 1 Video Upload
 - [ ] POLSC110 A More Perfect Union Part 2 Discussion Post
 - [ ] ITM 112 Linux Distributions Research
 - [ ] Covenant and Plan Outline
+- [ ] Athenaze 13a story
 Thursday
 - [ ] Covenant and Plan Reading/Attendance
 - [ ] Buddy Focus Paper
