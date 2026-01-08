@@ -3,9 +3,8 @@ Today
 - [ ] POLSC110 A More Perfect Union Part 1 Video Upload
 - [ ] POLSC110 A More Perfect Union Part 2 Discussion Post
 - [ ] ITM 112 Linux Distributions Research
-- [ ] Covenant and Plan Outline
-- [ ] Athenaze 13a story
-Thursday
+- [x] Covenant and Plan Outline
+- [x] Athenaze 13a story
 - [ ] Covenant and Plan Reading/Attendance
 - [ ] Buddy Focus Paper
 - [ ] InQuizitive Chapter 01
