@@ -329,6 +329,7 @@ Progression:
 11. Killing Edge (377) (increases critical hit ratio)
 12. Brave Sword (415) (enables two attacks per one turn attacking)
 13. Ito’s Blade Complete
+![[Pasted image 20260107233958.png]]
 14. Adept (465) (Additional attack skill)
 15. Champion (Trueblade) Promotion (500)
 16. Nihil (515) (Nullifies enemy skills skill)
