@@ -11,14 +11,12 @@
             "id": "849f7437877cc29b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "To-do List.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Pasted image 20260107233958.png"
               },
-              "icon": "lucide-file",
-              "title": "To-do List"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260107233958"
             }
           },
           {
@@ -180,8 +178,10 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
-    "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
+    "WOTW Planning/Ito Kai.md",
+    "Attachments/Pasted image 20260107233958.png",
     "To-do List.md",
+    "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
     "Course Notes/W26/POLSC100/7 Jan 2026.md",
     "Course Notes/W26/POLSC100",
     "Course Notes/W26",
@@ -192,7 +192,6 @@
     "Journal Entries/2026 Jan 1.md",
     "Goals for 2026.md",
     "Journal Entries",
-    "WOTW Planning/Ito Kai.md",
     "Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
     "Post Drafts for The Mountaineer",
     "Earth.md",
@@ -218,7 +217,6 @@
     "D&D/Spencer's Campaign - Trickster Planning.md",
     "Attachments/Notes_251227_091558_4fe.png",
     "Attachments/Notes_251227_091550_2c5.png",
-    "Attachments/Notes_251227_091605_7fa.png",
-    "Scripture Study Notes/Lucifer.md"
+    "Attachments/Notes_251227_091605_7fa.png"
   ]
 }
