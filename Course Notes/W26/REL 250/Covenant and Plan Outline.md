@@ -6,6 +6,7 @@ Summary of Verses: Revelation 12 depicts a woman clothed with the sun who brings
 
 Potential Application/Insight: Satan was cast out of heaven for rebelling against Christ. He took with him many angels and persecutes those who believe in Christ, but we can receive salvation, strength, and overcome Satan through the power of Christ and his blood, by the word of our testimonies.
 ## Covenant and Plan Notes
-
 8 Jan 2026
+
+
 
