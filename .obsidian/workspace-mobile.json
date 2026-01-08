@@ -11,22 +11,28 @@
             "id": "849f7437877cc29b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20260107234221.png"
+                "file": "Course Notes/W26/REL 250/Covenant and Plan Outline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260107234221"
+              "icon": "lucide-file",
+              "title": "Covenant and Plan Outline"
             }
           },
           {
             "id": "eac05450a82df89b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/W26/POLSC100/7 Jan 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 Jan 2026"
             }
           }
         ]
@@ -178,15 +184,16 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260107233958.png",
+    "Course Notes/W26/POLSC100/7 Jan 2026.md",
+    "Course Notes/W26/REL 250/Covenant and Plan Outline.md",
     "Attachments/Pasted image 20260107234221.png",
+    "Attachments/Pasted image 20260107233958.png",
     "Attachments/Pasted image 20260107234316.png",
     "Attachments/Pasted image 20260107234347.png",
     "Attachments/Pasted image 20260107234253.png",
     "WOTW Planning/Ito Kai.md",
     "To-do List.md",
     "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
-    "Course Notes/W26/POLSC100/7 Jan 2026.md",
     "Course Notes/W26/POLSC100",
     "Course Notes/W26",
     "Course Notes",
