@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/W26/REL 250/Covenant and Plan Outline.md",
+                "file": "Course Notes/W26/REL 250/Class Buddy Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covenant and Plan Outline"
+              "title": "Class Buddy Notes"
+            }
+          },
+          {
+            "id": "eac05450a82df89b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -170,16 +180,17 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
-    "To-do List.md",
     "Course Notes/W26/REL 250/Covenant and Plan Outline.md",
-    "Course Notes/W26/POLSC100/7 Jan 2026.md",
+    "Course Notes/W26/REL 250/Class Buddy Notes.md",
     "Attachments/Pasted image 20260107234221.png",
     "Attachments/Pasted image 20260107233958.png",
     "Attachments/Pasted image 20260107234316.png",
     "Attachments/Pasted image 20260107234347.png",
     "Attachments/Pasted image 20260107234253.png",
     "WOTW Planning/Ito Kai.md",
+    "To-do List.md",
     "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
+    "Course Notes/W26/POLSC100/7 Jan 2026.md",
     "Course Notes/W26/POLSC100",
     "Course Notes/W26",
     "Course Notes",
@@ -211,7 +222,6 @@
     "Red Ivy Records",
     "README.md",
     "Attachments",
-    "D&D/Spencer's Campaign - Trickster Planning.md",
     "Attachments/Notes_251227_091558_4fe.png",
     "Attachments/Notes_251227_091550_2c5.png",
     "Attachments/Notes_251227_091605_7fa.png"
