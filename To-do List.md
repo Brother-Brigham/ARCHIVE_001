@@ -3,7 +3,9 @@ Wednesday
 - [ ] POLSC110 A More Perfect Union Part 1 Video Upload
 - [ ] POLSC110 A More Perfect Union Part 2 Discussion Post
 - [ ] ITM 112 Linux Distributions Research
+- [ ] Covenant and Plan Outline
 Thursday
+- [ ] Covenant and Plan Reading/Attendance
 - [ ] Buddy Focus Paper
 - [ ] InQuizitive Chapter 01
 - [ ] InQuizitive Evaluate Sources
