@@ -8,5 +8,12 @@ Potential Application/Insight: Satan was cast out of heaven for rebelling agains
 ## Covenant and Plan Notes
 8 Jan 2026
 
+Doctrines answer "why"
+Principles answer "what"
+Application answers "how"
 
+Bednar video
+- Why - technology can be used to uplift or degrade us
+- What - 
+- How - We can select use cases that enhance our learning, uplift our spirits, and invite the Holy Ghost
 
