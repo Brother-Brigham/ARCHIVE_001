@@ -1,23 +1,22 @@
 Today
-- [ ] POLSC110 Ebook Reading Ch. 1
-- [ ] POLSC110 A More Perfect Union Part 1 Video Upload
+- [x] POLSC110 Ebook Reading Ch. 1
+- [x] POLSC110 A More Perfect Union Part 1 Video Upload
 - [ ] POLSC110 A More Perfect Union Part 2 Discussion Post
 - [ ] ITM 112 Linux Distributions Research
 - [x] Covenant and Plan Outline
 - [x] Athenaze 13a story
-- [ ] Covenant and Plan Reading/Attendance
+- [x] Covenant and Plan Reading/Attendance
 - [ ] Buddy Focus Paper
-- [ ] InQuizitive Chapter 01
-- [ ] InQuizitive Evaluate Sources
-- [ ] InQuizitive How to Use
-- [ ] InQuizitive Quantitative Literacy
-Friday
-- [ ] Skills Coach Training - Conducting a Successful Session
+- [x] InQuizitive Chapter 01
+- [x] InQuizitive Evaluate Sources
+- [x] InQuizitive How to Use
+- [x] InQuizitive Quantitative Literacy
+- [x] Skills Coach Training - Conducting a Successful Session
 - [ ] POLSC100 A More Perfect Union Part 1 Replies
 - [ ] POLSC100 A More Perfect Union Part 2 Replies
-- [ ] Send Weekly Admin Report
+- [x] Send Weekly Admin Report
 Saturday
-- [ ] Story 12B Translation
+- [x] Story 13a Translation
 - [ ] W02 Local Linux Virtual Resources
 - [ ] W02 Linux Install
 Sunday
