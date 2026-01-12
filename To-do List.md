@@ -1,7 +1,6 @@
 Today
-- [ ] Greek Exercise 13γ
+- [x] Greek Exercise 13γ
 - [x] Greek Exercise 13δ
-Monday
 - [ ] REL 250 Creation Outline
 - [ ] W02 Local Linux Virtual Resources
 - [ ] W02 Linux Install
