@@ -1,28 +1,10 @@
 Today
-- [x] POLSC110 Ebook Reading Ch. 1
-- [x] POLSC110 A More Perfect Union Part 1 Video Upload
-- [ ] POLSC110 A More Perfect Union Part 2 Discussion Post
-- [ ] ITM 112 Linux Distributions Research
-- [x] Covenant and Plan Outline
-- [x] Athenaze 13a story
-- [x] Covenant and Plan Reading/Attendance
-- [ ] Buddy Focus Paper
-- [x] InQuizitive Chapter 01
-- [x] InQuizitive Evaluate Sources
-- [x] InQuizitive How to Use
-- [x] InQuizitive Quantitative Literacy
-- [x] Skills Coach Training - Conducting a Successful Session
-- [ ] POLSC100 A More Perfect Union Part 1 Replies
-- [ ] POLSC100 A More Perfect Union Part 2 Replies
-- [x] Send Weekly Admin Report
-Saturday
-- [x] Story 13a Translation
+- [x] Greek Exercise 13γ
+- [x] Greek Exercise 13δ
+- [ ] REL 250 Creation Outline
 - [ ] W02 Local Linux Virtual Resources
 - [ ] W02 Linux Install
-Sunday
-- [ ] REL 250 Creation Outline
-Monday
-- [ ] Creation Reading/Attendance Assignment (Might be shifted to Tuesday for course schedule?)
+- [ ] Creation Reading/Attendance Assignment
 - [ ] POLSC100 Icebreaker replies
 Tuesday
 - [ ] Jesus: Divine Messiah Outline
