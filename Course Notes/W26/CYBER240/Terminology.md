@@ -40,7 +40,7 @@ Layers will always communicate with the corresponding layer on the other device 
 - Data Stream
 **Transport**
 - Manages the communications that are ongoing
-- Takes the data stream and divides it into discreet chunks called **segments**. Chunks receive **Sour**
+- Takes the data stream and divides it into discreet chunks called **segments**. Chunks receive **Source** and **Destination** **Headers**. Ports are assigned, so that segments are delivered to the right location
 **Network**
 - 
 **Data-Link**
