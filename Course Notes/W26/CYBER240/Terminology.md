@@ -9,3 +9,24 @@ Difference between LAN and WAN is a little squishy. Depends on distance as main 
 
 MANs are city-sized networks, but a little difficult to run.
 
+TCPIIP
+- Application (7, 5)
+- Transport (4)
+- Internetwork (3)
+- Network Access (2, 1)
+
+ISO-OSI model
+7 - Application
+6 - Presentation
+5 - Session
+4 - Transport
+3 - Network
+2 - Data-Link
+1 - Physical
+
+Requests move down the layers from 7 to 1, with different devices processing at different layers.
+
+**Application**
+- What is used to interface with/create data
+**Presentation**
+- Ensures data is in the proper format to be passed up to the application in a readable
