@@ -42,8 +42,13 @@ Layers will always communicate with the corresponding layer on the other device 
 - Manages the communications that are ongoing
 - Takes the data stream and divides it into discreet chunks called **segments**. Chunks receive **Source** and **Destination** **Headers**. Ports are assigned, so that segments are delivered to the right location
 **Network**
-- IP Address Assigned
+- IP Address Assigned 
 **Data-Link**
-- MAC Address Assigned
+- MAC Address Assigned (MAC does not change, but can be spoofed)
 **Physical**
-- 
+- Device has a physical address
+
+MAC | IP | Ports | Segment
+SD | SD | SD | DATA | FCS
+|-------------Frame-------------|
+
