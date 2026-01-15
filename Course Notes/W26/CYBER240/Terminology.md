@@ -64,5 +64,9 @@ RFI - Radio frequency interference
 
 EMI and RFI distort network signals
 
+Unicast 1-to-1
+Broadcast 1-to-everybody
+Multicast 1-to-many
+
 
 
