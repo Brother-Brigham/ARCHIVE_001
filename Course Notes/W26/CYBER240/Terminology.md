@@ -52,3 +52,6 @@ MAC | IP | Ports | Segment
 SD | SD | SD | DATA | FCS
 |-------------Frame-------------|
 
+Collision Sense Multiple Access with Collision Avoidance (CSMA/CA)
+- Ethernet was built on this framework?
+

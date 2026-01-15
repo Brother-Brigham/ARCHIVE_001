@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Terminology"
             }
-          },
-          {
-            "id": "1fdec05bd02924d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fdec05bd02924d1",
+  "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
     "D&D/Spencer’s Campaign - Sorcerer Build Planning.md",
     "Course Notes/W26/CYBER240/Terminology.md",
