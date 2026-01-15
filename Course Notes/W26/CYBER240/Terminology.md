@@ -57,3 +57,10 @@ Collision Sense Multiple Access with Collision Avoidance (CSMA/CA)
 
 Token ring resolves the conflict-based system that CSMA/CA is.
 
+Some phone companies use Fiber Distributed Data Interface (FDDI), a bigger token ring, for city-sized networks.
+
+EMI - Electromagnetic interference
+RFI - Radio frequency interference
+
+EMI and RFI distort network signals
+
