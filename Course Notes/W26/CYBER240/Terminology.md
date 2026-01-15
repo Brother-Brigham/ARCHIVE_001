@@ -55,3 +55,5 @@ SD | SD | SD | DATA | FCS
 Collision Sense Multiple Access with Collision Avoidance (CSMA/CA)
 - Ethernet was built on this framework?
 
+Token ring resolves the conflict-based system that CSMA/CA is.
+
