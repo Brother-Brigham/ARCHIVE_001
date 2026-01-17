@@ -1,3 +1,4 @@
+![[Pasted image 20260116225135.png]]
 ## Backstory
 Name: Theos Aletheios
 Epithet: *The Gadfly of the Mountains*
