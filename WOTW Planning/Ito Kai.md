@@ -755,18 +755,17 @@ Progression:
 8. Swordmaster Promotion (200)
 9. Silver Sword (239) (Effective against monsters)
 10. Killing Edge (277) (increases critical hit ratio)
-11. Regal Blade (315) (Nullifies magic on contact with blade)
-12. Killing Edge 
-13. Brave Sword (415) (enables two attacks per one turn attacking)
-14. Ito’s Blade Complete
+11. Brave Sword (315) (enables two attacks per one turn attacking)
+12. Regal Blade (415) (Nullifies magic on contact with blade)
+13. Ito’s Blade Complete
 ![[Pasted image 20260109220534.png]]![[Pasted image 20260107234221.png]]![[Pasted image 20260107234253.png]]![[Pasted image 20260107234347.png]]![[Pasted image 20260107234316.png]]
-15. Adept (465) (Additional attack skill)
-16. Champion (Trueblade) Promotion (500)
-17. Nihil (515) (Nullifies enemy skills skill)
-18. Celerity 2 (565) (improved skill)
-19. Adept 2 (615) (improved skill)
-20. Nihil 2 (665) (improved skill)
-21. Delphi Shield (815) (deflects oncoming arrows)
+14. Adept (465) (Additional attack skill)
+15. Champion (Trueblade) Promotion (500)
+16. Nihil (515) (Nullifies enemy skills skill)
+17. Celerity 2 (565) (improved skill)
+18. Adept 2 (615) (improved skill)
+19. Nihil 2 (665) (improved skill)
+20. Delphi Shield (815) (deflects oncoming arrows)
 
 Skills:
 • Celerity
