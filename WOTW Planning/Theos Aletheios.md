@@ -3,6 +3,8 @@ Name: Theos Aletheios
 Epithet: *The Gadfly of the Mountains*
 Origin: A distant land beyond Elibe, remembered only in fragments and parables
 Current Status: Exiled, dwelling in high mountains
+![[Pasted image 20260117115034.png]]
+
 ### Early Life and Calling
 Theos Aletheios was born in a city-state far beyond Elibe, a place of marble halls, assemblies, and laws written as proudly as any blade was forged. His given name, Theos, was chosen not as a claim to divinity, but as a provocation—his father believing that no man should bear such a name unless he spent his life proving he was worthy of it.
 
