@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/W26/ITM 112 Meet with Instructor Notes.md",
+                "file": "WOTW Planning/Ito Kai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ITM 112 Meet with Instructor Notes"
-            }
-          },
-          {
-            "id": "4538153a3070a9df",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "Ito Kai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4538153a3070a9df",
+  "active": "176cbab2937512ab",
   "lastOpenFiles": [
-    "WOTW Planning/Post Drafts/Untitled.md",
     "Course Notes/W26/ITM 112 Meet with Instructor Notes.md",
+    "WOTW Planning/Post Drafts/Untitled.md",
     "WOTW Planning/Ito Kai.md",
     "WOTW Planning/Theos Aletheios.md",
     "Attachments/Pasted image 20260117115034.png",
