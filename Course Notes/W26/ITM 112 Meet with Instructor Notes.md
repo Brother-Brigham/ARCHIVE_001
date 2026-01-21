@@ -4,4 +4,4 @@ Brother Vish recently divorced--wife suffers from addictions?
 
 Make careful note of the six numbered things Elder Klebingat mentions
 
-
+Assignment is to read the talk and give one paragraph of thoughts about the talk.
