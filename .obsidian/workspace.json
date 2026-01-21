@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ITM 112 Meet with Instructor Notes"
             }
+          },
+          {
+            "id": "4538153a3070a9df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf74bbdd11008a34",
+  "active": "4538153a3070a9df",
   "lastOpenFiles": [
     "WOTW Planning/Post Drafts/Untitled.md",
     "Course Notes/W26/ITM 112 Meet with Instructor Notes.md",
