@@ -3,7 +3,7 @@ Today
 - [ ] Hands-on Linux Apps Install
 - [x] Upload Resume
 - [x] Chapter 4 reading
-- [ ] Chapter 5 reading
+- [x] Chapter 5 reading
 - [ ] Current Events Commentary
 - [ ] Greek Theognis
 - [ ] Greek Good Samaritan
