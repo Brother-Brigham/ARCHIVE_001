@@ -1,7 +1,7 @@
 Today
-- [ ] Linux Web Servers Research
+- [x] Linux Web Servers Research
 - [ ] Hands-on Linux Apps Install
-- [ ] Upload Resume
+- [x] Upload Resume
 - [ ] Chapter 4 reading
 - [ ] Chapter 5 reading
 - [ ] Current Events Commentary
