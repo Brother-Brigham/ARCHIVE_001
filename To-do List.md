@@ -1,6 +1,6 @@
 Today
 - [x] Linux Web Servers Research
-- [ ] Hands-on Linux Apps Install
+- [x] Hands-on Linux Apps Install
 - [x] Upload Resume
 - [x] Chapter 4 reading
 - [x] Chapter 5 reading
