@@ -5,8 +5,8 @@ Today
 - [x] Chapter 4 reading
 - [x] Chapter 5 reading
 - [ ] Current Events Commentary
-- [ ] Greek Theognis
-- [ ] Greek Good Samaritan
+- [x] Greek Theognis
+- [x] Greek Good Samaritan
 - [ ] Civil Liberties Part 2
 - [ ] Possibly begin Civil Liberties Part 1 outline?
 Friday
