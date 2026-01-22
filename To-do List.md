@@ -12,7 +12,7 @@ Today
 Thursday
 - [ ]  
 Friday
-- [ ] SSC Week 3 Quiz?
+- [x] SSC Week 3 Quiz?
 Saturday
 - [ ] Greek translation 14a
 - [ ] Chapter 4 Quiz
