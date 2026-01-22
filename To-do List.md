@@ -20,7 +20,7 @@ Saturday
 - [ ] Linux Web Server Install
 - [ ] Civil Liberties Part 1 recording
 - [ ] Textbook Questions Days 31, 30, 29
-- [ ] Using the Setup Command
+- [x] Using the Setup Command
 - [ ] Password Lab
 - [ ] Initial config lab
 - [ ] CYBER 240 Quiz 1
