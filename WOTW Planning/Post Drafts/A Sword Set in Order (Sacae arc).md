@@ -29,3 +29,12 @@ The sky seemed to stretch out forever as Ito progressed along the plains. He fel
 
 -----
 
+The breezes almost seemed to sing, here on the open plains. Ito had just set camp, deciding his travels for the day were over. Having eaten a bit, drunken some, and taken a breather, Ito drew his newest sword and began to practice his swordplay. A lancereaver, the Bulgar trader had called it. Its blade was longer, the hilt crafted carefully to balance the blade and accommodate its intended function. Ito stood, repeating the same cut and stance until the sun had set and the light was nearly gone. His old Caelinian instructor came to mind, calling out from Ito's memory. *As the old saying goes, boy, 'I fear not the man who has practiced a thousand cuts once, but the man who has practiced a single cut one thousand times'!* 
+
+Lighting the small fire he had built as he set camp, Ito continued drilling with this blade. His old sword sat strapped to his pack, as he gave his attention to attuning himself to the feeling of this new blade. Unbeknownst to Ito, this new blade would represent the first illustration of his own reordering. The first step in a new path, a road hitherto untravelled by the Lycian lad. Although a first step, Ito had no idea, and held no premonition as to his second step. Nor his third, or fourth; all he knew was that something must change, if he were to change his home for the better.
+
+Satisfied and spent, Ito returned his blade to its sheath and laid on his bedroll, watching his fire burn out before drifting to sleep.
+(265 words)
+
+-----
+
