@@ -4,7 +4,7 @@ Today
 - [x] Upload Resume
 - [x] Chapter 4 reading
 - [x] Chapter 5 reading
-- [ ] Current Events Commentary
+- [x] Current Events Commentary
 - [x] Greek Theognis
 - [x] Greek Good Samaritan
 - [ ] Civil Liberties Part 2
