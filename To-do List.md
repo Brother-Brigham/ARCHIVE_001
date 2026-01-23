@@ -4,7 +4,12 @@ Today
 - [x] Upload Resume
 - [x] Chapter 4 reading
 - [x] Chapter 5 reading
+<<<<<<< HEAD
 - [x] Current Events Commentary
+=======
+- [ ] Current Events Commentary
+- [ ] Religion Attendance Reflection
+>>>>>>> origin/main
 - [x] Greek Theognis
 - [x] Greek Good Samaritan
 - [ ] Civil Liberties Part 2
@@ -19,7 +24,7 @@ Saturday
 - [ ] Civil Liberties Part 1 recording
 - [ ] Textbook Questions Days 31, 30, 29
 - [x] Using the Setup Command
-- [ ] Password Lab
+- [x] Password Lab
 - [ ] Initial config challenge lab
 - [ ] CYBER 240 Quiz 1
 - [ ] ENG 217 Grading
