@@ -7,8 +7,9 @@ Tuesday
 - [ ] Enoch and Zion Attendance Reflection
 - [ ] Bias in the Media Group Project Prep
 - [ ] W04 Current Events Commentary
-- [ ] 
+- [ ] IP Addressing Basics
 Wednesday
+- [ ] Telnet Lab
 - [ ] 
 
 
