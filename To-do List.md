@@ -5,6 +5,9 @@ Today
 - [ ] Hands-on Exercise: Server Updates and Commands
 Tuesday
 - [ ] Enoch and Zion Attendance Reflection
+- [ ] Bias in the Media Group Project Prep
+- [ ] W04 Current Events Commentary
+- [ ] 
 Wednesday
 - [ ] 
 
