@@ -1,16 +1,21 @@
-Today
-- [ ] Enoch and Zion Outline
-- [ ] American Government
-- [ ] Prepare: LTS and Security Updates
-- [ ] Hands-on Exercise: Server Updates and Commands
-Tuesday
-- [ ] Enoch and Zion Attendance Reflection
-- [ ] Bias in the Media Group Project Prep
-- [ ] W04 Current Events Commentary
-- [ ] IP Addressing Basics
-Wednesday
-- [ ] Telnet Lab
+Friday
 - [ ] 
+Saturday
+- [ ] .
+Sunday
+- [ ] .
+Monday
+- [ ] .
+Tuesday
+- [ ] .
+Wednesday
+- [ ] .
+Thursday
+- [ ] .
+Next Friday
+- [ ] .
+Next Saturday
+- [ ] .
 
 
 Late Work for Later:
