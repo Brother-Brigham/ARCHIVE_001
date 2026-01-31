@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b23ecb438db1c8ff",
+        "id": "326a43354944a99c",
         "type": "tabs",
         "children": [
           {
@@ -29,10 +29,56 @@
   "left": {
     "id": "5214db3e5c5154f9",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "55b436948a191012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176cbab2937512ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9669d0efa5935ca8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d30ebc7511663a08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "146b1ac489555306",
@@ -134,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +196,11 @@
   },
   "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
-    "Course Notes/W26/GREEK 102/15B p. 1-2.md",
     "To-do List.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "2026-01-31.md",
+    "Course Notes/W26/GREEK 102/15B p. 1-2.md",
     "Course Notes/W26/GREEK 102",
     "WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
     "conflict-files-obsidian-git.md",
@@ -186,16 +235,12 @@
     "Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
     "Post Drafts for The Mountaineer",
     "Scripture Study Notes/Earth.md",
-    "Untitled.canvas",
     "Scripture Study Notes/Glass.md",
     "Scripture Study Notes/Woman.md",
     "Scripture Study Notes/Lucifer.md",
     "Scripture Study Notes/Man.md",
     "Scripture Study Notes/God.md",
     "Scripture Study Notes/Jesus.md",
-    "Scripture Study Notes",
-    "Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
-    "Red Ivy Records/Concepts/COLLECTION Under the Moon.md",
     "Attachments/Notes_251227_091605_7fa.png"
   ]
 }
