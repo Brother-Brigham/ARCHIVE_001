@@ -1,6 +1,6 @@
 Friday
-- [ ] Writing Conferences
-- [ ] Great Books Grading
+- [x] Writing Conferences
+- [x] Great Books Grading
 Saturday
 - [ ] W04 Exam 1
 - [ ] InQuizitive Ch. 6
