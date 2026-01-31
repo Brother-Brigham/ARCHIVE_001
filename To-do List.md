@@ -2,9 +2,9 @@ Friday
 - [x] Writing Conferences
 - [x] Great Books Grading
 Saturday
-- [ ] W04 Exam 1
+- [x] W04 Exam 1
 - [ ] InQuizitive Ch. 6
-- [ ] Public Opinion Polls 1
+- [x] Public Opinion Polls 1
 - [ ] Public Opinion polls 2
 - [ ] Ch 14 and 15 Exercises
 - [ ] 15a Translation
