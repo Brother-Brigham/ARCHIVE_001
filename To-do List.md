@@ -1,7 +1,25 @@
 Friday
-- [ ] 
+- [ ] Writing Conferences
+- [ ] Great Books Grading
 Saturday
-- [ ] .
+- [ ] W04 Exam 1
+- [ ] InQuizitive Ch. 6
+- [ ] Public Opinion Polls 1
+- [ ] Public Opinion polls 2
+- [ ] Ch 14 and 15 Exercises
+- [ ] 15a Translation
+- [ ] Ch 15 Vocabulary
+- [ ] Navigation
+- [ ] Linux Quiz Ch 2-4
+- [ ] Ponder and Prove #2
+- [ ] Configure Router Settings
+- [ ] Configure IPv6 Addressing
+- [ ] IP Addressing Basics
+- [ ] Quiz 2
+- [ ] Telnet Lab
+- [ ] Textbook Day 28
+- [ ] Quiz 2
+- [ ] Lesson 2 (extra credit)
 Sunday
 - [ ] .
 Monday
