@@ -3,7 +3,7 @@ Friday
 - [x] Great Books Grading
 Saturday
 - [x] W04 Exam 1
-- [ ] InQuizitive Ch. 6
+- [x] InQuizitive Ch. 6
 - [x] Public Opinion Polls 1
 - [x] Public Opinion polls 2
 - [x] Ch 14 and 15 Exercises
