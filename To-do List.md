@@ -5,7 +5,7 @@ Saturday
 - [x] W04 Exam 1
 - [ ] InQuizitive Ch. 6
 - [x] Public Opinion Polls 1
-- [ ] Public Opinion polls 2
+- [x] Public Opinion polls 2
 - [ ] Ch 14 and 15 Exercises
 - [ ] 15a Translation
 - [ ] Ch 15 Vocabulary
