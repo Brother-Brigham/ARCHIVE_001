@@ -6,19 +6,19 @@ Saturday
 - [ ] InQuizitive Ch. 6
 - [x] Public Opinion Polls 1
 - [x] Public Opinion polls 2
-- [ ] Ch 14 and 15 Exercises
+- [x] Ch 14 and 15 Exercises
 - [ ] 15a Translation
 - [x] Ch 15 Vocabulary
 - [ ] Navigation
 - [ ] Linux Quiz Ch 2-4
-- [ ] Ponder and Prove #2
-- [ ] Configure Router Settings
-- [ ] Configure IPv6 Addressing
-- [ ] IP Addressing Basics
-- [ ] Quiz 2
-- [ ] Telnet Lab
-- [ ] Textbook Day 28
-- [ ] Quiz 2
+- [x] Ponder and Prove #2
+- [x] Configure Router Settings
+- [x] Configure IPv6 Addressing
+- [x] IP Addressing Basics
+- [x] Quiz 2
+- [x] Telnet Lab
+- [x] Textbook Day 28
+- [x] Quiz 2
 - [ ] Lesson 2 (extra credit)
 Sunday
 - [ ] .
