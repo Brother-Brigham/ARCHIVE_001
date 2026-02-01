@@ -10,7 +10,7 @@ Saturday
 - [ ] 15a Translation
 - [x] Ch 15 Vocabulary
 - [ ] Navigation
-- [ ] Linux Quiz Ch 2-4
+- [x] Linux Quiz Ch 2-4
 - [x] Ponder and Prove #2
 - [x] Configure Router Settings
 - [x] Configure IPv6 Addressing
