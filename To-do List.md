@@ -9,7 +9,7 @@ Saturday
 - [x] Ch 14 and 15 Exercises
 - [ ] 15a Translation
 - [x] Ch 15 Vocabulary
-- [ ] Navigation
+- [x] Navigation
 - [x] Linux Quiz Ch 2-4
 - [x] Ponder and Prove #2
 - [x] Configure Router Settings
