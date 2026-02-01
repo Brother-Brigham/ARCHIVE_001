@@ -19,7 +19,7 @@ Saturday
 - [x] Telnet Lab
 - [x] Textbook Day 28
 - [x] Quiz 2
-- [ ] Lesson 2 (extra credit)
+- [x] Lesson 2 (extra credit)
 Sunday
 - [ ] .
 Monday
