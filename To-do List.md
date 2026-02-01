@@ -8,7 +8,7 @@ Saturday
 - [x] Public Opinion polls 2
 - [ ] Ch 14 and 15 Exercises
 - [ ] 15a Translation
-- [ ] Ch 15 Vocabulary
+- [x] Ch 15 Vocabulary
 - [ ] Navigation
 - [ ] Linux Quiz Ch 2-4
 - [ ] Ponder and Prove #2
