@@ -1,4 +1,3 @@
-![IMG_8703.jpeg](blob:capacitor://localhost/7542e1da-e01a-4c5f-b987-2d5b68021e2a)
 
 - Chrom x Sumia
 	- Lucina@Sniper
