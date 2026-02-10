@@ -4,7 +4,6 @@ Monday
 - [x] Scattering and Gathering Outline
 - [x] Ch 8 We the People Reading
 - [x] InQuizitive Ch 8
-- [ ] 
 Tuesday
 - [ ] Scattering and Gathering Reading/Attendance
 - [ ] Vim Prepare
