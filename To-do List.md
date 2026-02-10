@@ -1,38 +1,38 @@
-Friday
-- [x] Writing Conferences
-- [x] Great Books Grading
-Saturday
-- [x] W04 Exam 1
-- [x] InQuizitive Ch. 6
-- [x] Public Opinion Polls 1
-- [x] Public Opinion polls 2
-- [x] Ch 14 and 15 Exercises
-- [ ] 15a Translation
-- [x] Ch 15 Vocabulary
-- [x] Navigation
-- [x] Linux Quiz Ch 2-4
-- [x] Ponder and Prove #2
-- [x] Configure Router Settings
-- [x] Configure IPv6 Addressing
-- [x] IP Addressing Basics
-- [x] Quiz 2
-- [x] Telnet Lab
-- [x] Textbook Day 28
-- [x] Quiz 2
-- [x] Lesson 2 (extra credit)
 Sunday
 - [ ] .
 Monday
-- [ ] .
+- [x] Scattering and Gathering Outline
+- [x] Ch 8 We the People Reading
+- [ ] InQuizitive Ch 8
+- [ ] 
 Tuesday
-- [ ] .
+- [ ] Scattering and Gathering Reading/Attendance
+- [ ] Vim Prepare
+- [ ] Vim Hands-on
+- [ ] Comparative Politics
+- [ ] Textbook Day 25 and 26
 Wednesday
-- [ ] .
+- [ ] Light of the World Outline
+- [ ] Current Events Commentary
+- [ ] Political Parties Part 1
+- [ ] Ch 18 Vocab Quiz
+- [ ] Creating VLANs
+- [ ] Linux grep and RegEx
 Thursday
+- [ ] Light of the World Attendance
+- [ ] Configuring PVST+
+- [ ] Configuring Rapid PVST+
+Friday
+- [ ] Ponder and Prove #3 (do early if able, do Saturday if needed)
+Saturday
+- [ ] Quiz 4
+- [ ] Configuring VLANs and Trunking
+- [ ] Political Parties Part 2
+Next Sunday
 - [ ] .
-Next Friday
+Next Monday
 - [ ] .
-Next Saturday
+Next Tuesday
 - [ ] .
 
 
