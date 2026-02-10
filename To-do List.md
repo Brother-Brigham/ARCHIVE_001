@@ -3,7 +3,7 @@ Sunday
 Monday
 - [x] Scattering and Gathering Outline
 - [x] Ch 8 We the People Reading
-- [ ] InQuizitive Ch 8
+- [x] InQuizitive Ch 8
 - [ ] 
 Tuesday
 - [ ] Scattering and Gathering Reading/Attendance
