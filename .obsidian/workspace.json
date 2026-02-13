@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ch 18"
             }
+          },
+          {
+            "id": "b22d4053955fd637",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bf74bbdd11008a34",
+  "active": "b22d4053955fd637",
   "lastOpenFiles": [
     "Course Notes/W26/GREEK 102/Goku Meme.md",
     "Attachments/Pasted image 20260211125327.png",
