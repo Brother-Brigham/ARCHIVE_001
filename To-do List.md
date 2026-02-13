@@ -33,7 +33,8 @@ Saturday
 - [ ] Configuring VLANs and Trunking
 - [ ] Political Parties Part 2
 Next Sunday
-- [ ] .
+- [ ] Norton ebook ch 9
+- [ ] InQuizitive ch 9
 Next Monday
 - [ ] Exercise 19α
 - [ ] Exercise 19β
@@ -44,13 +45,31 @@ Next Monday
 Next Tuesday
 - [ ] Linux Prepare Processes
 - [ ] Linux Hands-on Processes
-
-
-Late Work for Later:
+- [ ] Jesus: Beginnings Outline
+Next Wednesday
+- [ ] W07 Current Events Commentary
+- [ ] Campaigns and Elections Part 1
+- [ ] Linux Hands-on Permissions
+- [ ] Linux Prepare Permissions
+Next Thursday
+- [ ] Jesus: Beginnings Reading/Attendance
+- [ ] Textbook Day 24 Questions
+- [ ] Configuring Etherchannel
+- [ ] Etherchannel Review
+- [ ] Troubleshooting Etherchannel
+Next Friday
+- [ ] Campaigns and Elections Part 2
+- [ ] Configuring HSRP
+- [ ] Quiz 5
+Next Saturday
 - [ ] W02 Current Events Commentary
 - [ ] W02 Federalism Part 1
 - [ ] W02 Federalism Part 2
 - [ ] W03 Civil Liberties Part 1
 - [ ] 
+
+
+Late Work for Later:
+
 
 Admin Report:
