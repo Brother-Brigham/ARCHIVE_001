@@ -24,11 +24,11 @@ Thursday
 - [ ] Configuring Etherchannel - 45-60 minutes - High Cognitive Load
 - [ ] Etherchannel Review - 30-45 minutes - High Cognitive Load
 - [ ] Troubleshooting Etherchannel - 30-45 minutes - High Cognitive Load
-Next Friday
+Friday
 - [ ] American Government - Campaigns and Elections Part 2 - 60-90 minutes - Medium-High Cognitive Load
 - [ ] Configuring HSRP - 60-90 minutes - High Cognitive Load
 - [ ] Quiz 5 - 90-180 minutes - High Cognitive Load
-Next Saturday
+Saturday
 - [ ] American Government - W02 Current Events Commentary - 45-60 minutes - Medium Cognitive Load
 - [ ] American Government - W02 Federalism Part 1 - 45-60 minutes - Medium Cognitive Load
 - [ ] American Government - W02 Federalism Part 2 - 45-60 minutes - Medium Cognitive Load
