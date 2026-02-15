@@ -1,6 +1,6 @@
 
 Sunday
-- [ ] American Government - Norton ebook ch 9 - 15-20 Minutes - Low Cognitive Load
+- [x] American Government - Norton ebook ch 9 - 15-20 Minutes - Low Cognitive Load
 - [ ] American Government - InQuizitive ch 9 - 15-20 Minutes - Low Cognitive Load
 Monday
 - [ ] Exercise 19α - 30-45 minutes - High Cognitive Load
