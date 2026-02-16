@@ -1,11 +1,11 @@
 
 - Chrom x Sumia
 	- Lucina@Sniper
-		- Galeforce
+		- Galeforce (Dark Flier)
 		- Aether
-		- Luna
-		- Bowfaire (or Speed +2)
-		- Dual Strike+
+		- Luna 
+		- Bowfaire (or Speed +2) (Sniper)
+		- Dual Strike+ (Lord) 
 
 	- Cynthia@Sniper
 		- Galeforce
