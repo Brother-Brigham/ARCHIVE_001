@@ -2,9 +2,9 @@
 ![[IMG_3686.jpeg]]
 ## 19α exercise
 ![[IMG_3715.jpeg]]
-1. .
-2. .
-3. .
+1. When it became evening, the strangers arrived in the city.
+2. As the old man was angering, the boy became afraid.
+3. 
 4. .
 5. .
 6. .
@@ -38,6 +38,13 @@ Perfect
 	Intransitive
 ## 19γ exercise
 ![[IMG_3717.jpeg]]
-
+1. The boys stopped the dogs.
+2. The farmer suddenly stopped in the marketplace.
+3. The boy was stood/set up (resurrected?).
+4. The father stood/set up his child.
+5. The sailors, abandoning/leaving behind the harbour, set up the mast.
+6. Pausanias, having defeated the Persians, set up a trophy for himself.
+7. Don’t flee, friends, but stand up and fight bravely!
+8. When we saw the stranger, 
 ## Heraclitus
 ![[IMG_3718.jpeg]]
