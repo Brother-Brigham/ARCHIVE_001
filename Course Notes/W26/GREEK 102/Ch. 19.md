@@ -48,3 +48,8 @@ Perfect
 8. When we saw the stranger, 
 ## Heraclitus
 ![[IMG_3718.jpeg]]
+
+## 19β Story
+![[IMG_3724.jpeg]]![[IMG_3725.jpeg]]
+
+![[IMG_3726.jpeg]]
