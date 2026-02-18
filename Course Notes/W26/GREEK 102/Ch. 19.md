@@ -53,3 +53,8 @@ Perfect
 ![[IMG_3724.jpeg]]![[IMG_3725.jpeg]]
 And when it was becoming evening, they met a certain shepherd who was driving his sheep down the road. And he, having seen them approaching, having fallen into fear, he stopped and, having shouted at them, said, "Who are you, that travel through the night? From where did you come, and where are you going?" And Dicaeopolis approaching, explained all that happened, and the shepherd, having kindly received them, said, "But all are under the protection of Zeus, both beggars and strangers. But it is already becoming night, "
 ![[IMG_3726.jpeg]]
+## 19ε 7-9
+
+## 19ζ
+
+## Wedding at Cana
