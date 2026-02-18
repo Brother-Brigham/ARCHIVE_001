@@ -11,12 +11,14 @@ Intellectual
 - Take Greek & Hebrew vocab more seriously
 - Start learning Russian
 - Guitar 15 mins/day
-- Cybersecurity certificate
-	- CSE 110 (2)
-	- CSE 111 (2)
-	- ITM 111 (3) or ITM 220 (3)
-	- CYBER 360 (3)
-	- CYBER 370 (3) or CYBER 375 (3)
+- Cybersecurity certificate (Complete as Non-Matriculating)
+	- Fall 2026
+		- CSE 110 (2) {First Block}
+		- CSE 111 (2) {Second Block}
+		- ITM 111 (3) or ITM 220 (3) {Full Semester}
+	- Winter 2027
+		- CYBER 360 (3) {Full Semester}
+		- CYBER 370 (3) or CYBER 375 (3) {Full Semester}
 
 Social
 - Devote adequate time to the Study and Faith Society
