@@ -1,5 +1,5 @@
 Physical
-- Follow training program for Secret Service Fitness Test for exercise
+- Follow training program for FBI Personal Fitness Test for exercise
 - Meal plan/eat better
 - No soda
 
@@ -8,9 +8,15 @@ Intellectual
 - Read 2 non-school books/month, or more if able (incorporate works of Plato throughout the year)
 - Set up effective home lab for cybersecurity skills practicing
 - Take the free ArcX course on cybersecurity
-- Take Greek vocab more seriously
-- Start learning Russian (maybe? Best for career, but another language might be more fun. Arabic is another good one for career, but maybe not as good as Russian.)
+- Take Greek & Hebrew vocab more seriously
+- Start learning Russian
 - Guitar 15 mins/day
+- Cybersecurity certificate
+	- CSE 110 (2)
+	- CSE 111 (2)
+	- ITM 111 (3) or ITM 220 (3)
+	- CYBER 360 (3)
+	- CYBER 370 (3) or CYBER 375 (3)
 
 Social
 - Devote adequate time to the Study and Faith Society
