@@ -62,13 +62,13 @@ And when it was becoming evening, they met a certain shepherd who was driving hi
 ![[IMG_3730.jpeg]]
 1. The Athenians fell into war.
 2. .
-3. .
+3. Who set you up as the judge of us?
 4. Theseus became the king of the Athenians.
 5. The Athenians set up laws for themselves.
 6. .
 7. .
 8. Having suffered such things, we will never get into war again.
 9. The Ionians will revolt from the Persians.
-10. The Ionians, having rev
+10. The Ionians, having revolted from the Persians, assist the Greeks.
 ## Wedding at Cana
 ![[IMG_3731.jpeg]]
