@@ -55,7 +55,11 @@ And when it was becoming evening, they met a certain shepherd who was driving hi
 ![[IMG_3726.jpeg]]
 ## 19ε 7-9
 ![[IMG_3729.jpeg]]
+7. Imperfect Active 3 Sing Indicative "He/she/it was about to stand/was standing/used to stand/intended to stand"
+8. 1st Aorist Active 2 Sing Imperative "Stand!/Set up!/Stop!"
+9. 2nd Aorist Active M Sing Participle "(he,) standing, ..."
 ## 19ζ
 ![[IMG_3730.jpeg]]
+
 ## Wedding at Cana
 ![[IMG_3731.jpeg]]
