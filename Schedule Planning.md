@@ -10,7 +10,7 @@ Tuesday
 - [ ] Public Policy - 30-60 Minutes - Medium Cognitive Load
 - [ ] Linux Prepare Processes - 15-20 Minutes - Low Cognitive Load
 - [ ] Linux Hands-on Processes - 15-20 Minutes - Low Cognitive Load
-- [ ] Jesus: Beginnings Outline - 15-20 Minutes - Medium Cognitive Load
+- [x] Jesus: Beginnings Outline - 15-20 Minutes - Medium Cognitive Load
 Wednesday
 - [ ] American Government - W07 Current Events Commentary - 45-60 Minutes - Medium Cognitive Load
 - [ ] American Government - Campaigns and Elections Part 1 -  Minutes - Medium Cognitive Load
