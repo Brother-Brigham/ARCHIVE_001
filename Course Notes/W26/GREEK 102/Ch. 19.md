@@ -57,7 +57,7 @@ And when it was becoming evening, they met a certain shepherd who was driving hi
 ![[IMG_3729.jpeg]]
 7. Imperfect Active 3 Sing Indicative "He/she/it was about to stand/was standing/used to stand/intended to stand"
 8. 1st Aorist Active 2 Sing Imperative "Stand!/Set up!/Stop!"
-9. 2nd Aorist Active M Sing Participle "(he,) standing, ..."
+9. 2nd Aorist Active M Nom Sing Participle "(he,) standing, ..."
 ## 19ζ
 ![[IMG_3730.jpeg]]
 1. The Athenians fell into war.
