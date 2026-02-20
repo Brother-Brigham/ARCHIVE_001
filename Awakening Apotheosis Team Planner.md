@@ -1,16 +1,16 @@
 
 - Chrom x Sumia
 	- Lucina@Sniper
-		- Galeforce (Dark Flier)
-		- Aether (Great Lord)
-		- Luna (Great Knight)
-		- Bowfaire (or Speed +2) (Sniper)
-		- Dual Strike+ (Lord) 
+		- Galeforce (Dark Flier) {Sumia}
+		- Aether (Great Lord) {Chrom}
+		- Luna (Great Knight) {Lucina}
+		- Bowfaire (or Speed +2) (Sniper) {Lucina}
+		- Dual Strike+ (Lord) {Lucina}
 
 	- Cynthia@Sniper
-		- Galeforce (Dark Flier)
-		- Aether (Great Lord)
-		- Luna (Great Knight)
+		- Galeforce (Dark Flier) {Sumia}
+		- Aether (Great Lord) {Chrom}
+		- Luna (Great Knight) {}
 		- Speed +2 (Pegasus Knight)
 		- Defender (Paladin)
 
