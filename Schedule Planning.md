@@ -3,7 +3,7 @@ Thursday
 - [ ] Exercise 19γ - 30-45 Minutes - High Cognitive Load
 - [ ] American Government - W07 Current Events Commentary - 45-60 Minutes - Medium Cognitive Load
 - [ ] Jesus: Beginnings Reading/Attendance - 30-45 minutes - Medium Cognitive Load
-- [ ] Textbook Day 24 Questions - 30-45 minutes - Medium Cognitive Load
+- [x] Textbook Day 24 Questions - 30-45 minutes - Medium Cognitive Load
 - [ ] Configuring Etherchannel - 45-60 minutes - High Cognitive Load
 - [ ] Etherchannel Review - 30-45 minutes - High Cognitive Load
 - [ ] Troubleshooting Etherchannel - 30-45 minutes - High Cognitive Load
