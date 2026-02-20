@@ -12,6 +12,30 @@ Saturday
 - [ ] American Government - Campaigns and Elections Part 2 - 60-90 minutes - Medium-High Cognitive Load
 - [ ] Networking - Quiz 5 - 90-180 minutes - High Cognitive Load
 
+Monday
+- [ ] Religion - Jesus' Early Ministry Outline
+- [ ] Linux - Prepare Permissions Review & Docker
+- [ ] American Government - Norton Illumine ebook Reading Ch. 10: Congress
+- [ ] Religion - Jesus: On Discipleship Outline
+- [ ] Ancient Greek - Homework (1.5-2 hrs)
+Tuesday
+- [ ] Religion - Jesus' Early Ministry Reading/Attendance Report
+- [ ] Networking - Textbook Day 23 Questions
+- [ ] Linux - Hands-on Exercise Permissions Review & Docker
+- [ ] American Government - W08 Current Events Commentary
+- [ ] American Government - InQuizitive Ch. 10: Congress
+Wednesday
+- [ ] Ponder & Prove #4
+- [ ] 
+Thursday
+- [ ] .
+Friday
+- [ ] .
+Saturday
+- [ ] .
+
+
+
 Already late, to-do whenever convenient
 - [ ] American Government - W02 Current Events Commentary - 45-60 minutes - Medium Cognitive Load
 - [ ] American Government - W02 Federalism Part 1 - 45-60 minutes - Medium Cognitive Load
