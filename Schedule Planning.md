@@ -1,14 +1,15 @@
-Friday/Saturday
+Friday
 - [ ] Networking - Configuring Etherchannel - 45-60 minutes - High Cognitive Load
 - [ ] Networking - Etherchannel Review - 30-45 minutes - High Cognitive Load
 - [ ] Networking - Troubleshooting Etherchannel - 30-45 minutes - High Cognitive Load
+- [ ] Networking - Configuring HSRP - 60-90 minutes - High Cognitive Load
+Saturday
 - [ ] Linux - Prepare Processes - 15-20 Minutes - Low Cognitive Load
 - [ ] Linux - Hands-on Processes - 15-20 Minutes - Low Cognitive Load
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
 - [ ] American Government - Campaigns and Elections Part 1 -  60-90 Minutes - Medium Cognitive Load
 - [ ] American Government - Campaigns and Elections Part 2 - 60-90 minutes - Medium-High Cognitive Load
-- [ ] Networking - Configuring HSRP - 60-90 minutes - High Cognitive Load
 - [ ] Networking - Quiz 5 - 90-180 minutes - High Cognitive Load
 
 Already late, to-do whenever convenient
