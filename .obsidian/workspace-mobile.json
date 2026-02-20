@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "Awakening Apotheosis Team Planner"
             }
-          },
-          {
-            "id": "eac05450a82df89b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -181,6 +171,7 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
+    "Awakening Apotheosis Team Planner.md",
     "Schedule Planning.md",
     "Course Notes/W26/GREEK 102/Ch. 19.md",
     "Attachments/IMG_3731.jpeg",
@@ -188,7 +179,6 @@
     "Attachments/IMG_3729.jpeg",
     "To-do List.md",
     "Weight Loss Plan.md",
-    "Awakening Apotheosis Team Planner.md",
     "Attachments/IMG_3726.jpeg",
     "Attachments/IMG_3725.jpeg",
     "Attachments/IMG_3724.jpeg",
