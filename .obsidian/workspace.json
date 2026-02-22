@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule Planning.md",
+                "file": "Awakening Apotheosis Team Planner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule Planning"
+              "title": "Awakening Apotheosis Team Planner"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "146b1ac489555306",
@@ -197,8 +198,8 @@
   },
   "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
-    "To-do List.md",
     "Schedule Planning.md",
+    "To-do List.md",
     "Goals for 2026.md",
     "Course Notes/W26/GREEK 102/Ch. 18.md",
     "Course Notes/W26/GREEK 102/Ch. 20.md",

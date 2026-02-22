@@ -10,29 +10,29 @@
 	- Cynthia@Sniper
 		- Galeforce (Dark Flier) {Sumia}
 		- Aether (Great Lord) {Chrom}
-		- Luna (Great Knight) {}
-		- Speed +2 (Pegasus Knight)
-		- Defender (Paladin)
+		- Luna (Great Knight) {Cynthia}
+		- Speed +2 (Pegasus Knight) {Cynthia}
+		- Defender (Paladin) {Cynthia}
 
 - Lissa x Ricken
 	- Owain@Sage
-		- Galeforce (Dark Flier)
-		- Tomefaire (Sage)
-		- Astra (Swordmaster)
-		- Luna (Great Knight)
-		- Magic +2 or Defender (Mage or Paladin)
+		- Galeforce (Dark Flier) {Lissa}
+		- Tomefaire (Sage) {Ricken}
+		- Astra (Swordmaster) {Owain}
+		- Luna (Great Knight) {Owain}
+		- Magic +2 or Defender (Mage or Paladin) {Owain}
 
 - Olivia x Libra
 	- Inigo@Sage
-		- Galeforce (Dark Flier)
-		- Tomefaire (Sage)
-		- Vengeance (Sorcerer)
-		- Vantage (Myrmidon)
-		- Magic +2 (Mage)
+		- Galeforce (Dark Flier) {Olivia}
+		- Tomefaire (Sage) {Libra}
+		- Vengeance (Sorcerer) {Inigo}
+		- Vantage (Myrmidon) {Inigo}
+		- Magic +2 (Mage) {Inigo}
 
 - Sully x Donnel
 	- Kjelle@Hero
-		- Galeforce (Dark Flier)
+		- Galeforce (Dark Flier) 
 		- Swordfaire (Swordmaster)
 		- Luna (Great Knight)
 		- Defender (Paladin)
