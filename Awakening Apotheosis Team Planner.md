@@ -32,15 +32,15 @@
 
 - Sully x Donnel
 	- Kjelle@Hero
-		- Galeforce (Dark Flier) 
-		- Swordfaire (Swordmaster)
-		- Luna (Great Knight)
-		- Defender (Paladin)
-		- Speed +2 (Pegasus Knight)
+		- Galeforce (Dark Flier) {Kjelle}
+		- Swordfaire (Swordmaster) {Kjelle}
+		- Luna (Great Knight) {Sully}
+		- Defender (Paladin) {Kjelle}
+		- Speed +2 (Pegasus Knight) {Kjelle}
 
 - Miriel x Gregor
 	- Laurent@Hero (or anything I need)
-		- Axefaire (Berserker)
+		- Axefaire (Berserker) 
 		- Anathema (Dark Mage)
 		- Hex (Dark Mage)
 		- Tomebreaker (Sorcerer)
