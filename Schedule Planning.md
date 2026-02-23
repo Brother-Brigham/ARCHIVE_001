@@ -50,7 +50,7 @@ Lectures: TR 09:45-11:15, MTWR 12:45-13:45, TR 14:00-15:00, unscheduled but need
 
   
 
-Work: MWF 08:45-09:50, TR 08:45-09:30, R 11:30-12:30, F 10:15-11:15, MF 16:30-17:30, M 17:30-18:15, W 16:30-18:45, additional time needed but unscheduled for grading assignments as a TA in an English literature class (3-5 hours/week, to be scheduled on Saturdays).
+Work: MWF 08:45-09:50, TR 08:45-09:30, R 11:30-12:30, F 10:15-11:15, MF 16:30-17:30, M 17:30-18:15, W 16:30-18:45, additional time needed but unscheduled for grading assignments as a TA in an English literature class (3-5 hours/week, to be scheduled only on Saturdays and Sundays).
 
   
 
@@ -63,28 +63,6 @@ Commute Times: 10-15 mins commute on foot from home to work, work to lecture, le
   
 
 Homework Assignments:
-
-- [ ] Networking - Configuring Etherchannel - 45-60 minutes - High Cognitive Load
-
-- [ ] Networking - Etherchannel Review - 30-45 minutes - High Cognitive Load
-
-- [ ] Networking - Troubleshooting Etherchannel - 30-45 minutes - High Cognitive Load
-
-- [ ] Linux - Prepare Processes - 15-20 Minutes - Low Cognitive Load
-
-- [ ] Linux - Hands-on Processes - 15-20 Minutes - Low Cognitive Load
-
-- [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
-
-- [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
-
-- [ ] American Government - Campaigns and Elections Part 1 -  60-90 Minutes - Medium Cognitive Load
-
-- [ ] American Government - Campaigns and Elections Part 2 - 60-90 minutes - Medium-High Cognitive Load
-
-- [ ] Networking - Configuring HSRP - 60-90 minutes - High Cognitive Load
-
-- [ ] Networking - Quiz 5 - 90-180 minutes - High Cognitive Load
 
   
 
