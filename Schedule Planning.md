@@ -36,9 +36,9 @@ Already late, to-do whenever convenient
 - [ ] Ancient Greek - Exercise 19γ - 30-45 Minutes - High Cognitive Load
 
 
-Prompt:
+Gemini Prompt:
 
-It is 10:20 on Friday. Let's revise our plan for Friday. I have adjusted the list of assignments needing to be done between Friday and Saturday to account for work that has either been completed or is able to be completed without penalty in future weeks.
+It is {Time} on {Day}. Let's revise our plan for {Day}.
 
   
 
