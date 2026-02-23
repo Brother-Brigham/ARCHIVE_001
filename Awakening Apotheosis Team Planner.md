@@ -40,25 +40,25 @@
 
 - Miriel x Gregor
 	- Laurent@Hero (or anything I need)
-		- Axefaire (Berserker) 
-		- Anathema (Dark Mage)
-		- Hex (Dark Mage)
-		- Tomebreaker (Sorcerer)
-		- Axebreaker (Hero)
+		- Axefaire (Berserker) {Gregor}
+		- Anathema (Dark Mage) {Miriel}
+		- Hex (Dark Mage) {Laurent}
+		- Tomebreaker (Sorcerer) {Laurent}
+		- Axebreaker (Hero) {Laurent}
 
 - Maribelle x Lon’qu
 	- Brady@Sage
-		- Galeforce (Dark Flier)
-		- Tomefaire (Sage)
-		- Astra (Swordmaster)
-		- Luna (Great Knight)
-		- Defender (Paladin)
+		- Galeforce (Dark Flier) {Maribelle}
+		- Tomefaire (Sage) {Brady}
+		- Astra (Swordmaster) {Lon’qu}
+		- Luna (Great Knight) {Brady}
+		- Defender (Paladin) {Brady}
 
 - Cordelia x Virion
 	- (Hatsune Miku) Severa@Sniper
-		- Galeforce (Dark Flier)
-		- Bowfaire (Sniper)
-		- Vengeance (Sorcerer)
+		- Galeforce (Dark Flier) {Cordelia}
+		- Bowfaire (Sniper) {Virion}
+		- Vengeance (Sorcerer) 
 		- Anathema (Dark Mage)
 		- Speed +2 (Pegasus Knight)
 
