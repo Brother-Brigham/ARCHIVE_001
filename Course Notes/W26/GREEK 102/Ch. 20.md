@@ -8,4 +8,4 @@ And suddenly Philip shuddered and fell into an icy fear. “O father”, he said
 ## 20β 1-3
 1. 3 Pl Pres Act Ind “They show”
 2. Pres Mid Inf “To show for oneself”, or 
-3. 
+3. 3 Sing Impf Act Ind “S/he was showing”
