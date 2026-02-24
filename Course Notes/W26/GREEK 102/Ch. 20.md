@@ -10,4 +10,5 @@ And suddenly Philip shuddered and fell into an icy fear. “O father”, he said
 2. Pres Mid Inf “To show for oneself”, or Pres Pass Inf “To be shown”
 3. 3 Sing Impf Act Ind “S/he was showing”
 ## 20γ
+
 1. The General was commanding 
