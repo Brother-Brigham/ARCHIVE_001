@@ -7,5 +7,7 @@ Having spoken thus, he led the boy down the hill. Then after a little while they
 And suddenly Philip shuddered and fell into an icy fear. “O father”, he said, “this place does not please me. For it smells of blood.” And Dicaeopolis said, “fear nothing, child, maybe the Furies of Agamemnon and the completely evil woman still wander about even now. But they will not harm you, child. Come. Give me your hand. I will lead you.” And having spoken thus, he led the boy down most quickly.
 ## 20β 1-3
 1. 3 Pl Pres Act Ind “They show”
-2. Pres Mid Inf “To show for oneself”, or 
+2. Pres Mid Inf “To show for oneself”, or Pres Pass Inf “To be shown”
 3. 3 Sing Impf Act Ind “S/he was showing”
+## 20γ
+1. The General was commanding 
