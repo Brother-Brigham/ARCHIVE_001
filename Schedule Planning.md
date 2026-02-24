@@ -3,23 +3,23 @@ To-Do ASAP
 - [ ] Linux - Hands-on Processes - 15-20 Minutes - Low Cognitive Load
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
-Monday
-- [ ] Religion - Jesus' Early Ministry Outline
-- [ ] Linux - Prepare Permissions Review & Docker
-- [ ] American Government - Norton Illumine ebook Reading Ch. 10: Congress
-- [ ] Religion - Jesus: On Discipleship Outline
-- [ ] Ancient Greek - Homework (1.5-2 hrs)
 Tuesday
+- [ ] Religion - Jesus' Early Ministry Outline
 - [ ] Religion - Jesus' Early Ministry Reading/Attendance Report
 - [ ] Networking - Textbook Day 23 Questions
-- [ ] Linux - Hands-on Exercise Permissions Review & Docker
 - [ ] American Government - W08 Current Events Commentary
 - [ ] American Government - InQuizitive Ch. 10: Congress
 Wednesday
 - [ ] Ponder & Prove #4
+- [ ] Linux - Hands-on Exercise Permissions Review & Docker
+- [ ] Linux - Prepare Permissions Review & Docker
+- [ ] American Government - Norton Illumine ebook Reading Ch. 10: Congress
+- [ ] Religion - Jesus: On Discipleship Outline
+- [ ] Ancient Greek - Homework (1.5-2 hrs)
+- [ ] Networking - Configuring DHCP using Cisco IOS
 - [ ] 
 Thursday
-- [ ] .
+- [ ] 
 Friday
 - [ ] .
 Saturday
