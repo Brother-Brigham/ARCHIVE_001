@@ -15,5 +15,5 @@ And suddenly Philip shuddered and fell into an icy fear. “O father”, he said
 1. The general commanded the messenger to open the gates and to receive the ambassadors.
 2. The messenger asked the guards why they were not opening the gates.
 3. The farmer, having yoked the oxen, began to plow.
-4. Having called the slave, he showed to him a very great stone and commanded him to carry it out of the field.
+4. Having called the slave, he showed to him the largest stone and commanded him to carry it out of the field.
 5. Such a great stone will break the plow; so, it is necessary to lift and to carry out the stone.
