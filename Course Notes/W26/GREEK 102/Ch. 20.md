@@ -10,5 +10,8 @@ And suddenly Philip shuddered and fell into an icy fear. “O father”, he said
 2. Pres Mid Inf “To show for oneself”, or Pres Pass Inf “To be shown”
 3. 3 Sing Impf Act Ind “S/he was showing”
 ## 20γ
-
-1. The General was commanding 
+![[IMG_3761.jpeg]]
+1. The General commanded the messenger to open the gates and to receive the ambassadors.
+2. The messenger asked the guards why they were not opening the gates.
+3. The farmer, having yoked the oxen, began to plow.
+4. Having called the slave, he showed to him a very great stone and commanded 
