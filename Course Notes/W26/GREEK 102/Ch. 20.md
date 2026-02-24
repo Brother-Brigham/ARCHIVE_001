@@ -5,3 +5,15 @@ And when it became day, having said goodbye to the shepherd, they began to journ
 Having spoken thus, he led the boy down the hill. Then after a little while they were approaching the walls and, having gone up onto the hill, they arrived at the gates. And Phillip, seeing the walls was amazed at the size and said, "O father, surely giants built these walls; for men would not be able to lift such great stones." And Dicaeopolis said, "You speak truth, child, for the Cyclopes, as they say, made these things. But look, I will show you wonderful work; look up!" And Phillip, looking up, saw two stone lions guarding the gates. And having looked at these they began to move forward and having arrived in the top of the crest of a hill in the palace of Agamemnon itself they began to stop, looking down at both the plain and the sun shining on the sea.
 ![[IMG_3757.jpeg]]![[IMG_3758.jpeg]]
 And suddenly Philip shuddered and fell into an icy fear. “O father”, he said, “this place does not please me. For it smells of blood.” And Dicaeopolis said, “fear nothing, child, maybe the Furies of Agamemnon and the completely evil woman still wander about even now. But they will not harm you, child. Come. Give me your hand. I will lead you.” And having spoken thus, he led the boy down most quickly.
+## 20β 1-3
+![[IMG_3762.jpeg]]
+1. 3 Pl Pres Act Ind “They show”
+2. Pres Mid Inf “To show for oneself”, or Pres Pass Inf “To be shown”
+3. 3 Sing Impf Act Ind “S/he was showing”
+## 20γ
+![[IMG_3761.jpeg]]
+1. The general commanded the messenger to open the gates and to receive the ambassadors.
+2. The messenger asked the guards why they were not opening the gates.
+3. The farmer, having yoked the oxen, began to plow.
+4. Having called the slave, he showed to him a very great stone and commanded him to carry it out of the field.
+5. Such a great stone will break the plow; so, it is necessary to lift and to carry out the stone.
