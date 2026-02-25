@@ -17,3 +17,8 @@ And suddenly Philip shuddered and fell into an icy fear. “O father”, he said
 3. The farmer, having yoked the oxen, began to plow.
 4. Having called the slave, he showed to him the largest stone and commanded him to carry it out of the field.
 5. Such a great stone will break the plow; so, it is necessary to lift and to carry out the stone.
+## 20γ Story (Last two paragraphs)
+![[IMG_3773.jpeg]]
+
+![[IMG_3774.jpeg]]
+
