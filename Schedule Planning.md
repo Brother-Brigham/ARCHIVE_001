@@ -1,11 +1,11 @@
 To-Do ASAP
-- [ ] Linux - Prepare Processes - 15-20 Minutes - Low Cognitive Load
-- [ ] Linux - Hands-on Processes - 15-20 Minutes - Low Cognitive Load
+- [x] Linux - Prepare Processes - 15-20 Minutes - Low Cognitive Load
+- [x] Linux - Hands-on Processes - 15-20 Minutes - Low Cognitive Load
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
 Tuesday
-- [ ] Religion - Jesus' Early Ministry Outline
-- [ ] Religion - Jesus' Early Ministry Reading/Attendance Report
+- [x] Religion - Jesus' Early Ministry Outline
+- [x] Religion - Jesus' Early Ministry Reading/Attendance Report
 - [ ] Networking - Textbook Day 23 Questions
 - [ ] American Government - W08 Current Events Commentary
 - [ ] American Government - InQuizitive Ch. 10: Congress
