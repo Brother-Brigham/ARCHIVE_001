@@ -38,3 +38,11 @@ Satisfied and spent, Ito returned his blade to its sheath and laid on his bedrol
 
 -----
 
+*Post where Ito interacts with Luci’s voice*
+
+_____
+
+*Post where [[Theos Aletheios|Theos]] is introduced.* “Tell me, boy; you hear a ghost too, don’t you?”
+
+_____
+
