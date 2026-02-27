@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Schedule Planning"
             }
+          },
+          {
+            "id": "1b8664f7be9264a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bf74bbdd11008a34",
+  "active": "1b8664f7be9264a2",
   "lastOpenFiles": [
     "Course Notes/W26/GREEK 102/Ch. 20.md",
     "Attachments/IMG_3782.jpeg",
