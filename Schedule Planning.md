@@ -1,30 +1,28 @@
-To-Do ASAP
-- [x] Linux - Prepare Processes - 15-20 Minutes - Low Cognitive Load
-- [x] Linux - Hands-on Processes - 15-20 Minutes - Low Cognitive Load
+Friday
+- [ ] Networking - Textbook Day 23 Questions - 20-30 minutes - Med Cognitive Load
+- [ ] Religion - Ponder & Prove #4 - 30-45 minutes - Med/Low Cognitive Load
+- [ ] Networking - Configuring DHCP using Cisco IOS - 45-60 minutes - High Cognitive Load
+- [ ] American Government - National Budget Part 1 - 45-60 minutes - Med Cognitive Load
+- [ ] American Government - National Budget Part 3 - 45-60 minutes - High Cognitive Load
+- [ ] American Government - InQuizitive: Ch. 10 - 45-60 minutes - Med Cognitive Load
+- [ ] Linux - Prepare: Finding Files - 20-30 minutes - Med/Low Cognitive Load
+- [ ] Linux - Hands-on: Finding Files - 20-30 minutes - Med/Low Cognitive Load
+- [ ] Linux: Quiz: Capture the Flags File Location Activity - 30-45 minutes - Med/High Cognitive Load
+- [ ] Networking - DHCP and Helper Addresses - 45-60 minutes - High Cognitive Load
+- [ ] Networking - Quiz 6 - 60-75 minutes - High Cognitive Load
+Saturday
+- [ ] Ancient Greek - Ch 19 Vocabulary Quiz - 10-15 minutes - Med Cognitive Load
+- [ ] Ancient Greek - Ch 20 Vocabulary Quiz - 10-15 minutes - Med Cognitive Load
+- [ ] Ancient Greek - 20d Story translation - 30-45 minutes - High Cognitive Load
+- [ ] Ancient Greek - 19a Story translation - 30-45 minutes - High Cognitive Load
+- [ ] Ancient Greek - 19b Story translation - 30-45 minutes - High Cognitive Load
+- [ ] Ancient Greek - Ch 19 Exercises - 20-30 minutes - Med Cognitive Load
+- [ ] Ancient Greek - Ch 20 Exercises - 20-30 minutes - Med Cognitive Load
+- [ ] Networking - Configuring DHCPv6 (Extra Credit) - 60-75 minutes - High Cognitive Load
+- [ ] American Government - National Budget Part 2 - 45-60 minutes - Med Cognitive Load
+Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
-Tuesday
-- [x] Religion - Jesus' Early Ministry Outline
-- [x] Religion - Jesus' Early Ministry Reading/Attendance Report
-- [ ] Networking - Textbook Day 23 Questions
-- [ ] American Government - W08 Current Events Commentary
-- [ ] American Government - InQuizitive Ch. 10: Congress
-Wednesday
-- [ ] Ponder & Prove #4
-- [ ] Linux - Hands-on Exercise Permissions Review & Docker
-- [ ] Linux - Prepare Permissions Review & Docker
-- [ ] American Government - Norton Illumine ebook Reading Ch. 10: Congress
-- [ ] Religion - Jesus: On Discipleship Outline
-- [ ] Ancient Greek - Homework (1.5-2 hrs)
-- [ ] Networking - Configuring DHCP using Cisco IOS
-- [ ] 
-Thursday
-- [ ] 
-Friday
-- [ ] .
-Saturday
-- [ ] .
-
 
 
 Already late, to-do whenever convenient
