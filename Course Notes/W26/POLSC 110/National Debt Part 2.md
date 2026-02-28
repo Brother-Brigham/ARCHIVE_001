@@ -7,7 +7,6 @@ Allocate $100 Billion between the following:
 - Other domestic or defense spending (optional with explanation)
 
 From the perspective of a Moderate. 
-
 - AI regulation and tech oversight 
 	$30 Billion (Conservatives benefit)
 - Student debt forgiveness
