@@ -7,9 +7,9 @@ Saturday
 - [ ] Linux: Quiz: Capture the Flags File Location Activity - 30-45 minutes - Med/High Cognitive Load
 - [ ] Networking - DHCP and Helper Addresses - 45-60 minutes - High Cognitive Load
 - [ ] Networking - Quiz 6 - 60-75 minutes - High Cognitive Load
-- [ ] Ancient Greek - 20d Story translation - 30-45 minutes - High Cognitive Load
-- [ ] Ancient Greek - 19a Story translation - 30-45 minutes - High Cognitive Load
-- [ ] Ancient Greek - 19b Story translation - 30-45 minutes - High Cognitive Load
+- [x] Ancient Greek - 20d Story translation - 30-45 minutes - High Cognitive Load
+- [x] Ancient Greek - 19a Story translation - 30-45 minutes - High Cognitive Load
+- [x] Ancient Greek - 19b Story translation - 30-45 minutes - High Cognitive Load
 - [ ] Ancient Greek - Ch 19 Exercises - 20-30 minutes - Med Cognitive Load
 - [ ] Ancient Greek - Ch 20 Exercises - 20-30 minutes - Med Cognitive Load
 - [ ] Networking - Configuring DHCPv6 (Extra Credit) - 60-75 minutes - High Cognitive Load
