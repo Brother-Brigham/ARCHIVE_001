@@ -3,8 +3,8 @@ Saturday
 - [x] Religion - Ponder & Prove #4 - 30-45 minutes - Med/Low Cognitive Load
 - [x] Networking - Configuring DHCP using Cisco IOS - 45-60 minutes - High Cognitive Load
 - [x] American Government - National Budget Part 3 - 45-60 minutes - High Cognitive Load
-- [ ] Linux - Hands-on: Finding Files - 20-30 minutes - Med/Low Cognitive Load
-- [ ] Linux: Quiz: Capture the Flags File Location Activity - 30-45 minutes - Med/High Cognitive Load
+- [x] Linux - Hands-on: Finding Files - 20-30 minutes - Med/Low Cognitive Load
+- [x] Linux: Quiz: Capture the Flags File Location Activity - 30-45 minutes - Med/High Cognitive Load
 - [ ] Networking - DHCP and Helper Addresses - 45-60 minutes - High Cognitive Load
 - [ ] Networking - Quiz 6 - 60-75 minutes - High Cognitive Load
 - [x] Ancient Greek - 20d Story translation - 30-45 minutes - High Cognitive Load
@@ -24,8 +24,8 @@ Already late, to-do whenever convenient
 - [ ] American Government - W02 Federalism Part 1 - 45-60 minutes - Medium Cognitive Load
 - [ ] American Government - W02 Federalism Part 2 - 45-60 minutes - Medium Cognitive Load
 - [ ] American Government - W03 Civil Liberties Part 1 - 45-60 minutes - Medium Cognitive Load
-- [ ] Ancient Greek - Exercise 19α - 30-45 minutes - High Cognitive Load
-- [ ] Ancient Greek - Exercise 19γ - 30-45 Minutes - High Cognitive Load
+- [x] Ancient Greek - Exercise 19α - 30-45 minutes - High Cognitive Load
+- [x] Ancient Greek - Exercise 19γ - 30-45 Minutes - High Cognitive Load
 
 
 Gemini Prompt:
