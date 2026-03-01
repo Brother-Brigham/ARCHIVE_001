@@ -1,5 +1,5 @@
 
-- Chrom x Sumia 
+- Chrom x Sumia ✔️
 	- Lucina@Sniper
 		- Galeforce (Dark Flier) {Sumia}
 		- Aether (Great Lord) {Chrom}
@@ -14,7 +14,7 @@
 		- Speed +2 (Pegasus Knight) {Cynthia}
 		- Defender (Paladin) {Cynthia}
 
-- Lissa x Ricken
+- Lissa x Ricken✔️
 	- Owain@Sage
 		- Galeforce (Dark Flier) {Lissa}
 		- Tomefaire (Sage) {Ricken}
