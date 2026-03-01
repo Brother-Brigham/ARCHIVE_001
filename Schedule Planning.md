@@ -2,7 +2,7 @@ Saturday
 - [ ] Networking - Textbook Day 23 Questions - 20-30 minutes - Med Cognitive Load
 - [x] Religion - Ponder & Prove #4 - 30-45 minutes - Med/Low Cognitive Load
 - [ ] Networking - Configuring DHCP using Cisco IOS - 45-60 minutes - High Cognitive Load
-- [ ] American Government - National Budget Part 3 - 45-60 minutes - High Cognitive Load
+- [x] American Government - National Budget Part 3 - 45-60 minutes - High Cognitive Load
 - [ ] Linux - Hands-on: Finding Files - 20-30 minutes - Med/Low Cognitive Load
 - [ ] Linux: Quiz: Capture the Flags File Location Activity - 30-45 minutes - Med/High Cognitive Load
 - [ ] Networking - DHCP and Helper Addresses - 45-60 minutes - High Cognitive Load
