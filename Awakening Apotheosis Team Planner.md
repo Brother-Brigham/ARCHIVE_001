@@ -97,7 +97,7 @@
 - Robin (M) x Noire
 	- Morgan (F)@Sniper
 		- Galeforce (Dark Flier) {Noire}
-		- Bowfaire (Sniper)
-		- Vengeance (Sorcerer) 
-		- Vantage (Myrmidon)
-		- Speed +2 (Pegasus Knight)
+		- Bowfaire (Sniper) {Morgan}
+		- Vengeance (Sorcerer) {Robin}
+		- Vantage (Myrmidon) {Morgan}
+		- Speed +2 (Pegasus Knight) {Morgan}
