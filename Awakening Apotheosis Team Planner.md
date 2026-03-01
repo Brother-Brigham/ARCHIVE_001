@@ -1,5 +1,5 @@
 
-- Chrom x Sumia
+- Chrom x Sumia 
 	- Lucina@Sniper
 		- Galeforce (Dark Flier) {Sumia}
 		- Aether (Great Lord) {Chrom}
