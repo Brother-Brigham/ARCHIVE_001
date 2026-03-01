@@ -1,6 +1,6 @@
 Saturday
 - [ ] Networking - Textbook Day 23 Questions - 20-30 minutes - Med Cognitive Load
-- [ ] Religion - Ponder & Prove #4 - 30-45 minutes - Med/Low Cognitive Load
+- [x] Religion - Ponder & Prove #4 - 30-45 minutes - Med/Low Cognitive Load
 - [ ] Networking - Configuring DHCP using Cisco IOS - 45-60 minutes - High Cognitive Load
 - [ ] American Government - National Budget Part 3 - 45-60 minutes - High Cognitive Load
 - [ ] Linux - Hands-on: Finding Files - 20-30 minutes - Med/Low Cognitive Load
@@ -9,7 +9,7 @@ Saturday
 - [ ] Networking - Quiz 6 - 60-75 minutes - High Cognitive Load
 - [x] Ancient Greek - 20d Story translation - 30-45 minutes - High Cognitive Load
 - [x] Ancient Greek - 19a Story translation - 30-45 minutes - High Cognitive Load
-- [x] Ancient Greek - 19b Story translation - 30-45 minutes - High Cognitive Load
+- [ ] Ancient Greek - 19b Story translation - 30-45 minutes - High Cognitive Load
 - [ ] Ancient Greek - Ch 19 Exercises - 20-30 minutes - Med Cognitive Load
 - [ ] Ancient Greek - Ch 20 Exercises - 20-30 minutes - Med Cognitive Load
 - [ ] Networking - Configuring DHCPv6 (Extra Credit) - 60-75 minutes - High Cognitive Load
