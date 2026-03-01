@@ -11,7 +11,7 @@
 7. When the farmers became hostile, the young men abandoned the plain and went up onto the hill.
 8. Although the sheep were making noise, the farmer was not hurrying.
 9. When the sun was rising, the boy already was going to the field.
-10. The sun having set, having worked all the day, the bot wished to return homeward.
+10. The sun having set, having worked all the day, the boy wished to return homeward.
 ## 19β exercise
 ![[IMG_3716.jpeg]]
 Present
