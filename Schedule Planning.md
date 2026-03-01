@@ -13,7 +13,7 @@ Saturday
 - [x] Ancient Greek - Ch 19 Exercises - 20-30 minutes - Med Cognitive Load
 - [x] Ancient Greek - Ch 20 Exercises - 20-30 minutes - Med Cognitive Load
 - [ ] Networking - Configuring DHCPv6 (Extra Credit) - 60-75 minutes - High Cognitive Load
-- [ ] American Government - National Budget Part 2 - 45-60 minutes - Med Cognitive Load
+- [x] American Government - National Budget Part 2 - 45-60 minutes - Med Cognitive Load
 Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
