@@ -5,7 +5,7 @@ Saturday
 - [x] American Government - National Budget Part 3 - 45-60 minutes - High Cognitive Load
 - [x] Linux - Hands-on: Finding Files - 20-30 minutes - Med/Low Cognitive Load
 - [x] Linux: Quiz: Capture the Flags File Location Activity - 30-45 minutes - Med/High Cognitive Load
-- [ ] Networking - DHCP and Helper Addresses - 45-60 minutes - High Cognitive Load
+- [x] Networking - DHCP and Helper Addresses - 45-60 minutes - High Cognitive Load
 - [ ] Networking - Quiz 6 - 60-75 minutes - High Cognitive Load
 - [x] Ancient Greek - 20d Story translation - 30-45 minutes - High Cognitive Load
 - [x] Ancient Greek - 19a Story translation - 30-45 minutes - High Cognitive Load
