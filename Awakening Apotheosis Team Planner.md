@@ -58,13 +58,13 @@
 	- (Hatsune Miku) Severa@Sniper
 		- Galeforce (Dark Flier) {Cordelia}
 		- Bowfaire (Sniper) {Virion}
-		- Vengeance (Sorcerer) 
-		- Anathema (Dark Mage)
-		- Speed +2 (Pegasus Knight)
+		- Vengeance (Sorcerer) {Severa}
+		- Anathema (Dark Mage) {Severa}
+		- Speed +2 (Pegasus Knight) {Severa}
 
 - Tharja x Gaius
 	- Noire@Assassin
-		- Galeforce (Dark Flier)
+		- Galeforce (Dark Flier) 
 		- Bowfaire (Sniper)
 		- Astra (Swordmaster)
 		- Luna (Great Knight)
