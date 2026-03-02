@@ -1,6 +1,6 @@
 ## 21α Story
 ![[IMG_3809.jpeg]]
-And not much later Dicaeopolis stood up, saying to Philip, "Stand up, boy, for it is time to go. So let us hurry straight toward the city." So 
+And not much later Dicaeopolis stood up, saying to Philip, "Stand up, boy, for it is time to go. So let us hurry straight toward the city." So they set out and soon they met many farmers going to Athens. So Dicaeopolis, approaching some old man who was walking near him, 
 ![[IMG_3810.jpeg]]
 
 ![[IMG_3811.jpeg]]![[IMG_3812.jpeg]]
