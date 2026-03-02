@@ -46,7 +46,7 @@
 		- Tomebreaker (Sorcerer) {Laurent}
 		- Axebreaker (Hero) {Laurent}
 
-- Maribelle x Lon’qu
+- Maribelle x Lon’qu✔️
 	- Brady@Sage
 		- Galeforce (Dark Flier) {Maribelle}
 		- Tomefaire (Sage) {Brady}
