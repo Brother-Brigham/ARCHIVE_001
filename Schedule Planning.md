@@ -3,7 +3,7 @@ Sunday
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
 Monday
 - [ ] Ancient Greek - 21a Story Translation - 60-90 minutes - High cognitive load
-- [ ] Ancient Greek - Read about subjunctive - 5 minutes - High cognitive load
+- [x] Ancient Greek - Read about subjunctive - 5 minutes - High cognitive load
 - [ ] Religion - Jesus' Profound Teachings and Parables Outline - 45-60 minutes - Low/medium cognitive load
 - [ ] Linux - Prepare: Networking - 30-45 minutes - Low/medium cognitive load
 - [ ] Ancient Greek - Evening Homework - 90-120 minutes - High cognitive load
