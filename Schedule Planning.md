@@ -1,8 +1,42 @@
 Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
+Monday
 - [ ] Ancient Greek - 21a Story Translation
 - [ ] Ancient Greek - Read about subjunctive
+- [ ] Religion - Jesus' Profound Teachings and Parables Outline
+- [ ] Linux - Prepare: Networking
+- [ ] Ancient Greek - Evening Homework
+Tuesday
+- [ ] Religion - Jesus' Profound Teachings and Parables Reading & Attendance Reflection
+- [ ] Linux - Hands-on Exercise: SSH Server
+- [ ] American Government - Norton Illumine Ebook Ch. 11: The Presidency
+- [ ] Ancient Greek - Evening Homework
+Wednesday
+- [ ] American Government - W09 Current Events Commentary
+- [ ] Religion - Keys of the Kingdom and Authority Outline
+- [ ] American Government - InQuizitive Ch. 11: The Presidency
+- [ ] American Government - W09 Assignment: Presidents Part 1
+- [ ] American Government - W09 Assignment: Presidents Part 2 (Initial Posts)
+- [ ] Ancient Greek - Evening Homework
+Thursday
+- [ ] Religion - Keys of the Kingdom and Authority Reading & Attendance Reflection
+- [ ] Linux - Prepare: Exercise GCP Bulletin
+- [ ] Networking - Configuring Wireless LAN Access
+- [ ] Networking - Configuring a Basic WLAN Network on the WLC
+- [ ] Networking - Configure a WPA2 Enterprise WLAN on the WLC
+- [ ] Networking - WLAN Configuring
+Friday
+- [ ] American Government - W09 Exam 2
+- [ ] American Government - Presidents Part 2 (Response Posts)
+- [ ] Linux - Hands-on Exercise: GCP Docker Sample
+- [ ] Networking - Textbook Days 21 and 22 Questions
+Saturday
+- [ ] Ancient Greek - 21b Story Translation
+- [ ] Ancient Greek - Ch. 21 Exercises
+- [ ] Ancient Greek - Ch. 21 Vocab Quiz
+- [ ] Networking - Quiz 7
+- [ ] Networking - Troubleshoot WLAN Issues (Extra Credit)
 
 
 Already late, to-do whenever convenient

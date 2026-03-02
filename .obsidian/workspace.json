@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awakening Apotheosis Team Planner.md",
+                "file": "Schedule Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awakening Apotheosis Team Planner"
+              "title": "Schedule Planning"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,24 +195,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bf74bbdd11008a34",
+  "active": "a0a1dac495db7288",
   "lastOpenFiles": [
+    "Course Notes/W26/GREEK 102/Ch. 21.md",
+    "Attachments/IMG_3812.jpeg",
+    "Attachments/IMG_3811.jpeg",
+    "Attachments/IMG_3810.jpeg",
+    "Attachments/IMG_3809.jpeg",
+    "Awakening Apotheosis Team Planner.md",
     "Schedule Planning.md",
     "Course Notes/W26/POLSC 110/National Debt Part 2.md",
     "Course Notes/W26/GREEK 102/Ch. 20.md",
     "Course Notes/W26/GREEK 102/Ch. 19.md",
     "Course Notes/W26/POLSC 110",
-    "Awakening Apotheosis Team Planner.md",
     "Attachments/IMG_3782.jpeg",
     "Attachments/IMG_3781.jpeg",
     "Attachments/IMG_3780.jpeg",
     "Attachments/IMG_3779.jpeg",
     "Attachments/IMG_3774.jpeg",
     "Attachments/IMG_3773.jpeg",
-    "Attachments/IMG_3762.jpeg",
-    "Attachments/IMG_3761.jpeg",
-    "Attachments/IMG_3758.jpeg",
-    "Attachments/IMG_3757.jpeg",
     "To-do List.md",
     "Goals for 2026.md",
     "Course Notes/W26/GREEK 102/Ch. 18.md",
@@ -235,7 +235,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
