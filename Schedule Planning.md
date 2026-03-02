@@ -2,16 +2,16 @@ Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
 Monday
-- [ ] Ancient Greek - 21a Story Translation
-- [ ] Ancient Greek - Read about subjunctive
-- [ ] Religion - Jesus' Profound Teachings and Parables Outline
-- [ ] Linux - Prepare: Networking
-- [ ] Ancient Greek - Evening Homework
+- [ ] Ancient Greek - 21a Story Translation - 60-90 minutes - High cognitive load
+- [ ] Ancient Greek - Read about subjunctive - 5 minutes - High cognitive load
+- [ ] Religion - Jesus' Profound Teachings and Parables Outline - 45-60 minutes - Low/medium cognitive load
+- [ ] Linux - Prepare: Networking - 30-45 minutes - Low/medium cognitive load
+- [ ] Ancient Greek - Evening Homework - 90-120 minutes - High cognitive load
 Tuesday
-- [ ] Religion - Jesus' Profound Teachings and Parables Reading & Attendance Reflection
-- [ ] Linux - Hands-on Exercise: SSH Server
-- [ ] American Government - Norton Illumine Ebook Ch. 11: The Presidency
-- [ ] Ancient Greek - Evening Homework
+- [ ] Religion - Jesus' Profound Teachings and Parables Reading & Attendance Reflection - 30-45 minutes - Low/medium cognitive load
+- [ ] Linux - Hands-on Exercise: SSH Server  - 20-40 minutes - Low/medium cognitive load
+- [ ] American Government - Norton Illumine Ebook Ch. 11: The Presidency - 10-20 minutes - Low cognitive load
+- [ ] Ancient Greek - Evening Homework - 90-120 minutes - High cognitive load
 Wednesday
 - [ ] American Government - W09 Current Events Commentary
 - [ ] Religion - Keys of the Kingdom and Authority Outline
@@ -48,7 +48,7 @@ Already late, to-do whenever convenient
 
 Gemini Prompt:
 
-It is {Time} on {Day}. Let's revise our plan for {Day}.
+It is 11:35 on Monday. Let's revise our plan for today.
 
   
 
@@ -73,7 +73,12 @@ Commute Times: 10-15 mins commute on foot from home to work, work to lecture, le
   
 
 Homework Assignments:
-
+Monday
+- [ ] Ancient Greek - 21a Story Translation
+- [ ] Ancient Greek - Read about subjunctive
+- [ ] Religion - Jesus' Profound Teachings and Parables Outline
+- [ ] Linux - Prepare: Networking
+- [ ] Ancient Greek - Evening Homework
   
 
-Please also provide a new daily brief for Friday. All of the above assignments are due Saturday, but it would be better to do as many of them before that day as possible (especially the Networking assignments, so I have enough time to do them properly). If anything on the to-do list for Friday's homework must be shifted to Saturday to ensure proper bedtime, flag suggested assignments but do not leave them out of the brief. I also have an unexpected meeting immediately after work, likely going from 17:30 - 23:30 or later. Saturday morning has a meeting this week from 10:00 - 12:00, so keep that in mind when shifting assignments from Friday to Saturday with respect to timing.
+Please also provide a new daily brief for Monday. If anything on the to-do list for today's homework must be shifted to tomorrow to ensure proper bedtime, flag suggested assignments but do not leave them out of the brief. I am working today from 10:00-12:30 and 13:00-16:00, on top of my normal work schedule.
