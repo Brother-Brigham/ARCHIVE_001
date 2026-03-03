@@ -1,13 +1,10 @@
 Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
-Monday
-- [ ] Ancient Greek - 21a Story Translation - 60-90 minutes - High cognitive load
-- [x] Ancient Greek - Read about subjunctive - 5 minutes - High cognitive load
-- [ ] Religion - Jesus' Profound Teachings and Parables Outline - 45-60 minutes - Low/medium cognitive load
-- [ ] American Government - Norton Illumine Ebook Ch. 11: The Presidency - 10-20 minutes - Low cognitive load
-- [ ] Ancient Greek - Evening Homework - 90-120 minutes - High cognitive load
 Tuesday
+- [ ] Religion - Jesus' Profound Teachings and Parables Outline - 45-60 minutes - Low/medium cognitive load - Due at 14:00
+- [ ] American Government - Norton Illumine Ebook Ch. 11: The Presidency - 10-20 minutes - Low cognitive load
+- [ ] Ancient Greek - Pre-class homework - 90-120 minutes - High cognitive load - Due at 12:45
 - [ ] Religion - Jesus' Profound Teachings and Parables Reading & Attendance Reflection - 30-45 minutes - Low/medium cognitive load
 - [ ] Linux - Prepare: Networking - 30-45 minutes - Low/medium cognitive load
 - [ ] Linux - Hands-on Exercise: SSH Server  - 20-40 minutes - Low/medium cognitive load
