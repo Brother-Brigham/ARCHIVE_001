@@ -6,5 +6,9 @@ And not much later Dicaeopolis, having risen, said to Philip, "Stand up, boy, fo
 ![[IMG_3811.jpeg]]![[IMG_3812.jpeg]]
 
 ## 21β exercise 1-3
-
+![[IMG_3815.jpeg]]
+1. λῡωμεν
+2. ἔλῡωσε(ν)
+3. 
 ## 21γ exercise
+![[IMG_3816.jpeg]]
