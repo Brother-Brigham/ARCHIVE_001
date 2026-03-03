@@ -8,7 +8,17 @@ And not much later Dicaeopolis, having risen, said to Philip, "Stand up, boy, fo
 ## 21β exercise 1-3
 ![[IMG_3815.jpeg]]
 1. λῡωμεν
-2. ἔλῡωσε(ν)
-3. 
+2. λύσῃ
+3. τῑμᾷ
 ## 21γ exercise
 ![[IMG_3816.jpeg]]
+1. Stand up, friends; let us consider (hortatory) what we should do (deliberative).
+2. Whether we should return (deliberative) homeward or we should stay (deliberative) in the hills?
+3. When it is evening, let us not stay (hortatory) in the hills but let us hurry (hortatory) homeward.
+4. How should we arrive (deliberative) homeward? For we know not the road.
+5. Look! It is possible to ask that shepherd which road we should take (deliberative).
+6. Don't run away (prohibitive), old man, but tell us which road carries to the city! 
+7. Now at least, don't set out (prohibitive) there; for you will not arrive before night.
+8. What should we do (deliberative), friends? For the shepherd says that we are not able to arrive before night.
+9. Having gone down into the plain, let us seek some house so that we may rest (purposive)
+10. And when it is day, let us set out (hortatory) immediately

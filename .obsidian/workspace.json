@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule Planning.md",
+                "file": "Course Notes/W26/GREEK 102/Ch. 21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule Planning"
+              "title": "Ch. 21"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +195,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bf74bbdd11008a34",
+  "active": "a0a1dac495db7288",
   "lastOpenFiles": [
-    "Course Notes/W26/GREEK 102/Ch. 21.md",
+    "Attachments/IMG_3816.jpeg",
+    "Attachments/IMG_3815.jpeg",
     "Schedule Planning.md",
+    "Course Notes/W26/GREEK 102/Ch. 21.md",
     "Attachments/IMG_3812.jpeg",
     "Attachments/IMG_3811.jpeg",
     "Attachments/IMG_3810.jpeg",
@@ -214,7 +215,6 @@
     "Attachments/IMG_3780.jpeg",
     "Attachments/IMG_3779.jpeg",
     "Attachments/IMG_3774.jpeg",
-    "Attachments/IMG_3773.jpeg",
     "To-do List.md",
     "Goals for 2026.md",
     "Course Notes/W26/GREEK 102/Ch. 18.md",
@@ -235,7 +235,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
