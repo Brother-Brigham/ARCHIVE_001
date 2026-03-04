@@ -2,13 +2,11 @@ Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
 Wednesday
-- [ ] Linux - Prepare: Networking - 30-45 minutes - Low/medium cognitive load
-- [ ] Linux - Hands-on Exercise: SSH Server  - 20-40 minutes - Low/medium cognitive load
+- [x] Linux - Prepare: Networking - 30-45 minutes - Low/medium cognitive load
+- [x] Linux - Hands-on Exercise: SSH Server  - 20-40 minutes - Low/medium cognitive load
 - [ ] American Government - W09 Current Events Commentary - 45-60 minutes - Medium cognitive load
 - [ ] Religion - Keys of the Kingdom and Authority Outline - 30-45 minutes - Low/medium cognitive load
 - [ ] American Government - InQuizitive Ch. 11: The Presidency - 30-45 minutes - Low/medium cognitive load
-- [ ] American Government - W09 Assignment: Presidents Part 1 - 45-60 minutes - Medium cognitive load
-- [ ] American Government - W09 Assignment: Presidents Part 2 (Initial Posts) - 45-60 minutes - Medium cognitive load
 - [ ] Ancient Greek - 21z assigned numbers, 21n, Translate and answer Qs for second Thucydides passage - 90-120 minutes - High cognitive load
 Thursday
 - [ ] Religion - Keys of the Kingdom and Authority Reading & Attendance Reflection - 45-60 minutes - Medium cognitive load
@@ -19,6 +17,8 @@ Thursday
 - [ ] Networking - WLAN Configuring - 45-60 minutes - Medium cognitive load
 Friday
 - [ ] American Government - W09 Exam 2 - 60-90 minutes - Medium cognitive load
+- [ ] American Government - W09 Assignment: Presidents Part 1 - 45-60 minutes - Medium cognitive load
+- [ ] American Government - W09 Assignment: Presidents Part 2 (Initial Posts) - 45-60 minutes - Medium cognitive load
 - [ ] American Government - Presidents Part 2 (Response Posts) - 45-60 minutes - Medium cognitive load
 - [ ] Linux - Hands-on Exercise: GCP Docker Sample - 45-60 minutes - Medium cognitive load
 - [ ] Networking - Textbook Days 21 and 22 Questions - 45-60 minutes - Medium cognitive load
