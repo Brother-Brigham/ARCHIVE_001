@@ -23,3 +23,15 @@ And not much later Dicaeopolis, having risen, said to Philip, "Stand up, boy, fo
 9. Having gone down into the plain, let us seek (hortatory) some house so that we may rest (purposive)
 10. And when it is day, let us set out (hortatory) immediately
 ## 21
+![[Pasted image 20260304121952.png]]
+And finally Pericles, son of Xanthipus, having come forward, 
+![[Pasted image 20260304122013.png]]
+
+![[Pasted image 20260304122028.png]]
+
+![[Pasted image 20260304122042.png]]
+
+![[Pasted image 20260304122120.png]]
+
+![[Pasted image 20260304122134.png]]
+
