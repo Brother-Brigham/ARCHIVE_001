@@ -11,24 +11,25 @@ Wednesday
 - [ ] American Government - W09 Assignment: Presidents Part 2 (Initial Posts) - 45-60 minutes - Medium cognitive load
 - [ ] Ancient Greek - Evening Homework - 90-120 minutes - High cognitive load
 Thursday
-- [ ] Religion - Keys of the Kingdom and Authority Reading & Attendance Reflection
-- [ ] Linux - Prepare: Exercise GCP Bulletin
-- [ ] Networking - Configuring Wireless LAN Access
-- [ ] Networking - Configuring a Basic WLAN Network on the WLC
-- [ ] Networking - Configure a WPA2 Enterprise WLAN on the WLC
-- [ ] Networking - WLAN Configuring
+- [ ] Religion - Keys of the Kingdom and Authority Reading & Attendance Reflection - 45-60 minutes - Medium cognitive load
+- [ ] Linux - Prepare: Exercise GCP Bulletin - 45-60 minutes - Medium cognitive load
+- [ ] Networking - Configuring Wireless LAN Access - 45-60 minutes - Medium cognitive load
+- [ ] Networking - Configuring a Basic WLAN Network on the WLC - 45-60 minutes - Medium cognitive load
+- [ ] Networking - Configure a WPA2 Enterprise WLAN on the WLC - 45-60 minutes - Medium cognitive load
+- [ ] Networking - WLAN Configuring - 45-60 minutes - Medium cognitive load
 Friday
-- [ ] American Government - W09 Exam 2
-- [ ] American Government - Presidents Part 2 (Response Posts)
-- [ ] Linux - Hands-on Exercise: GCP Docker Sample
-- [ ] Networking - Textbook Days 21 and 22 Questions
-- [ ] Ancient Greek - Midterm Exam
+- [ ] American Government - W09 Exam 2 - 60-90 minutes - Medium cognitive load
+- [ ] American Government - Presidents Part 2 (Response Posts) - 45-60 minutes - Medium cognitive load
+- [ ] Linux - Hands-on Exercise: GCP Docker Sample - 45-60 minutes - Medium cognitive load
+- [ ] Networking - Textbook Days 21 and 22 Questions - 45-60 minutes - Medium cognitive load
+- [ ] Ancient Greek - Midterm Exam (Due in-class on Monday) - 90-120 minutes - Medium cognitive load
 Saturday
-- [ ] Ancient Greek - 21b Story Translation
-- [ ] Ancient Greek - Ch. 21 Exercises
-- [ ] Ancient Greek - Ch. 21 Vocab Quiz
-- [ ] Networking - Quiz 7
-- [ ] Networking - Troubleshoot WLAN Issues (Extra Credit)
+- [ ] Ancient Greek - 21a Story Translation - 45-60 minutes - High cognitive load
+- [ ] Ancient Greek - 21b Story Translation - 45-60 minutes - High cognitive load
+- [ ] Ancient Greek - Ch. 21 Exercises - 5 minutes - Low cognitive load
+- [ ] Ancient Greek - Ch. 21 Vocab Quiz - 10-15 minutes - Medium cognitive load
+- [ ] Networking - Quiz 7 - 60-90 minutes - High cognitive load
+- [ ] Networking - Troubleshoot WLAN Issues (Extra Credit) - 45-60 minutes - High cognitive load
 
 
 Already late, to-do whenever convenient
