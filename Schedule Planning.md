@@ -9,7 +9,7 @@ Wednesday
 - [ ] American Government - InQuizitive Ch. 11: The Presidency - 30-45 minutes - Low/medium cognitive load
 - [ ] American Government - W09 Assignment: Presidents Part 1 - 45-60 minutes - Medium cognitive load
 - [ ] American Government - W09 Assignment: Presidents Part 2 (Initial Posts) - 45-60 minutes - Medium cognitive load
-- [ ] Ancient Greek - Evening Homework - 90-120 minutes - High cognitive load
+- [ ] Ancient Greek - 21z assigned numbers, 21n, Translate and answer Qs for second Thucydides passage - 90-120 minutes - High cognitive load
 Thursday
 - [ ] Religion - Keys of the Kingdom and Authority Reading & Attendance Reflection - 45-60 minutes - Medium cognitive load
 - [ ] Linux - Prepare: Exercise GCP Bulletin - 45-60 minutes - Medium cognitive load
