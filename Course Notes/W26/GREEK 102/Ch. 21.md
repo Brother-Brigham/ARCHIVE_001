@@ -22,3 +22,4 @@ And not much later Dicaeopolis, having risen, said to Philip, "Stand up, boy, fo
 8. What should we do (deliberative), friends? For the shepherd says that we are not able to arrive before night.
 9. Having gone down into the plain, let us seek (hortatory) some house so that we may rest (purposive)
 10. And when it is day, let us set out (hortatory) immediately
+## 21
