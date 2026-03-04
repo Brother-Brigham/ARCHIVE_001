@@ -24,7 +24,7 @@ And not much later Dicaeopolis, having risen, said to Philip, "Stand up, boy, fo
 10. And when it is day, let us set out (hortatory) immediately
 ## 21
 ![[Pasted image 20260304121952.png]]
-And finally Pericles, son of Xanthipus, having come forward, 
+And finally Pericles son of Xanthipus, having come forward, first man of the Athenians at that time, both to speak and to act most capably, 
 ![[Pasted image 20260304122013.png]]
 
 ![[Pasted image 20260304122028.png]]
