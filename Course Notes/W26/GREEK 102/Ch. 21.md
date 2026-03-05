@@ -39,21 +39,21 @@ And finally Pericles son of Xanthipus, having come forward, first man of the Ath
 ## 21ζ Exercise 1-3
 ![[Pasted image 20260305103806.png]]
 1. Aorist Passive 1 Plural
-2. .
-3. .
+2. Present Active 2 Plural
+3. Aorist Active 2 Singular
 
 ## 21η Exercise
 ![[Pasted image 20260305103840.png]]
-1. .
-2. .
-3. .
-4. .
-5. .
-6. ..
-7. .
-8. .
-9. .
-10. .
+1. Let us not remain (hortatory) at home but let us go (hortatory) to the city so that we may be present (purpose) at the assembly.
+2. Let us go (hortatory) into the Pnyx so that we may hear (purpose) the speakers deliberating what we should do (deliberative).
+3. For the Peloponnesians have sent ambassadors saying that there will be war if we do not give up (prohibitive?) the empire.
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 ## ΟΙ ΑΥΤΟΡΓΟΙ ΑΝΙΣΤΑΝΤΑΙ
 ![[Pasted image 20260305104008.png]]
 Translation:
