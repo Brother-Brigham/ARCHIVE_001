@@ -44,7 +44,7 @@ And finally Pericles son of Xanthipus, having come forward, first man of the Ath
 
 ## 21η Exercise
 ![[Pasted image 20260305103840.png]]
-1. Let us not remain (hortatory) at home but let us go (hortatory) to the city so that we may be present (purpose) at the assembly.
+1. Let us not remain (hortatory) at home but let us hasten (hortatory) to the city so that we may be present (purpose) at the assembly.
 2. Let us go (hortatory) into the Pnyx so that we may hear (purpose) the speakers deliberating what we should do (deliberative).
 3. For the Peloponnesians have sent ambassadors saying that there will be war if we do not give up (prohibitive?) the empire.
 4. 
