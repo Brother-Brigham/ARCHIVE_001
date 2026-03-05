@@ -89,8 +89,8 @@
 - Panne x Stahl
 	- Yarne@Berserker
 		- Axefaire (Berserker) {Yarne}
-		- Hit Rate +20 (Sniper) {Yarne}
-		- Prescience (Archer) {Stahl}
+		- Hit Rate +20 (Sniper) {Stahl}
+		- Prescience (Archer) {Yarne}
 		- Aggressor (Dread Fighter) {Dread Fighter item}
 		- Limit Breaker (Limit Breaker item) {Limit Breaker item}
 
