@@ -22,7 +22,7 @@ And not much later Dicaeopolis, having risen, said to Philip, "Stand up, boy, fo
 8. What should we do (deliberative), friends? For the shepherd says that we are not able to arrive before night.
 9. Having gone down into the plain, let us seek (hortatory) some house so that we may rest (purposive)
 10. And when it is day, let us set out (hortatory) immediately
-## 21
+## 21β Story
 ![[Pasted image 20260304121952.png]]
 And finally Pericles son of Xanthipus, having come forward, first man of the Athenians at that time, both to speak and to act most capably, 
 ![[Pasted image 20260304122013.png]]
@@ -35,3 +35,32 @@ And finally Pericles son of Xanthipus, having come forward, first man of the Ath
 
 ![[Pasted image 20260304122134.png]]
 
+
+## 21ζ Exercise 1-3
+![[Pasted image 20260305103806.png]]
+1. Aorist Passive 1 Plural
+2. .
+3. .
+
+## 21η Exercise
+![[Pasted image 20260305103840.png]]
+1. .
+2. .
+3. .
+4. .
+5. .
+6. ..
+7. .
+8. .
+9. .
+10. .
+## ΟΙ ΑΥΤΟΡΓΟΙ ΑΝΙΣΤΑΝΤΑΙ
+![[Pasted image 20260305104008.png]]
+Translation:
+
+Comprehension Questions:
+1. What did the Athenians bring with them from the country? 
+2. Why was the removal from the countryside difficult and distressing? 
+3. What problem confronted them when they arrived at the city? 
+4. Where did most of them settle? 
+5. In what other places did some of them set up their households?
