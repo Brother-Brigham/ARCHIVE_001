@@ -2,8 +2,6 @@ Sunday
 - [ ] Linux - Hands-on Permissions - 30-45 minutes - Low Cognitive Load
 - [ ] Linux - Prepare Permissions - 20-30 minutes - Low Cognitive Load
 Thursday
-- [x] Linux - Prepare: Networking - 30-45 minutes - Low/medium cognitive load
-- [x] Linux - Hands-on Exercise: SSH Server  - 20-40 minutes - Low/medium cognitive load
 - [ ] American Government - W09 Current Events Commentary - 45-60 minutes - Medium cognitive load
 - [ ] Religion - Keys of the Kingdom and Authority Outline - 30-45 minutes - Low/medium cognitive load
 - [ ] American Government - InQuizitive Ch. 11: The Presidency - 30-45 minutes - Low/medium cognitive load
