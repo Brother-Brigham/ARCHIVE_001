@@ -14,7 +14,7 @@
 		- Speed +2 (Pegasus Knight) {Cynthia}
 		- Defender (Paladin) {Cynthia}
 
-- Lissa x Ricken✔️
+- Lissa x Ricken ✔️
 	- Owain@Sage
 		- Galeforce (Dark Flier) {Lissa}
 		- Tomefaire (Sage) {Ricken}
@@ -30,7 +30,7 @@
 		- Vantage (Myrmidon) {Inigo}
 		- Magic +2 (Mage) {Inigo}
 
-- Sully x Donnel
+- Sully x Donnel ✔️
 	- Kjelle@Hero
 		- Galeforce (Dark Flier) {Kjelle}
 		- Swordfaire (Swordmaster) {Kjelle}
