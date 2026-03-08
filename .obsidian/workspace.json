@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/W26/GREEK 102/Ch. 21.md",
+                "file": "Division Go-Bag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch. 21"
+              "title": "Division Go-Bag"
             }
           }
         ]
@@ -195,14 +195,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a0a1dac495db7288",
+  "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "Course Notes/W26/GREEK 102/Ch. 21.md",
+    "Division Go-Bag.md",
     "Scripture Study Notes/Endowment.md",
     "Attachments/Pasted image 20260305104008.png",
     "Attachments/Pasted image 20260305103840.png",
     "Attachments/Pasted image 20260305103806.png",
     "Schedule Planning.md",
-    "Course Notes/W26/GREEK 102/Ch. 21.md",
     "Attachments/Pasted image 20260304122134.png",
     "Attachments/Pasted image 20260304122120.png",
     "Attachments/Pasted image 20260304122042.png",
@@ -234,7 +235,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
