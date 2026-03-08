@@ -47,13 +47,13 @@ And finally Pericles son of Xanthipus, having come forward, first man of the Ath
 1. Let us not remain (hortatory) at home but let us go (hortatory) to the city so that we may be present (purpose) at the assembly.
 2. Let us go (hortatory) into the Pnyx so that we may hear (purpose) the speakers deliberating what we should do (deliberative).
 3. For the Peloponnesians have sent ambassadors saying that there will be war if we do not give up (prohibitive?) the empire.
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+4. Pericles says, "Do not give up (prohibitive) the empire."
+5. What then should we do (deliberative)? Should we give up the empire (deliberative) or should we go down (deliberative) to war?
+6. Let us put down (hortatory) the water jars and let us hurry (hortatory) toward to field so that we may look (purpose) for the dog.
+7. Let us give (hortatory) a beautiful gift to the girl who found the dog.
+8. Do not show (prohibitive) the road to the stranger; for he says lies.
+9. Listen, child, so that you may understand (purpose) what the teacher says.
+10. Do not open (prohibitive) the gates, guards, for the enemies are approaching.
 ## ΟΙ ΑΥΤΟΡΓΟΙ ΑΝΙΣΤΑΝΤΑΙ
 ![[Pasted image 20260305104008.png]]
 Translation:
