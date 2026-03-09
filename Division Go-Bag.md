@@ -7,4 +7,4 @@ Planning for cosplay option + bug-out bag w/ useful stuff
 - Watch (Glowy smart watch or Casio that I already have?)
 - ISAC (communicator thing, could just put a radio there)
 - SHD patch (Maybe this? https://www.amazon.com/Division-Embroidery-Military-Tactical-Embroidered/dp/B0BY9R7BJH)
-- 
+
