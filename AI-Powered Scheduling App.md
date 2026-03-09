@@ -1,8 +1,10 @@
-Canvas API Token
+BYUI Canvas API Token
   
 10706~CafnnYz6YPcryUPMyUEXDN4fDvUJhkyMLWCJuPUfxntXrcEwR6hNY9J74HFyUXFM
 
+Networking Canvas API Token
 
+7~t69XWHfzrZR9uZvQEnvtRmBBJQKPt3yFmwEE6UFTYnxQCEJcn9v6ZPFwU23UkvAx
 
 Prompt for Gemini 3.1 Pro:
 
