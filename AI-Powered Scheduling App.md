@@ -4,9 +4,9 @@ Canvas API Token
 
 
 
-Prompt for Gemini 31 Pro:
+Prompt for Gemini 3.1 Pro:
 
-> "I need you to write a Python script that automates a 3-step academic scheduling workflow. Since I do not have access to the Gemini API keys, the script must function in two distinct phases with a manual copy-paste step in the middle.
+> I need you to write a Python script that automates a 3-step academic scheduling workflow. Since I do not have access to the Gemini API keys, the script must function in two distinct phases with a manual copy-paste step in the middle.
 > Phase 1: Data Extraction & Prompt Generation
 >  * Canvas Integration: Use the Canvas LMS REST API (using a Bearer Token) to fetch my current 'To-Do' list from /api/v1/users/self/todo.
 >  * Detail Retrieval: For each assignment found, use the course_id and assignment_id to fetch the full assignment object from /api/v1/courses/{course_id}/assignments/{assignment_id}.
@@ -14,7 +14,7 @@ Prompt for Gemini 31 Pro:
 >  * The 'Meta-Prompt': The script should then print a large, well-formatted text block to the console. This block is a prompt meant for ME to copy and paste into Gemini. It should contain:
 >    * Clear instructions for Gemini to perform a 'Deep Thinking' task analysis.
 >    * The clean text and due dates of all my assignments.
->    * A request for Gemini to return a specific, minified JSON object containing: task_name, estimated_total_hours, and calendar_blocks (an array of suggested  start/end times).
+>    * A request for Gemini to return a specific, minified JSON object containing: task_name, estimated_total_hours, and calendar_blocks (an array of suggested  start/end times, with one block per task).
 > Phase 2: Manual Input & Calendar Integration
 >  * User Input: The script should then use input() to wait for me to paste the JSON response I got back from Gemini.
 >  * Google Calendar Integration: Use the Google Calendar API (OAuth2) to parse that JSON and create the actual time blocks on my 'primary' calendar.
@@ -22,8 +22,9 @@ Prompt for Gemini 31 Pro:
 >  * Use requests for Canvas and google-api-python-client / google-auth-oauthlib for Google.
 >  * Include error handling for expired Canvas tokens.
 >  * Ensure the Google Calendar part handles timezones (e.g., use datetime and pytz).
->  * Provide a clear 'Setup' section in the comments explaining where to put the credentials.json for Google and the CANVAS_TOKEN."
-> 
+>  * Provide a clear 'Setup' section in the comments explaining where to put the credentials.json for Google and the CANVAS_TOKEN.
+
+
 🛠️ How the Resulting Script Will Work
 When Gemini 3.1 Pro gives you the code, the workflow will look like this:
 | Step | Action | Outcome |
@@ -33,16 +34,4 @@ When Gemini 3.1 Pro gives you the code, the workflow will look like this:
 | 3 | Analyze | Gemini "thinks," breaks down the tasks, and gives you a JSON block. |
 | 4 | Paste Back | You paste that JSON back into your terminal where the script is waiting. |
 | 5 | Finish | Your Google Calendar populates with the estimated study blocks. |
-💡 Tips for Best Results
-1. Use "Thinking" Mode for Phase 2
-When you paste the script's output into Gemini, make sure to select the "Thinking" or "Deep Think" model. Standard models might just give you a "best guess," but the reasoning model will actually calculate:
- * Reading Load: Is there a 50-page PDF mentioned in the description?
- * Dependency: Do you need to finish the "Draft" before the "Peer Review"?
- * Energy Management: It will know not to schedule four 90-minute blocks of "Hard Math" back-to-back.
-2. Setup Requirements
-To run the code Gemini 3.1 Pro gives you, you will need:
- * Canvas Token: Found in Canvas > Settings > Approved Integrations.
- * Google OAuth File: You must go to the Google Cloud Console, create a project, enable the Google Calendar API, and download the credentials.json for a "Desktop Application."
-3. Prompt Refinement
-If you find that Gemini's time estimates are too optimistic, you can tell the script (or manually add to the prompt) a "Buffer Factor" (e.g., "Assume I work at 80% efficiency and add a 20% time buffer to all tasks").
-Would you like me to provide a list of the specific Python libraries you'll need to install via pip to ensure the script runs smoothly?
+
