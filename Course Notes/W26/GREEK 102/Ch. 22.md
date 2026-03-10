@@ -5,3 +5,8 @@ And the assembly coming to an end and the citizens leaving, Dicaeopolis said, "C
 
 ![[Pasted image 20260309122213.png]]
 
+## 22α Exercise
+![[Pasted image 20260310104500.png]]
+
+## 22γ Exercise
+![[Pasted image 20260310104530.png]]![[Pasted image 20260310104547.png]]
