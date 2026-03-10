@@ -6,6 +6,34 @@ Networking Canvas API Token
 
 7~t69XWHfzrZR9uZvQEnvtRmBBJQKPt3yFmwEE6UFTYnxQCEJcn9v6ZPFwU23UkvAx
 
+Custom Tasks:
+
+{
+        "course": "Ancient Greek II",
+        "name": "Between-Class Translation & Prep",
+        "due_at": "Prior to 12:45 PM on Monday", 
+        "description": "Requires about 2 hours of focused study and translation work to be done prior to the class following the one it was assigned in. Can be broken into smaller blocks."
+    },
+    {
+        "course": "Ancient Greek II",
+        "name": "Between-Class Translation & Prep",
+        "due_at": "Prior to 12:45 PM on Tuesday", 
+        "description": "Requires about 2 hours of focused study and translation work to be done prior to the class following the one it was assigned in. Can be broken into smaller blocks."
+    },
+    {
+        "course": "Ancient Greek II",
+        "name": "Between-Class Translation & Prep",
+        "due_at": "Prior to 12:45 PM on Wednesday", 
+        "description": "Requires about 2 hours of focused study and translation work to be done prior to the class following the one it was assigned in. Can be broken into smaller blocks."
+    },
+    {
+        "course": "Ancient Greek II",
+        "name": "Between-Class Translation & Prep",
+        "due_at": "Prior to 12:45 PM on Thursday", 
+        "description": "Requires about 2 hours of focused study and translation work to be done prior to the class following the one it was assigned in. Can be broken into smaller blocks."
+    }
+
+
 Prompt for Gemini 3.1 Pro:
 
 > I need you to write a Python script that automates a 3-step academic scheduling workflow. Since I do not have access to the Gemini API keys, the script must function in two distinct phases with a manual copy-paste step in the middle.
