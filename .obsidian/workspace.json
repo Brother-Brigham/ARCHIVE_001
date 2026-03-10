@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "146b1ac489555306",
@@ -181,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +195,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bf74bbdd11008a34",
+  "active": "a0a1dac495db7288",
   "lastOpenFiles": [
     "Attachments/Pasted image 20260310104547.png",
     "Attachments/Pasted image 20260310104530.png",
