@@ -9,7 +9,7 @@ And the assembly coming to an end and the citizens leaving, Dicaeopolis said, "C
 ![[Pasted image 20260310104500.png]]
 1. Are you not afraid that we might suffer some certain evil?
 2. There is risk that there may be a storm soon.
-3.  Although fearing that the removal may be difficult, the woman obeys the man.
+3. Although fearing that the removal may be difficult, the woman obeys the man.
 4. The old man was vexed, fearing that he may never return.
 5. I fear the guards may not come to open the gates.
 6. The slaves were fearing that the master is angry at them.
@@ -18,4 +18,10 @@ And the assembly coming to an end and the citizens leaving, Dicaeopolis said, "C
 9. Fearing to return at night, the farmers were staying in the city.
 10. The ship's captain began to fear lest the storm destroy the ship.
 ## 22γ Exercise
-![[Pasted image 20260310104530.png]]![[Pasted image 20260310104547.png]]
+![[Pasted image 20260310104530.png]]
+1. Whoever stays outside of the walls, will be at risk.
+2. Whenever the assembly happens, the citizens hurry to the Pnyx.
+3. We will stay in the agora until the messenger returns.
+4. Don't go into the ship until the ship's captain commands.
+5. If the Peloponnesians 
+![[Pasted image 20260310104547.png]]
