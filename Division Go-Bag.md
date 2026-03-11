@@ -9,8 +9,9 @@ Planning for cosplay option + bug-out bag w/ useful stuff
 - SHD patch (Maybe this? https://www.amazon.com/Division-Embroidery-Military-Tactical-Embroidered/dp/B0BY9R7BJH)
 **Contents**
 - A good IFAK (Individual First Aid Kit) (North American Rescue ROO M-FAK)
-- SIGINT gear (ESP32-Div v.2, Proxmark3 RDV4, power bank, GL.iNet GL-AXT1800 (Slate AX), Samsung Galaxy Tab Active4 Pro (ATAK))
+- SIGINT gear (ESP32-Div v.2, Proxmark3 RDV4, power bank, GL.iNet GL-AXT1800 (Slate AX), Samsung Galaxy Tab Active4 Pro (ATAK), HackRF One?)
 - Butterfly iQ+ (Handheld ultrasound (medical diagnostic tool))
 - Air Quality Sensor (built using ESP32 + Plantower PMS5003)
 - Radio (Something like a BTECH DMR-6X2 Dual Band Radio?)
+- Garmin tactix® 7 – AMOLED Edition
 - 
