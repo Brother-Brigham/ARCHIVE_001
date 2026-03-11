@@ -28,6 +28,8 @@ And the assembly coming to an end and the citizens leaving, Dicaeopolis said, "C
 
 ## 22B Story (Last two paragraphs)
 ![[Pasted image 20260311121640.png]]
+And the way was long and difficult. For it was necessary to go down the wagon road, and they were meeting many farmers who were getting in one another's way, hurrying toward the city. And finally, when it was already evening, they arrived into the gates and, having entered with difficulty, they stayed the night in a certain shrine of a hero. And the next day, Dicaeopolis came to his brother in order to ask him if he is able to help somehow. And his brother was not able to receive them into the house, being such a great number, but he showed to him a certain tower which would hold all of them. So Dicaeopolis, having returned to his family, led them toward the tower in which they were going to live through all until the Peloponnesians on the one hand might go away, and on the other hand they might return to the their fields.
 
 ![[Pasted image 20260311121709.png]]
 
+And meanwhile a herald arrived at Athens, having been sent by Archidamus, king of the Lacedaemonians. 
