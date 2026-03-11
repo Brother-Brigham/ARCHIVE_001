@@ -25,3 +25,9 @@ And the assembly coming to an end and the citizens leaving, Dicaeopolis said, "C
 4. Don't go into the ship until the ship's captain commands.
 5. If the Peloponnesians 
 ![[Pasted image 20260310104547.png]]
+
+## 22B Story (Last two paragraphs)
+![[Pasted image 20260311121640.png]]
+
+![[Pasted image 20260311121709.png]]
+
