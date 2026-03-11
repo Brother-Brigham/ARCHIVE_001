@@ -32,4 +32,4 @@ And the way was long and difficult. For it was necessary to go down the wagon ro
 
 ![[Pasted image 20260311121709.png]]
 
-And meanwhile a herald arrived at Athens, having been sent by Archidamus, king of the Lacedaemonians. 
+And meanwhile a herald arrived at Athens, having been sent by Archidamus, king of the Lacedaemonians; 
