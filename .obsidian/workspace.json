@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/W26/GREEK 102/Ch. 22.md",
+                "file": "Division Go-Bag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch. 22"
+              "title": "Division Go-Bag"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "146b1ac489555306",
@@ -197,6 +196,7 @@
   },
   "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "Course Notes/W26/GREEK 102/Ch. 22.md",
     "Attachments/Pasted image 20260311121709.png",
     "Attachments/Pasted image 20260311121640.png",
     "Attachments/Pasted image 20260311121614.png",
@@ -204,7 +204,6 @@
     "Attachments/Pasted image 20260310104530.png",
     "Attachments/Pasted image 20260310104500.png",
     "AI-Powered Scheduling App.md",
-    "Course Notes/W26/GREEK 102/Ch. 22.md",
     "Attachments/Pasted image 20260309122213.png",
     "Attachments/Pasted image 20260309122141.png",
     "Attachments/Pasted image 20260309122123.png",
@@ -213,7 +212,6 @@
     "Course Notes/W26/GREEK 102/Ch. 21.md",
     "Scripture Study Notes/Endowment.md",
     "Attachments/Pasted image 20260305104008.png",
-    "Attachments/Pasted image 20260305103840.png",
     "Schedule Planning.md",
     "Awakening Apotheosis Team Planner.md",
     "Course Notes/W26/POLSC 110/National Debt Part 2.md",
