@@ -1,10 +1,13 @@
-BYUI Canvas API Token
-  
-10706~CafnnYz6YPcryUPMyUEXDN4fDvUJhkyMLWCJuPUfxntXrcEwR6hNY9J74HFyUXFM
+Canvas Accounts:
 
-Networking Canvas API Token
-
-7~t69XWHfzrZR9uZvQEnvtRmBBJQKPt3yFmwEE6UFTYnxQCEJcn9v6ZPFwU23UkvAx
+    {
+        "domain": "byui.instructure.com", 
+        "token": "10706~CafnnYz6YPcryUPMyUEXDN4fDvUJhkyMLWCJuPUfxntXrcEwR6hNY9J74HFyUXFM"
+    },
+    {
+        "domain": "canvas.instructure.com",     
+        "token": "7~t69XWHfzrZR9uZvQEnvtRmBBJQKPt3yFmwEE6UFTYnxQCEJcn9v6ZPFwU23UkvAx"
+    }
 
 Custom Tasks:
 
