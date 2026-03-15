@@ -23,9 +23,18 @@ And the assembly coming to an end and the citizens leaving, Dicaeopolis said, "C
 2. Whenever the assembly happens, the citizens hurry to the Pnyx.
 3. We will stay in the agora until the messenger returns.
 4. Don't go into the ship until the ship's captain commands.
-5. If the Peloponnesians 
+5. If the Peloponnesians go to our land on foot, we will sail to their (land) by ship.
+6. Whatever the children have, they are willing to give all of it to us.
+7. When the farmer had driven the oxen into the field, soon he began to plow.
 ![[Pasted image 20260310104547.png]]
-
+8. The shepherds will not pasture their sheep in the hills until it becomes spring.
+9. Whenever the master is away, the slaves stop working.
+10. You will fall into danger, children, if you will not do whatever we advise.
+11. These children, who were helping their fathers, were working until it became night.
+12. If anyone drinks this, he dies.
+13. We will not go away until father returns.
+14. The farmers did not return to their fields until the enemies withdrew from Attica.
+15. Do not go away from the marketplace until you listen to the messenger.
 ## 22B Story (Last two paragraphs)
 ![[Pasted image 20260311121640.png]]
 And the way was long and difficult. For it was necessary to go down the wagon road, and they were meeting many farmers who were getting in one another's way, hurrying toward the city. And finally, when it was already evening, they arrived into the gates and, having entered with difficulty, they stayed the night in a certain shrine of a hero. And the next day, Dicaeopolis came to his brother in order to ask him if he is able to help somehow. And his brother was not able to receive them into the house, being such a great number, but he showed to him a certain tower which would hold all of them. So Dicaeopolis, having returned to his family, led them toward the tower in which they were going to live through all until the Peloponnesians on the one hand might go away, and on the other hand they might return to the their fields.
@@ -33,3 +42,5 @@ And the way was long and difficult. For it was necessary to go down the wagon ro
 ![[Pasted image 20260311121709.png]]
 
 And meanwhile a herald arrived at Athens, having been sent by Archidamus, king of the Lacedaemonians; 
+## 22d Exercise
+![[Pasted image 20260314235410.png]]
