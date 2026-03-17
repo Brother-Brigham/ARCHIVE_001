@@ -8,3 +8,7 @@ And they, camping, they first ravaged Eleusis and the Thriasian plain. And after
 ![[Pasted image 20260316121543.png]]
 So when they went not to meet him at Eleusis and the Thriasian plain, he encamped at Acharnae and he tested whether they would 
 ## 23α Exercise
+![[Pasted image 20260316222847.png]]
+
+## 23β Exercise
+![[Pasted image 20260316222927.png]]
