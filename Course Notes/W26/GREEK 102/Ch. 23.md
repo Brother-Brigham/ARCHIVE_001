@@ -9,6 +9,30 @@ And they, camping, they first ravaged Eleusis and the Thriasian plain. And after
 So when they went not to meet him at Eleusis and the Thriasian plain, he encamped at Acharnae and he tested whether they would 
 ## 23α Exercise
 ![[Pasted image 20260316222847.png]]
-
+1. The boy said to the young man to go to the field to seek the father.
+2. And the young man said to him that he did not see the father in the field.
+3. The boy said he will seek the father in the city.
+4. For he was hoping he will find him there, selling the sheep.
+5. The young man believed the father was already returning homeward.
+6. The boy said he would be returning homeward soon.
+7. Pericles said he always held the same opinion.
+8. For he thought the Athenians, having fallen into a state of war, would defeat the Peloponnesians.
+9. He said the Peloponnesians would not be able to make a long war for themselves.
+10. He said their fathers, fighting bravely, defeated the Persians.
+11. He was hoping they would not become worse than their fathers.
+12. The Athenians thought Pericles advised them of the best things.
+13. Dicaeopolis said it was necessary to evacuate into the city.
+14. And Myrrhine said it was not possible to do that.
+15. And finally/in the end, she said she would obey Dicaeopolis' advice in all things. 
 ## 23β Exercise
 ![[Pasted image 20260316222927.png]]
+1. The farmer saw the slave sleeping under the tree.
+2. The slave noticed the master was very angry.
+3. The women saw a large wolf approaching the spring.
+4. The mother noticed the daughter was very afraid of the wolf.
+5. The mother knew she, on the one hand, was safe, and on the other hand, her daughter was falling into danger.
+6. Soon, she saw the wolf, having turned itself, was fleeing toward the hills.
+7. Then, having called to the daughter, she said, "Return! Do you not know that the wolf is already going away?"
+8. I know the enemies are soon entering into the land.
+9. The farmers began to know, having fallen into the the greatest danger.
+10. The doctor understood that he would die from the disease
