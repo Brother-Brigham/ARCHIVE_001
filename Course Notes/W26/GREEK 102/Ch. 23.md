@@ -31,8 +31,8 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 3. The women saw a large wolf approaching the spring.
 4. The mother noticed the daughter was very afraid of the wolf.
 5. The mother knew she, on the one hand, was safe, and on the other hand, her daughter was falling into danger.
-6. Soon, she saw the wolf, having turned itself, was fleeing toward the hills.
+6. Soon she saw the wolf, having turned itself around, was fleeing toward the hills.
 7. Then, having called to the daughter, she said, "Return! Do you not know that the wolf is already going away?"
 8. I know the enemies are soon entering into the land.
 9. The farmers began to know, having fallen into the the greatest danger.
-10. The doctor understood that he would die from the disease
+10. The doctor understood that he was about to die from the disease.
