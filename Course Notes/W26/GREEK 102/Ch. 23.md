@@ -6,5 +6,5 @@ When they had attacked Oenoe and tried every way but were not able to take it, a
 ![[Pasted image 20260316121512.png]]
 And they, camping, they first ravaged Eleusis and the Thriasian plain. And after they advanced until they arrived at Acharnae, the biggest district in Attica of the so-called demes, and encamping themselves there they set camp and remaining there a long time were ravaging. And it is said that Archidamus was of such opinion that he stayed posting around Acharnae preparing for battle, and they would not have to go down the plain to battle them; for he was hoping the Athenians would march out against them and would not overlook that their land was being ravaged.
 ![[Pasted image 20260316121543.png]]
-So when
+So when they went not to meet him at Eleusis and the Thriasian plain, he encamped at Acharnae and he tested whether they would 
 ## 23α Exercise
