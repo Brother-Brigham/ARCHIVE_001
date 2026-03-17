@@ -19,11 +19,11 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 8. For he thought the Athenians, having fallen into a state of war, would defeat the Peloponnesians.
 9. He said the Peloponnesians would not be able to make a long war for themselves.
 10. He said their fathers, fighting bravely, defeated the Persians.
-11. He was hoping they would not become worse than their fathers.
-12. The Athenians thought Pericles advised them of the best things.
+11. He was hoping they would not prove worse than their fathers.
+12. The Athenians thought Pericles was advising them of the best things.
 13. Dicaeopolis said it was necessary to evacuate into the city.
 14. And Myrrhine said it was not possible to do that.
-15. And finally/in the end, she said she would obey Dicaeopolis' advice in all things. 
+15. And finally/in the end, she said she would do all that Dicaeopolis advised.
 ## 23β Exercise
 ![[Pasted image 20260316222927.png]]
 1. The farmer saw the slave sleeping under the tree.
