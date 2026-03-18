@@ -38,5 +38,5 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 10. The doctor understood that he was about to die from the disease.
 ## 23b Story
 ![[Pasted image 20260318104633.png]]![[Pasted image 20260318104648.png]]
-
+The city had been stirred up in every way, and they held Pericles angrily, and they remembered none of 
 ![[Pasted image 20260318104722.png]]
