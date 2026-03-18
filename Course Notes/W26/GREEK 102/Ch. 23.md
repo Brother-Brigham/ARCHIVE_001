@@ -36,3 +36,7 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 8. I know the enemies are soon entering into the land.
 9. The farmers began to know, having fallen into the the greatest danger.
 10. The doctor understood that he was about to die from the disease.
+## 23b Story
+![[Pasted image 20260318104633.png]]![[Pasted image 20260318104648.png]]
+
+![[Pasted image 20260318104722.png]]
