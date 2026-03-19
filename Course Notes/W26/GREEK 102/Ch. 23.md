@@ -36,7 +36,25 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 8. I know the enemies are soon entering into the land.
 9. The farmers began to know, having fallen into the the greatest danger.
 10. The doctor understood that he was about to die from the disease.
-## 23b Story
+## 23β Story
 ![[Pasted image 20260318104633.png]]![[Pasted image 20260318104648.png]]
 The city had been stirred up in every way, and they held Pericles angrily, and they remembered none of 
 ![[Pasted image 20260318104722.png]]
+## 23δ Exercise
+![[Pasted image 20260319095938.png]]
+1. Themistocles was the most responsible for fighting a naval battle in the straits.
+2. What is justice? Justice is one the one hand helping friends, and on the other hand harming enemies.
+3. Having attacked the city, they came into the hope of capturing it.
+4. Is there some opposite to living, just as sleeping is to being awake?
+5. And Pericles, being general, was holding the right opinion concerning the Athenians not going out.
+## 23 Heraclitus
+![[Pasted image 20260319100002.png]]
+1. 
+2. 
+## 23ε Exercise
+![[Pasted image 20260319100044.png]]
+1. 
+2. 
+3. 
+4. 
+5. 
