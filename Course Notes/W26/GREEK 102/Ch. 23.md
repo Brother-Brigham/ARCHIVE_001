@@ -19,11 +19,11 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 8. For he thought the Athenians, having fallen into a state of war, would defeat the Peloponnesians.
 9. He said the Peloponnesians would not be able to make a long war for themselves.
 10. He said their fathers, fighting bravely, defeated the Persians.
-11. He was hoping they would not become worse than their fathers.
-12. The Athenians thought Pericles advised them of the best things.
+11. He was hoping they would not prove worse than their fathers.
+12. The Athenians thought Pericles was advising them of the best things.
 13. Dicaeopolis said it was necessary to evacuate into the city.
 14. And Myrrhine said it was not possible to do that.
-15. And finally/in the end, she said she would obey Dicaeopolis' advice in all things. 
+15. And finally/in the end, she said she would do all that Dicaeopolis advised.
 ## 23β Exercise
 ![[Pasted image 20260316222927.png]]
 1. The farmer saw the slave sleeping under the tree.
@@ -31,8 +31,30 @@ So when they went not to meet him at Eleusis and the Thriasian plain, he encampe
 3. The women saw a large wolf approaching the spring.
 4. The mother noticed the daughter was very afraid of the wolf.
 5. The mother knew she, on the one hand, was safe, and on the other hand, her daughter was falling into danger.
-6. Soon, she saw the wolf, having turned itself, was fleeing toward the hills.
+6. Soon she saw the wolf, having turned itself around, was fleeing toward the hills.
 7. Then, having called to the daughter, she said, "Return! Do you not know that the wolf is already going away?"
 8. I know the enemies are soon entering into the land.
 9. The farmers began to know, having fallen into the the greatest danger.
-10. The doctor understood that he would die from the disease
+10. The doctor understood that he was about to die from the disease.
+## 23β Story
+![[Pasted image 20260318104633.png]]![[Pasted image 20260318104648.png]]
+The city had been stirred up in every way, and they held Pericles angrily, and they remembered none of 
+![[Pasted image 20260318104722.png]]
+## 23δ Exercise
+![[Pasted image 20260319095938.png]]
+1. Themistocles was the most responsible for fighting a naval battle in the straits.
+2. What is justice? Justice is one the one hand helping friends, and on the other hand harming enemies.
+3. Having attacked the city, they came into the hope of capturing it.
+4. Is there some opposite to living, just as sleeping is to being awake?
+5. And Pericles, being general, was holding the right opinion concerning the Athenians not going out.
+## 23 Heraclitus
+![[Pasted image 20260319100002.png]]
+1. It is not necessary to act and to speak just as those sleeping.
+2. The shortest way to fame, he used to say, is becoming good.
+## 23ε Exercise
+![[Pasted image 20260319100044.png]]
+1. 
+2. 
+3. 
+4. 
+5. 
