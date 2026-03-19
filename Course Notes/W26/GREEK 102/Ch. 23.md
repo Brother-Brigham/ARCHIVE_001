@@ -49,8 +49,8 @@ The city had been stirred up in every way, and they held Pericles angrily, and t
 5. And Pericles, being general, was holding the right opinion concerning the Athenians not going out.
 ## 23 Heraclitus
 ![[Pasted image 20260319100002.png]]
-1. 
-2. 
+1. It is not necessary to act and to speak just as those sleeping.
+2. The shortest way to fame, he used to say, is becoming good.
 ## 23ε Exercise
 ![[Pasted image 20260319100044.png]]
 1. 
