@@ -59,3 +59,16 @@ The city had been stirred up in every way, and they held Pericles angrily, and t
 3. It is necessary that you judge the matters from what you know yourselves. ἃ ἐκείνων
 4. The general arrived, leading an army from the cities which he persuaded. ἃς
 5. You all are the most ignorant of Greeks whom I know. οὓς Ἑλλήνων
+
+## Pericles
+![[Pasted image 20260323113811.png]]
+
+![[Pasted image 20260323113840.png]]![[Pasted image 20260323113903.png]]
+
+![[Pasted image 20260323113931.png]]
+
+## Solon
+![[Pasted image 20260323114029.png]]
+And he hurries one man one way, one another; and he wanders over the sea, longing to lead wealth homeward ....
+Another slaves year in, year out, cutting land with many a tree, for whom bent plows are a concern;
+Another 
