@@ -69,7 +69,7 @@ And for as long as he was at the head of the city in peace-time, he led moderate
 For he said that if they were quiet and guarded the fleet and did not 
 ## Solon
 ![[Pasted image 20260323114029.png]]
-And he hurries one man one way, one another; and he wanders over the sea, longing to lead wealth homeward ....
+And he hurries one man one way, one another; and he wanders over the sea by ship, longing to lead wealth homeward.
 Another slaves year in, year out, cutting land with many a tree, for whom bent plows are a concern;
-Another/other Athenian/s skilled in working with his hands gathers his livelihood of many crafts of Hephaestus ....
-Another made a prophet by the far-shooter Apollo, and he knows evils coming to men from afar.
+Another in Athens skilled in working with his hands gathers his livelihood of many crafts of Hephaestus.
+Another was made a prophet by the far-shooter Apollo, and he knows evils coming to men from afar.
