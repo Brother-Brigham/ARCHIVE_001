@@ -71,4 +71,5 @@ The city had been stirred up in every way, and they held Pericles angrily, and t
 ![[Pasted image 20260323114029.png]]
 And he hurries one man one way, one another; and he wanders over the sea, longing to lead wealth homeward ....
 Another slaves year in, year out, cutting land with many a tree, for whom bent plows are a concern;
-Another 
+Another/other Athenian/s skilled in working with his hands gathers his livelihood of many crafts of Hephaestus ....
+Another made a prophet by the far-shooter Apollo, and he knows evil coming to men from afar.
