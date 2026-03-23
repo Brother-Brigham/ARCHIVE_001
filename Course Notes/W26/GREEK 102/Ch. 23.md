@@ -62,9 +62,9 @@ The city had been stirred up in every way, and they held Pericles angrily, and t
 
 ## Pericles
 ![[Pasted image 20260323113811.png]]
-
+Saying this, Pericles tried to rid the Athenians of their anger against him. And on the one hand they publicly obeyed his words and sent no more ambassadors to the Lacedaemonians and they were in a state of eagerness, but on the other hand they were privately grieved by their sufferings. But they did not stop holding him in anger until they fined him for money. And not much later they chose him to be a general again and entrusted all their matters {to him}.
 ![[Pasted image 20260323113840.png]]![[Pasted image 20260323113903.png]]
-
+And for as long as he was at the head of the city in peace-time, he led moderately and guarded it safely, and in his time it became greatest; and when war began, Pericles, having foreknown the power, 
 ![[Pasted image 20260323113931.png]]
 
 ## Solon
@@ -72,4 +72,4 @@ The city had been stirred up in every way, and they held Pericles angrily, and t
 And he hurries one man one way, one another; and he wanders over the sea, longing to lead wealth homeward ....
 Another slaves year in, year out, cutting land with many a tree, for whom bent plows are a concern;
 Another/other Athenian/s skilled in working with his hands gathers his livelihood of many crafts of Hephaestus ....
-Another made a prophet by the far-shooter Apollo, and he knows evil coming to men from afar.
+Another made a prophet by the far-shooter Apollo, and he knows evils coming to men from afar.
