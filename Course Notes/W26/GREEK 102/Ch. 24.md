@@ -9,4 +9,18 @@ And of what sort this education is, someone is able to learn from examining a ce
 2. For the Greeks advancing most bravely into the straits and fighting with excellence they put the barbarians to flight
 3. Thus the Greeks having defeated the barbarians, they appeared to be superior in every way
 4. Pericles, he appeared to be the best man, he led the city most wisely
-5. 
+5. .
+6. .
+7. .
+8. .
+9. .
+10. .
+## 24b exercise
+
+1. .
+2. .
+3. .
+4. .
+5. .
+## 24y exercise 1
+
