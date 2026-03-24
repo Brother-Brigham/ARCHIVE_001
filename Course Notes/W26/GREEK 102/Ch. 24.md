@@ -16,11 +16,12 @@ And of what sort this education is, someone is able to learn from examining a ce
 9. .
 10. .
 ## 24b exercise
-
+![[Pasted image 20260324133608.png]]
 1. .
 2. .
 3. .
 4. .
 5. .
 ## 24y exercise 1
-
+![[Pasted image 20260324133630.png]]
+1. 
