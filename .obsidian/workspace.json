@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "326a43354944a99c",
+        "id": "086e4b23f02b7098",
         "type": "tabs",
         "children": [
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +197,7 @@
   },
   "active": "bf74bbdd11008a34",
   "lastOpenFiles": [
+    "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Attachments/Pasted image 20260324133630.png",
     "Attachments/Pasted image 20260324133608.png",
     "Attachments/Pasted image 20260324125119.png",
@@ -203,12 +205,10 @@
     "Attachments/Pasted image 20260323144453.png",
     "Attachments/Pasted image 20260323144433.png",
     "Course Notes/W26/GREEK 102/Ch. 23.md",
-    "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Attachments/Pasted image 20260323114029.png",
     "Attachments/Pasted image 20260323113931.png",
     "Attachments/Pasted image 20260323113903.png",
     "Attachments/Pasted image 20260323113840.png",
-    "Attachments/Pasted image 20260323113811.png",
     "AI-Powered Scheduling App.md",
     "Course Notes/W26/GREEK 102/Ch. 22.md",
     "Division Go-Bag.md",
