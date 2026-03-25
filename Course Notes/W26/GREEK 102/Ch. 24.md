@@ -25,3 +25,12 @@ And of what sort this education is, someone is able to learn from examining a ce
 ## 24y exercise 1
 ![[Pasted image 20260324133630.png]]
 1. παντα πραττετε, ὡ παιδες, ὁπως βελτιονες γενησεσθε.
+## 24d
+![[Pasted image 20260325133822.png]]
+1. 
+## Herodotus Teaches History
+![[Pasted image 20260325133843.png]]
+
+![[Pasted image 20260325133903.png]]
+
+![[Pasted image 20260325133926.png]]
