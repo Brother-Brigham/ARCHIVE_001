@@ -24,4 +24,4 @@ And of what sort this education is, someone is able to learn from examining a ce
 5. The father was doing everything so that his son will be well educated.
 ## 24y exercise 1
 ![[Pasted image 20260324133630.png]]
-1. 
+1. παντα πραττετε, ὡ παιδες, ὁπως βελτιονες γενησεσθε.
