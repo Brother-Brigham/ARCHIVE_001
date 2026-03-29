@@ -2,7 +2,7 @@
 ![[Pasted image 20260323144433.png]]
 And of what sort this education is, someone is able to learn from examining a certain dialogue of Plato, in which a certain sophist, Protagoras by name, attempts to prove that excellence is a teachable thing. For Protagoras says that all parents consider this of greatest importance: how good the children will become.
 ![[Pasted image 20260323144453.png]]![[Pasted image 20260323144510.png]]
-"Out of small children," he says, ""
+"Out of small children," he says, "as they are, for as long as they might live, they teach and they warn. Whenever he first understands things being said, both nurse and mother and tutor and the father himself strive hard for this, so that the child will be as good as possible in respect of each work and word teaching and pointing out that this is just but that is unjust, and that this is beautiful but that is shameful, and that this is holy but that is unholy, and to do this but not to do that. And if he obeys--, but if not, like a piece of bent and warped wood they straighten him out with threats and with blows." 
 ## 24a Exercise
 ![[Pasted image 20260324125119.png]]
 1. The barbarians, although being many more, they were weaker than the Greeks.
