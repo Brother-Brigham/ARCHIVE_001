@@ -25,12 +25,14 @@
             "id": "4a6eb253ef78c049",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Course Notes/W26/GREEK 102/Ch. 24.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Ch. 24"
             }
           }
         ],
