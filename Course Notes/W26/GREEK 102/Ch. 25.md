@@ -21,3 +21,13 @@ And having observed and having examined all of this, Croesus asked this: "Atheni
 8. 
 9. 
 10. 
+1. I would not want to harm the child.
+2. I would not be able to do this.
+3. I would gladly hear what the young man wants.
+4. Perhaps the king would give to us some silver.
+5. If only we could persuade the general to command these things
+6. Would you all tell me what happened
+7. Who would believe this guy who had lied so often
+8. Would that you not escape the gods as you are doing such a thing
+9. They being hostile would not wish to help us
+10. You would not step into the same river twice.
