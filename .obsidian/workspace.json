@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ch. 25"
             }
+          },
+          {
+            "id": "d31d195525e313a4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Course Notes/W26/GREEK 102/Ch. 25.md",
+                "bFile": "Course Notes/W26/GREEK 102/Ch. 25.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Ch. 25  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a6eb253ef78c049",
+  "active": "d31d195525e313a4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Course Notes/W26/GREEK 102/Ch. 25.md",
     "Attachments/Pasted image 20260330114740.png",
     "Attachments/Pasted image 20260330114719.png",
     "Attachments/Pasted image 20260330114647.png",
     "Attachments/Pasted image 20260330114628.png",
     "Journal Entries/2026-03-29.md",
-    "Course Notes/W26/GREEK 102/Ch. 25.md",
     "Journal Entries/2026-01-01.md",
     "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Attachments/Pasted image 20260325133926.png",
@@ -211,7 +226,6 @@
     "Attachments/Pasted image 20260325133822.png",
     "Attachments/Pasted image 20260324133630.png",
     "Attachments/Pasted image 20260324133608.png",
-    "Attachments/Pasted image 20260324125119.png",
     "Course Notes/W26/GREEK 102/Ch. 23.md",
     "AI-Powered Scheduling App.md",
     "Course Notes/W26/GREEK 102/Ch. 22.md",
