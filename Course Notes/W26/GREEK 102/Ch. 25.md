@@ -10,7 +10,7 @@ And having observed and having examined all of this, Croesus asked this: "Atheni
 5. May all who do such things die terribly.
 ## 25β Exercise
 ![[Pasted image 20260330114740.png]]
-1.                                                 
+1.                     
 2. 
 3. 
 4. 
