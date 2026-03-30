@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Ch. 25"
             }
-          },
-          {
-            "id": "d31d195525e313a4",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Course Notes/W26/GREEK 102/Ch. 25.md",
-                "bFile": "Course Notes/W26/GREEK 102/Ch. 25.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Ch. 25  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d31d195525e313a4",
+  "active": "a0a1dac495db7288",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Course Notes/W26/GREEK 102/Ch. 25.md",

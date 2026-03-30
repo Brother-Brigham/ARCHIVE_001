@@ -10,17 +10,6 @@ And having observed and having examined all of this, Croesus asked this: "Atheni
 5. May all who do such things die terribly.
 ## 25β Exercise
 ![[Pasted image 20260330114740.png]]
-<<<<<<< HEAD
-1.                     
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
 1. I would not want to harm the child.
 2. I would not be able to do this.
 3. I would gladly hear what the young man wants.
