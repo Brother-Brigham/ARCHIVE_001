@@ -26,3 +26,4 @@ And having observed and having examined all of this, Croesus asked this: "Atheni
 8. The farmers hurried into the city 
 ## 25b Story Paragraph 1
 ![[Pasted image 20260331103409.png]]
+And when Solon had said this about Tellus, Croesus asked who he might see as the second happiest after him, thinking he would certainly carry off second prize. And he said, "Both Cleobis and Biton. For to these, being by race of Argos, was both sufficient wealth and in addition to this, strength of body such that both were prize winners, and indeed also this story is said: When there was a festival to Hera for the Argives, it was absolutely necessary for their mother to be carried by means of a yoke of oxen to the temple, but the oxen were not arriving from the field in time, and the young men themselves began to drag the wagon so that the mother might arrive in time, and on the wagon was being carried the mother, and having carried her forty-five stades they arrived in the temple."
