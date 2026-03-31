@@ -20,3 +20,9 @@ And having observed and having examined all of this, Croesus asked this: "Atheni
 8. Would that you not escape the gods as you are doing such a thing
 9. They being hostile would not wish to help us
 10. You would not step into the same river twice.
+
+## 25e Exercise - Sentence 8
+![[Pasted image 20260331103235.png]]![[Pasted image 20260331103305.png]]
+8. The farmers hurried into the city 
+## 25b Story Paragraph 1
+![[Pasted image 20260331103409.png]]
