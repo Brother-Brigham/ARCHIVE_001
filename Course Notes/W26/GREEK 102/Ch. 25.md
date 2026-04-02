@@ -45,3 +45,6 @@ Croesus asked Solon whom he had seen that was the happiest.
  ![[Pasted image 20260401122042.png]]
 
 ![[Pasted image 20260401122106.png]]
+
+## Parable of the Sheepfold
+![[Pasted image 20260402100508.png]]
