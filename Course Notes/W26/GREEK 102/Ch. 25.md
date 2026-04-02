@@ -48,3 +48,4 @@ Croesus asked Solon whom he had seen that was the happiest.
 
 ## Parable of the Sheepfold
 ![[Pasted image 20260402100508.png]]
+And the one entering through the door is the shepherd of the sheep. To this one the gatekeeper opens and 
