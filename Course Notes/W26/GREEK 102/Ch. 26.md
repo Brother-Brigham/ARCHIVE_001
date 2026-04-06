@@ -3,7 +3,7 @@
 
 ## 26a Exercise
 ![[Pasted image 20260406111446.png]]![[Pasted image 20260406111517.png]]
-1. 
+1. If you don't speak about peace, then I will not listen to you.
 2. 
 3. 
 4. 
