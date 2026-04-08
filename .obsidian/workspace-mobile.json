@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/W26/GREEK 102/Ch. 25.md",
-                "mode": "preview",
+                "file": "Diplomacy Planning.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch. 25"
+              "title": "Diplomacy Planning"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
+    "Course Notes/W26/GREEK 102/Ch. 25.md",
+    "Diplomacy Planning.md",
     "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Course Notes/W26/GREEK 102/Ch. 23.md",
     "Division Go-Bag.md",
@@ -204,8 +206,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
