@@ -94,122 +94,82 @@
 > The spirit of disobedience is the Spirit of apostasy; and if you do not look out, it will upset you, and you will go overboard before you are aware of it. Every branch should be interested for the root from whence it springs; for if the root perishes, the branch must perish also.
 > 
 > I hope you understand my meaning in the figures I have used. But there are many people here more ignorant than our little boys of five and six years of age. If they were not ignorant, they would not take the course they do. Do I allow my little boys to touch a thing that is not their own? No. Have they a right to touch a thing that belongs to me? Not without my sanction. Have you a right to interfere with the things of God? No—not without the consent of the man that presides over you. Has my wife a right to meddle with anything that belongs to me? Not without my consent; and over that which I have committed unto her she is a stewardess. Have I a right to call her to an account for what I have committed to her, to see whether she has taken good care of it? I have. There is not a thing on this earth that is given to us of God that is to be ours independently of him, and never will be, until we prove ourselves worthy.
+> 
+> There is a comparison in the Bible where it speaks of committing talents to men and of calling them to account. Matt. 25:14-30 “I visited,” said the Lord, “one this year and another next year, until I visited the last one, and I reckoned with them and called them to an account of that which I had ceded up to them.” It is just so with us.
+> 
+> If I cede up any power to one of my boys, for instance, saying, Here is a horse, Heber, for you to use; I require you to take good care of him, and not abuse him. Why? Because I am going to call him back. Supposing the horse is not as good as when I gave it to him, then Heber is in debt to his father, and has to pay it.
+> 
+> We receive the Priesthood and power and authority. If we make a bad use of that Priesthood, do you not see that the day will come when God will reckon with us, and he will take it from us and give it to those who will make better use of it. My advice to my brethren is to rise up, from this time forth, and let your light shine, that others may see your good works and be led to glorify God. Matt. 5:16
+> 
+> How holy men ought to be who hold the authority of the Priesthood! And again, how pure and angelic females ought to be who are sent here to bear the souls of men! D&C 132:63 If you pollute those souls and bodies, God will call you to an account for it.
+> 
+> And these little boys, I want them to honor their calling. Here are lots of them. Have they the Priesthood on them? Yes. Have they all been ordained? Not directly; but their fathers have been, and that ordination tells on their seed after them. They are legal heirs to the Priesthood of God, without an ordination. D&C 86:8-11 They receive it from their fathers; and when they were blessed, their seed was blessed in their loins, like Abraham's; Abr. 2:11 and when that seed is committed to an angelic woman, she is accountable whether she degenerates that seed or not. It is for her to train up that child, Prov. 22:6 and nourish it, and cherish it, and restore it to the Father as pure as it was when she received it.
+> 
+> If you have the Priesthood, you are in the same condition that I am. These things are serious to me; they are essential to me and to this people. After receiving the Priesthood, when a person receives his endowment, he is an heir to the Priesthood—an heir of God, and a joint heir with Jesus Christ; Rom. 8:17 that is, he has commenced his heirship.
+> 
+> The Father waited until the meridian of time—that is, till the time was half up, before he came on the earth and begat in the flesh the Son of God, who was to be our Savior. Was every woman qualified to raise that child? No. You will find that Mary was of the Royal Priesthood, which is after the order of God; and he was particular who raised that child, that it might be trained according to his dictation. Should not we be cautious? I tell you we ought, and not fool and play with the things of God as a cat would with a mouse.
+> 
+> Many of you are trifling with your own existence—with your own salvation—not with mine. Brother Brigham, myself, brother Daniel, and the Twelve Apostles cannot grow or increase, only in proportion as the limbs and branches of this Priesthood and the whole tree increase. If it is a thrifty top, then the roots partake of that thriftiness, and they all grow together. That is what makes us take a course to cut off the dead limbs.
+> 
+> Jesus said to his disciples, “Ye are the salt of the earth: and if the salt loses its saving principle, it is then good for nothing, but to be cast out.” Instead of reading it just as it is, almost all of you read it just as it is not. Jesus meant to say, “If you have lost the saving principles, you Twelve Apostles, and you that believe in my servants the Twelve, you shall be like unto the salt that has lost its saving principles: it is henceforth good for nothing, but to be cast out, and trodden under foot of men.” Matt. 5:13 Judas lost that saving principle, and they took him and killed him. It is said in the Bible that his bowels gushed out; Matt. 27:5-6 (JST) Acts 1:18 but they actually kicked him until his bowels came out.
+> 
+> “I will suffer my bowels to be taken out before I will forfeit the covenant I have made with Him and my brethren.” Do you understand me? Judas was like salt that had lost its saving principles—good for nothing but to be cast out and trodden under foot of men. D&C 103:10 It is just so with you men and women, if you do not honor your callings and cultivate the principles you have received. It is so with you, ye Elders of Israel, when you forfeit your covenants. D&C 40:3 D&C 42:30 D&C 54:4-5 D&C 78:11-12 D&C 82:11,21
+> 
+> Brethren and sisters, as the Lord liveth, and as we live and exist in these mountains, let me tell you the world is ripe, and there are no saving principles within them, with a very few exceptions; and they will gather out, and the rest of mankind are ready for destruction, for they will have no salt to save them. I know the day is right at hand when men will forfeit their Priesthood and turn against us and against the covenants they have made, and they will be destroyed as Judas was.
+> 
+> Ye Elders, Apostles, Seventies, High Priests, Bishops, Priests, Teachers, and Deacons, never be guilty of that which you have been guilty of once before. If it were not for your ignorance, you would have been cut off from the earth; but, in consequence of your ignorance, I feel as though God would forgive you, if you will never do it again. But if you do it again, your time for repentance is past, and you do not again get pardon.
+> 
+> I do feel bad to think that men will enter into the new and everlasting covenant of our God, and then defile themselves with uncleanness. Is there a woman in this city that could have committed the sin of debauchery, if there had been no person to debauch her? No. Who is guilty? The man, who should have the saving principles of God Almighty in him; and he is the man who must pay the debt.
+> 
+> Again: If the woman would never consent, the man could not accomplish his vile purpose. You have been taught different all the day long. You have been taught, from your mother's womb that these things are wrong. Would the Devil have power to make you tell a lie, if you did not yield to him? No. When you consent to it, the Devil then has seduced you, debauched you, just as much as a man goes to work and debauches a woman after she has consented to him. We are agents to refuse or to accept. Who is the most to blame? The man holding the Priesthood of God.
+> 
+> I talk about these things because I am led so to do. They may be considered small things, but they are the things that destroy this people—that is, all that will be destroyed. You can lose your saving principles as much as salt or sugar can. Sugar can be placed in a state that it will become sour—have no sweetness about it; and bread will become sour through the power of leaven put into it; and if the leaven was not sour, it could not sour the bread. When sugar becomes sour, it has lost the saving principles of sugar, just the same as salt. Be cautious that you do not receive filthy leaven. Stop your tattling, your lying, and mischief-making. You never saw persons that are trotting from house to house but what are apt to be tattlers, unless they are ordained and set apart to visit. You never saw a woman that is continually parading the streets but what was a tattler. Her face may be as smooth as an onion; but the beauty of a woman is in the spirit she possesses and in the principles of righteousness she cherishes.
+> 
+> You Elders of Israel, have you not entered into covenant that you never would betray one another? And you mothers of Israel, have you not entered into covenant not to speak against each other, or run about the neighborhood and talk about this one and that one, and about their husbands? Do you not despise such a woman as that? Yes, you do; and so do I, and so does every good man and angel, and so does Jesus Christ. He has told you not to do it.
+> 
+> I want you to understand that you make covenants with God, and not with us. We were present and committed those covenants to you, and you made them with God, and we were witnesses. When you got your endowments, did you not make a covenant not to speak against the anointed? And every woman that received this ordinance made a covenant with her husband that she would be true and faithful to him, be a guardian angel to him, and watch over his pillow by night and by day, and be true to her God and to the anointed.
+> 
+> I told you the other Sunday that I never made a practice of going to my President and speaking against anyone. I am cautious how I take a course to tell him this, that, and the other; for, if I am a man of truth, he is bound to believe me. Are there men that will come to me and try to injure somebody? Yes. Is it right, when you have sworn not to do it?
+> 
+> In Kirtland, Jared Carter, Dr. Cowdery, and others tried to ruin the Twelve in the eyes of Joseph. The very first mission the Twelve took, we went forth like men of God and traveled to the East and back again, without purse or scrip, Luke 22:35 and held Conferences through all the New England States, and exhorted and taught the people to go to Jackson County and purchase that land; and those men so prejudiced the mind of the First Presidency that two of the Twelve were suspended. But there were enough left to form a Quorum and do business. Jared Carter, Dr. Cowdery, and others fell through taking that course. They tried to run in between the Twelve and Joseph, and they stepped between the bucklers of the Almighty. Had they a right to do it? No. Have I a right, although I am brother Brigham's First Counselor, and have been ever since he was the President of the Twelve—have I a right to prejudice his mind against Daniel? No. I have sworn not to before God. Or have I a right to prejudice his mind against the Twelve? No. Because I am sworn not to, by the most sacred covenants that man can make.
+> 
+> Have the Twelve a right to step in and prejudice the First Presidency against the Seventies? No. If there is a difficulty, it is for the Twelve to settle it, and never tell it and destroy the head against the feet, nor the arm against the eye.
+> 
+> And here some men and women run from Dan to Beersheba 1 Sam. 3:20 breaking their covenants. If I could have my will, they never should step into the Endowment Room again and administer in sacred things, when they take this course. And some women, who think they know everything, go home and abuse their husbands and raise the devil in a man's family.
+> 
+> I have no allusion to the righteous, the good, the wholesome, pure, and virtuous, but to those it belongs to. What are my feelings? They are—God bless the pure, the righteous, the salt that has not lost its savor.
+> 
+> I have not said anything about our enemies. I care nothing about them.
+> 
+> A single man or woman in this kingdom may do a great deal of harm, if they are so inclined. If you put up a barrel of good, sweet meat and a little piece of tainted meat, not larger than a peach, in the center of it, it will not be three months before the whole barrel of meat will be spoiled, if you do not clean out the lump of bad meat that has lost its saving principles. So wicked men and women in a Ward or in a Quorum can do much mischief. They inoculate death in the community.
+> 
+> Paul, in speaking of the tongue, says, “It sets on fire the whole course of nature.” James 3:6 It inoculates hell into the people. A sister comes into your house, and you think she is almost an angel, she can smile so sweetly. Do you not know that the Devil can smile just as well as a Saint? You cannot know persons only as they are proved.
+> 
+> God bless you and this whole people in the east, west, south, and north. My prayer is—God bless these valleys, and the mountains, and the fountains of life in them.
+> 
+> How good it is to reflect that the day has come in which we have declared our independence. This we have done because the Lord God has said it to his servant Brigham. We are independent of those troops and those poor, miserable, ungodly scoundrels that they call civil officers. What civility, to come here to preside over us with 2,000 troops! With them it is, “God damn the Mormons—God damn Brigham Young. We will kill him and Heber C. Kimball, and we will seduce and debauch every woman in the City of Salt Lake.” The Lord has said to brother Brigham, “Say to them, before all Israel, in my name, They cannot come in here.”
+> 
+> I am glad and can shout, Hallelujah! Praise be to the name of our God! And peace be to that man or woman that steps forward and sustains the weight in this operation. And that man or woman who revolts against the Priesthood of God and takes the opposite course, may God Almighty curse them, that they may go to hell, where they belong. These are my feelings.
+> 
+> I am thankful this is a goodly land. I never was in a better. I appreciate it, and I appreciate these mountains and valleys, and the red men of the forest. May God bless them, and, let the old Nephite Prophets and Patriarchs and servants of God stir them up and turn their hearts to the house of Israel in these Valleys, and he will do it; and the United States cannot buy them. God Almighty has got them by the bit. What? Israel? Yes. Although they are as a wild horse, he can lead them the same as you can a tame one.
+> 
+> We shall prosper; we shall prevail with all those who cleave to the Church and kingdom of God; only do as you are told, and you need not trouble. See how the Lord is watering the earth. It will be wet down three or four feet, and he will continue to do it, and it will be like a pool of living water; John 4:10 and he will cause the earth to produce, and we shall be blessed, and God will sustain us; and he will sustain those that sustain his people.
+> 
+> Instead of sending out two, three, or five thousand men, let us pick out a thousand, and they will stand against the United States. If God is with us, who can prevail against us? Why do not the women go to work and make up hats and caps for their husbands, and help them, and not suffer them to spend three dollars for a hat for a child three years' old? Let us make our own knives and forks, and everything else that we use; and let every man be diligent at home or in his shop about his employment.
+> 
+> Brother Brigham says the soldiers cannot come here. Then we should say the same. He says they will be confused. Let us all pray that they may. Be kind to each other, and take good care of everything in your possession. Do not waste anything, nor abuse your horses. A man that is abusive to his animal is apt to be the same to his wife or child. There is nothing in the spirit of love that will kill or destroy unnecessarily—nothing that will lie or oppress, for that comes from the spirit of destruction.
+> 
+> The spirit of hypocrisy professes to be my friend today, and then tomorrow will go and speak against me. This should not be among us. Let us go to from this time henceforth and be one, and God will bless us. When you go visiting your neighbors, preach these things to them, and speak the truth continually, and lie not.
+> 
+> I go visiting sometimes. I was out on a visit yesterday. You invite me to visit and talk; but half the family will go to cooking the night before, and cook all day until suppertime, and then they are too full to talk or hear, and we start home before the rest of the family has anything to eat; and they cook up everything they have, or expect to have for a year to come, figuratively speaking. I would rather have a piece of bread and go into the canyon with one or two of the brethren and talk about the things of God.
+> 
+> Last Monday, the Congress of the United States commenced its session, and no doubt they will remember us. I want you should pray for them. Pray for the President of the United States; pray for the Senate and the House of Representatives; pray for the Speakers of each house, and pray for all men in authority, especially those who are opposed to Israel and who are planning for our destruction. I want you to pray good prayers for them, that they may fall into the dilemma they want to put us in. You need not pray anything more than that; for, I swear to you, they will get a bellyfull.
+> 
+> The members of the Legislature here will assemble tomorrow morning, at ten o'clock, with our Governor at our head. It is the best legislative body there is upon the face of the earth, because they hold the Priesthood, and there is no person there only those who hold it—the leading men of Israel. Pray for that Assembly. There are forty-nine men of us—the representatives of this whole Territory, to make laws for the government and protection of the people. But when those men have made a law, our Governor can veto it in a moment. He is the head of the department to make laws to protect, sustain, and uphold the kingdom of God in all the world. If a law is made to protect me, it equally protects you and your wife and children. Now, I want to know if there is a man or woman here who is not interested in that? I mention this that you may pray that they may make laws such as the Lord would approve, if he was here himself. Those who feel in favor that our Governor continue, and to uphold and sustain him, with the Legislature and everything else that is good, rise up on your feet.
+> 
+> [The whole congregation arose.]
+> 
+> God bless you, and bless our Governor, with everything connected to him. Amen.
 
-There is a comparison in the Bible where it speaks of committing talents to men and of calling them to account. Matt. 25:14-30 “I visited,” said the Lord, “one this year and another next year, until I visited the last one, and I reckoned with them and called them to an account of that which I had 
-
-[[p. 125a]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0125.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2635)
-
-ceded up to them.” It is just so with us.
-
-If I cede up any power to one of my boys, for instance, saying, Here is a horse, Heber, for you to use; I require you to take good care of him, and not abuse him. Why? Because I am going to call him back. Supposing the horse is not as good as when I gave it to him, then Heber is in debt to his father, and has to pay it.
-
-We receive the Priesthood and power and authority. If we make a bad use of that Priesthood, do you not see that the day will come when God will reckon with us, and he will take it from us and give it to those who will make better use of it. My advice to my brethren is to rise up, from this time forth, and let your light shine, that others may see your good works and be led to glorify God. Matt. 5:16
-
-How holy men ought to be who hold the authority of the Priesthood! And again, how pure and angelic females ought to be who are sent here to bear the souls of men! D&C 132:63 If you pollute those souls and bodies, God will call you to an account for it.
-
-And these little boys, I want them to honor their calling. Here are lots of them. Have they the Priesthood on them? Yes. Have they all been ordained? Not directly; but their fathers have been, and that ordination tells on their seed after them. They are legal heirs to the Priesthood of God, without an ordination. D&C 86:8-11 They receive it from their fathers; and when they were blessed, their seed was blessed in their loins, like Abraham's; Abr. 2:11 and when that seed is committed to an angelic woman, she is accountable whether she degenerates that seed or not. It is for her to train up that child, Prov. 22:6 and nourish it, and cherish it, and restore it to the Father as pure as it was when she received it.
-
-If you have the Priesthood, you are in the same condition that I am. These things are serious to me; they 
-
-[[p. 125b]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0125.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2635)
-
- are essential to me and to this people. After receiving the Priesthood, when a person receives his endowment, he is an heir to the Priesthood—an heir of God, and a joint heir with Jesus Christ; Rom. 8:17 that is, he has commenced his heirship.
-
-The Father waited until the meridian of time—that is, till the time was half up, before he came on the earth and begat in the flesh the Son of God, who was to be our Savior. Was every woman qualified to raise that child? No. You will find that Mary was of the Royal Priesthood, which is after the order of God; and he was particular who raised that child, that it might be trained according to his dictation. Should not we be cautious? I tell you we ought, and not fool and play with the things of God as a cat would with a mouse.
-
-Many of you are trifling with your own existence—with your own salvation—not with mine. Brother Brigham, myself, brother Daniel, and the Twelve Apostles cannot grow or increase, only in proportion as the limbs and branches of this Priesthood and the whole tree increase. If it is a thrifty top, then the roots partake of that thriftiness, and they all grow together. That is what makes us take a course to cut off the dead limbs.
-
-Jesus said to his disciples, “Ye are the salt of the earth: and if the salt loses its saving principle, it is then good for nothing, but to be cast out.” Instead of reading it just as it is, almost all of you read it just as it is not. Jesus meant to say, “If you have lost the saving principles, you Twelve Apostles, and you that believe in my servants the Twelve, you shall be like unto the salt that has lost its saving principles: it is henceforth good for nothing, but to be cast out, and trodden under foot of men.” Matt. 5:13 Judas lost that saving principle, and they took him and killed him. It is said 
-
-[[p. 126a]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0126.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2634)
-
-in the Bible that his bowels gushed out; Matt. 27:5-6 (JST) Acts 1:18 but they actually kicked him until his bowels came out.
-
-“I will suffer my bowels to be taken out before I will forfeit the covenant I have made with Him and my brethren.” Do you understand me? Judas was like salt that had lost its saving principles—good for nothing but to be cast out and trodden under foot of men. D&C 103:10 It is just so with you men and women, if you do not honor your callings and cultivate the principles you have received. It is so with you, ye Elders of Israel, when you forfeit your covenants. D&C 40:3 D&C 42:30 D&C 54:4-5 D&C 78:11-12 D&C 82:11,21
-
-Brethren and sisters, as the Lord liveth, and as we live and exist in these mountains, let me tell you the world is ripe, and there are no saving principles within them, with a very few exceptions; and they will gather out, and the rest of mankind are ready for destruction, for they will have no salt to save them. I know the day is right at hand when men will forfeit their Priesthood and turn against us and against the covenants they have made, and they will be destroyed as Judas was.
-
-Ye Elders, Apostles, Seventies, High Priests, Bishops, Priests, Teachers, and Deacons, never be guilty of that which you have been guilty of once before. If it were not for your ignorance, you would have been cut off from the earth; but, in consequence of your ignorance, I feel as though God would forgive you, if you will never do it again. But if you do it again, your time for repentance is past, and you do not again get pardon.
-
-I do feel bad to think that men will enter into the new and everlasting covenant of our God, and then defile themselves with uncleanness. Is there a woman in this city that could have committed the sin of debauchery, if there had been no person to debauch her? No. Who is guilty? The man, 
-
-[[p. 126b]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0126.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2634)
-
- who should have the saving principles of God Almighty in him; and he is the man who must pay the debt.
-
-Again: If the woman would never consent, the man could not accomplish his vile purpose. You have been taught different all the day long. You have been taught, from your mother's womb that these things are wrong. Would the Devil have power to make you tell a lie, if you did not yield to him? No. When you consent to it, the Devil then has seduced you, debauched you, just as much as a man goes to work and debauches a woman after she has consented to him. We are agents to refuse or to accept. Who is the most to blame? The man holding the Priesthood of God.
-
-I talk about these things because I am led so to do. They may be considered small things, but they are the things that destroy this people—that is, all that will be destroyed. You can lose your saving principles as much as salt or sugar can. Sugar can be placed in a state that it will become sour—have no sweetness about it; and bread will become sour through the power of leaven put into it; and if the leaven was not sour, it could not sour the bread. When sugar becomes sour, it has lost the saving principles of sugar, just the same as salt. Be cautious that you do not receive filthy leaven. Stop your tattling, your lying, and mischief-making. You never saw persons that are trotting from house to house but what are apt to be tattlers, unless they are ordained and set apart to visit. You never saw a woman that is continually parading the streets but what was a tattler. Her face may be as smooth as an onion; but the beauty of a woman is in the spirit she possesses and in the principles of righteousness she cherishes.
-
-You Elders of Israel, have you not entered into covenant that you never would betray one another? And you 
-
-[[p. 127a]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0127.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2633)
-
-mothers of Israel, have you not entered into covenant not to speak against each other, or run about the neighborhood and talk about this one and that one, and about their husbands? Do you not despise such a woman as that? Yes, you do; and so do I, and so does every good man and angel, and so does Jesus Christ. He has told you not to do it.
-
-I want you to understand that you make covenants with God, and not with us. We were present and committed those covenants to you, and you made them with God, and we were witnesses. When you got your endowments, did you not make a covenant not to speak against the anointed? And every woman that received this ordinance made a covenant with her husband that she would be true and faithful to him, be a guardian angel to him, and watch over his pillow by night and by day, and be true to her God and to the anointed.
-
-I told you the other Sunday that I never made a practice of going to my President and speaking against anyone. I am cautious how I take a course to tell him this, that, and the other; for, if I am a man of truth, he is bound to believe me. Are there men that will come to me and try to injure somebody? Yes. Is it right, when you have sworn not to do it?
-
-In Kirtland, Jared Carter, Dr. Cowdery, and others tried to ruin the Twelve in the eyes of Joseph. The very first mission the Twelve took, we went forth like men of God and traveled to the East and back again, without purse or scrip, Luke 22:35 and held Conferences through all the New England States, and exhorted and taught the people to go to Jackson County and purchase that land; and those men so prejudiced the mind of the First Presidency that two of the Twelve were suspended. But there were enough left to form a Quorum and do business.
-
-[[p. 127b]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0127.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2633)
-
-Jared Carter, Dr. Cowdery, and others fell through taking that course. They tried to run in between the Twelve and Joseph, and they stepped between the bucklers of the Almighty. Had they a right to do it? No. Have I a right, although I am brother Brigham's First Counselor, and have been ever since he was the President of the Twelve—have I a right to prejudice his mind against Daniel? No. I have sworn not to before God. Or have I a right to prejudice his mind against the Twelve? No. Because I am sworn not to, by the most sacred covenants that man can make.
-
-Have the Twelve a right to step in and prejudice the First Presidency against the Seventies? No. If there is a difficulty, it is for the Twelve to settle it, and never tell it and destroy the head against the feet, nor the arm against the eye.
-
-And here some men and women run from Dan to Beersheba 1 Sam. 3:20 breaking their covenants. If I could have my will, they never should step into the Endowment Room again and administer in sacred things, when they take this course. And some women, who think they know everything, go home and abuse their husbands and raise the devil in a man's family.
-
-I have no allusion to the righteous, the good, the wholesome, pure, and virtuous, but to those it belongs to. What are my feelings? They are—God bless the pure, the righteous, the salt that has not lost its savor.
-
-I have not said anything about our enemies. I care nothing about them.
-
-A single man or woman in this kingdom may do a great deal of harm, if they are so inclined. If you put up a barrel of good, sweet meat and a little piece of tainted meat, not larger than a peach, in the center of it, it will not be three months before the whole barrel of meat will be spoiled, if you do not clean out the lump of bad meat that has lost its saving prin
-
--
-
-[[p. 128a]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0128.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2632)
-
-ciples. So wicked men and women in a Ward or in a Quorum can do much mischief. They inoculate death in the community.
-
-Paul, in speaking of the tongue, says, “It sets on fire the whole course of nature.” James 3:6 It inoculates hell into the people. A sister comes into your house, and you think she is almost an angel, she can smile so sweetly. Do you not know that the Devil can smile just as well as a Saint? You cannot know persons only as they are proved.
-
-God bless you and this whole people in the east, west, south, and north. My prayer is—God bless these valleys, and the mountains, and the fountains of life in them.
-
-How good it is to reflect that the day has come in which we have declared our independence. This we have done because the Lord God has said it to his servant Brigham. We are independent of those troops and those poor, miserable, ungodly scoundrels that they call civil officers. What civility, to come here to preside over us with 2,000 troops! With them it is, “God damn the Mormons—God damn Brigham Young. We will kill him and Heber C. Kimball, and we will seduce and debauch every woman in the City of Salt Lake.” The Lord has said to brother Brigham, “Say to them, before all Israel, in my name, They cannot come in here.”
-
-I am glad and can shout, Hallelujah! Praise be to the name of our God! And peace be to that man or woman that steps forward and sustains the weight in this operation. And that man or woman who revolts against the Priesthood of God and takes the opposite course, may God Almighty curse them, that they may go to hell, where they belong. These are my feelings.
-
-I am thankful this is a goodly land. I never was in a better. I appreciate it, and I appreciate these mountains 
-
-[[p. 128b]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0128.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2632)
-
- and valleys, and the red men of the forest. May God bless them, and, let the old Nephite Prophets and Patriarchs and servants of God stir them up and turn their hearts to the house of Israel in these Valleys, and he will do it; and the United States cannot buy them. God Almighty has got them by the bit. What? Israel? Yes. Although they are as a wild horse, he can lead them the same as you can a tame one.
-
-We shall prosper; we shall prevail with all those who cleave to the Church and kingdom of God; only do as you are told, and you need not trouble. See how the Lord is watering the earth. It will be wet down three or four feet, and he will continue to do it, and it will be like a pool of living water; John 4:10 and he will cause the earth to produce, and we shall be blessed, and God will sustain us; and he will sustain those that sustain his people.
-
-Instead of sending out two, three, or five thousand men, let us pick out a thousand, and they will stand against the United States. If God is with us, who can prevail against us? Why do not the women go to work and make up hats and caps for their husbands, and help them, and not suffer them to spend three dollars for a hat for a child three years' old? Let us make our own knives and forks, and everything else that we use; and let every man be diligent at home or in his shop about his employment.
-
-Brother Brigham says the soldiers cannot come here. Then we should say the same. He says they will be confused. Let us all pray that they may. Be kind to each other, and take good care of everything in your possession. Do not waste anything, nor abuse your horses. A man that is abusive to his animal is apt to be the same to his wife or child. There is nothing in the spirit of love that will kill or destroy unnecessarily— 
-
-[[p. 129a]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0129.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2631)
-
-nothing that will lie or oppress, for that comes from the spirit of destruction.
-
-The spirit of hypocrisy professes to be my friend today, and then tomorrow will go and speak against me. This should not be among us. Let us go to from this time henceforth and be one, and God will bless us. When you go visiting your neighbors, preach these things to them, and speak the truth continually, and lie not.
-
-I go visiting sometimes. I was out on a visit yesterday. You invite me to visit and talk; but half the family will go to cooking the night before, and cook all day until suppertime, and then they are too full to talk or hear, and we start home before the rest of the family has anything to eat; and they cook up everything they have, or expect to have for a year to come, figuratively speaking. I would rather have a piece of bread and go into the canyon with one or two of the brethren and talk about the things of God.
-
-Last Monday, the Congress of the United States commenced its session, and no doubt they will remember us. I want you should pray for them. Pray for the President of the United States; pray for the Senate and the House of Representatives; pray for the Speakers of each house, and pray for all men in authority, especially those who are opposed to Israel and who are planning for our destruction. I want you to pray good prayers for 
-
-[[p. 129b]](https://scriptures.byu.edu/jod/pdf/JoD06/JoD06_0129.pdf)[](https://contentdm.lib.byu.edu/utils/getfile/collection/JournalOfDiscourses3/id/2631)
-
- them, that they may fall into the dilemma they want to put us in. You need not pray anything more than that; for, I swear to you, they will get a bellyfull.
-
-The members of the Legislature here will assemble tomorrow morning, at ten o'clock, with our Governor at our head. It is the best legislative body there is upon the face of the earth, because they hold the Priesthood, and there is no person there only those who hold it—the leading men of Israel. Pray for that Assembly. There are forty-nine men of us—the representatives of this whole Territory, to make laws for the government and protection of the people. But when those men have made a law, our Governor can veto it in a moment. He is the head of the department to make laws to protect, sustain, and uphold the kingdom of God in all the world. If a law is made to protect me, it equally protects you and your wife and children. Now, I want to know if there is a man or woman here who is not interested in that? I mention this that you may pray that they may make laws such as the Lord would approve, if he was here himself. Those who feel in favor that our Governor continue, and to uphold and sustain him, with the Legislature and everything else that is good, rise up on your feet.
-
-[The whole congregation arose.]
-
-God bless you, and bless our Governor, with everything connected to him. Amen.
+#### 
 
