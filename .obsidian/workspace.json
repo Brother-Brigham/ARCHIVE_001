@@ -11,10 +11,14 @@
             "id": "23d350cf733a1095",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Judas Project.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Judas Project"
             }
           }
         ]
@@ -193,6 +197,9 @@
   },
   "active": "23d350cf733a1095",
   "lastOpenFiles": [
+    "Judas Project.md",
+    "Course Notes/S26",
+    "Diplomacy Planning.md",
     "Course Notes/W26/GREEK 102/Untitled.md",
     "Course Notes/W26/GREEK 102/Ch. 26.md",
     "Attachments/Pasted image 20260406111806.png",
@@ -229,8 +236,6 @@
     "Course Notes/W26/GREEK 102/Ch. 18.md",
     "Course Notes/W26/GREEK 102/Untitled",
     "Course Notes/W26/GREEK 102/Ch. 17.md",
-    "Weight Loss Plan.md",
-    "Course Notes/W26/GREEK 102/Goku Meme.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
@@ -238,7 +243,6 @@
     "Untitled.base",
     "Course Notes/W26/GREEK 102",
     "Course Notes/W26/CYBER240",
-    "WOTW Planning/Post Drafts",
-    "Course Notes/W26/REL 250"
+    "WOTW Planning/Post Drafts"
   ]
 }
