@@ -1,4 +1,10 @@
-
+## Ideas
+- Covenant violation curses
+- Blood atonement connection re: LDS non-scripture materials?
+- Provenance of Reed Peck manuscript
+- Provenance of Heber C. Kimball JD 6:122
+- Ancient Greco-Roman ideas in conflict or harmony with ancient Hebrew custom in OT? Does Restoration bring back either?
+- *Herem* between Judas and the 30 silver pieces — Holy War between Jesus and the leaders of the Jews? Look up the conditions of Holy War, see if they pop up in Matthew.
 ## Ancient Material
 
 ## LDS Material
@@ -171,5 +177,6 @@
 > 
 > God bless you, and bless our Governor, with everything connected to him. Amen.
 
-#### 
+#### AYBD - Curses
+![[IMG_4051.png]]
 
