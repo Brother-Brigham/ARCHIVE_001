@@ -180,3 +180,28 @@
 #### AYBD - Curses
 ![[IMG_4051.png]]
 
+
+# Judas Writeup
+
+This paper attempts to make sense of the inclusion of Judas Iscariot’s death in the Gospel of Matthew. Why was it included there, yet in none of the other gospels? What made it of interest to the author of Luke/Acts enough to be included in Acts, but not Luke? Why might the details differ starkly between the Matthew and Acts accounts? How might an ancient reader have understood what seems to be an apparent suicide? Was it a suicide at all, given the treatment of the account by early Latter-day Saint apostles? Of what significance are the implications that it was not a suicide and instead an execution? How should we approach this story regardless, given modern penchants against suicide and death, generally? Most importantly, what might this episode in Matthew teach us about the identity of Jesus Christ as the messiah, when considered in light of Matthew’s intended audience and style of conveying his message?
+## Gospel Authorship & Storytelling
+
+## Views on Suicide
+### Greco-Roman Views
+
+### Jewish Views
+
+### Latter-day Saint Views
+
+## Alternative Interpretations of the Account
+
+### Judas’s Death as Punishment for Violating *Herem*
+
+### Judas’s Death as Punishment for Violating Covenant and Priesthood
+#### Comparison between David and Judas; Punishment for Shedding Innocent Blood
+
+## Implications
+
+### Ideas for Further Research
+
+## Conclusion
