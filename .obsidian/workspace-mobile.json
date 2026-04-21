@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta-Prompt for AI Scheduler.md",
+                "file": "Judas Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta-Prompt for AI Scheduler"
+              "title": "Judas Project"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
+    "Meta-Prompt for AI Scheduler.md",
     "Judas Project.md",
     "Course Notes/S26/POLSC 150/D&C 134 Summary.md",
     "Course Notes/S26/REL 351",
@@ -208,7 +209,6 @@
     "D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
     "Course Notes/W26/GREEK 102/Ch 18.md",
     "Course Notes/W26/GREEK 102/Goku Meme.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
