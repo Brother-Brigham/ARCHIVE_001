@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Judas Project.md",
+                "file": "Course Notes/S26/AI 101/W01 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judas Project"
+              "title": "W01 Notes"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "849f7437877cc29b",
   "lastOpenFiles": [
-    "Meta-Prompt for AI Scheduler.md",
     "Judas Project.md",
+    "Meta-Prompt for AI Scheduler.md",
     "Course Notes/S26/POLSC 150/D&C 134 Summary.md",
     "Course Notes/S26/REL 351",
     "Course Notes/S26/POLSC 150",
