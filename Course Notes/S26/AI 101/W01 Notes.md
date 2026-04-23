@@ -14,4 +14,7 @@
 	- If I create something original and ask AI to improve it/iterate on it/create derivative work from it, does the final product belong to me, to the AI, to the training data's IP rights-holders?
 		- To whom does the final product belong if my work, fed into the AI, is derivative of someone else's work?
 	- [US Copyright Office report on AI generated content](https://www.copyright.gov/ai/)
-	- 
+- What impact does AI have on moral agency?
+	- Can AI only diminish and suffocate, or can it expand and enhance moral agentic ability when used appropriately?
+		- What does appropriate use look like?
+			- 
