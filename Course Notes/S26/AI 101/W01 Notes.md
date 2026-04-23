@@ -17,4 +17,6 @@
 - What impact does AI have on moral agency?
 	- Can AI only diminish and suffocate, or can it expand and enhance moral agentic ability when used appropriately?
 		- What does appropriate use look like?
-			- 
+			- Studies on AI-induced psychosis and safeguards that can be implemented by users to prevent it can key us in on appropriate as well as dangerously inappropriate use. [My NotebookLM Notebook on AI-induced psychosis](https://notebooklm.google.com/notebook/a9f0bc2a-c24e-449e-9764-4595645ebff9?authuser=8)
+- Do we need an off button?
+	- Yes, probably. Because LLM technology is predictive, it is impossible to have complete certainty regarding LLM behaviour and output. If we embody the technology, some sort of physical safeguard is required to combat unpredictability that may lead to danger.
