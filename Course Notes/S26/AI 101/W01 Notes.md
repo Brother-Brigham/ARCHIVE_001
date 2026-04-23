@@ -7,3 +7,6 @@
 4. Agent Engineer
 - By the end of the semester (between AI Fundamentals and Advanced AI) we will go from Novice to Agent Engineer
 - The advent of AI is arguably the most significant technological advancement in human history so far
+
+## Apr 23 Class
+- 
