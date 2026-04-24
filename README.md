@@ -3,4 +3,4 @@ Obsidian Vault Backup/Sync
 
 
 
-Editing hehehehe
+Editing fixed?
