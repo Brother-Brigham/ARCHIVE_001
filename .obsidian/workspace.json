@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Judas Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Judas Project"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "23d350cf733a1095",
   "lastOpenFiles": [
+    "README.md",
     "Course Notes/S26/AI 101/W01 Notes.md",
     "().md",
     "Judas Project.md",
@@ -234,7 +235,6 @@
     "Scripture Study Notes/Endowment.md",
     "Course Notes/W26/POLSC 110/National Debt Part 2.md",
     "Course Notes/W26/GREEK 102/Ch. 20.md",
-    "Course Notes/W26/GREEK 102/Ch. 19.md",
     "Course Notes/W26/POLSC 110",
     "Course Notes/W26/GREEK 102/Untitled",
     "copilot/copilot-custom-prompts",

@@ -200,6 +200,7 @@ This paper attempts to make sense of the inclusion of Judas Iscariot’s death i
 
 ### Judas’s Death as Punishment for Violating Covenant and Priesthood
 #### Comparison between David and Judas; Punishment for Shedding Innocent Blood
+#### Comparison between Saul and Judas; Non-Hellenized Approach to Suicide
 
 ## Implications
 
