@@ -186,6 +186,12 @@
 
 This paper attempts to make sense of the inclusion of Judas Iscariot’s death in the Gospel of Matthew. Why was it included there, yet in none of the other gospels? What made it of interest to the author of Luke/Acts enough to be included in Acts, but not Luke? Why might the details differ starkly between the Matthew and Acts accounts? How might an ancient reader have understood what seems to be an apparent suicide? Was it a suicide at all, given the treatment of the account by early Latter-day Saint apostles? Of what significance are the implications that it was not a suicide and instead an execution? How should we approach this story regardless, given modern penchants against suicide and death, generally? Most importantly, what might this episode in Matthew teach us about the identity of Jesus Christ as the messiah, when considered in light of Matthew’s intended audience and style of conveying his message?
 ## Gospel Authorship & Storytelling
+- Note on ancient historiography (history-writing) being markedly different from modern historiographical standards.
+	- Judas as the “evil” foil to Jesus (Klassen)
+	- What is the purpose behind Matthew’s depiction of Judas, when considered in the light of Matthew’s audience and message?
+	- *Carmen Paschale* and the *Legend Aurea* as the works that stoked the popular negative sentiments against Judas
+	- Thomas de Quincey and others on Judas not being a betrayer, but attempting to force Jesus’s hand to usher in the kingdom (demonstrated by his significant remorse)
+	- 
 
 ## Views on Suicide
 ### Greco-Roman Views
