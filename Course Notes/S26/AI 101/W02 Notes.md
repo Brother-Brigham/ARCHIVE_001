@@ -1,8 +1,11 @@
 ## Apr 28 Class
-### AI News
+ **AI News**
 - Do we need guardrails for AI?
 - Do we need an 'off' button?
 - Does AI development/advancement need to be reigned in?
+
+
+
 
 # AI Fundamentals — Key Term Glossary
 
@@ -110,4 +113,73 @@ A subsequent training phase in which a pre-trained model is further trained on a
 ---
 
 ## Parameter
-A numerical value (weight or bias) internal to a neural network that is learned during training. Parameters determine how the network transforms inputs into outputs. During training, parameters are iteratively adjusted via gradient descent to minimize prediction error. Modern LLMs contain billions to
+A numerical value (weight or bias) internal to a neural network that is learned during training. Parameters determine how the network transforms inputs into outputs. During training, parameters are iteratively adjusted via gradient descent to minimize prediction error. Modern LLMs contain billions to trillions of parameters — the parameter count is often used as a rough proxy for model capacity.
+
+---
+
+## Deep Learning
+A subfield of machine learning that uses artificial neural networks with many layers (hence "deep") to learn representations of data. Deep learning has driven breakthroughs in image recognition, speech processing, and natural language understanding. LLMs are a product of deep learning — specifically, deep Transformer architectures trained at massive scale.
+
+---
+
+## Supervised Learning
+A machine learning approach in which a model is trained on a labeled dataset, where each training example consists of an input paired with the correct output (a label). The model learns to map inputs to outputs by minimizing the error between its predictions and the true labels. Examples include image classifiers trained on labeled photos, or spam filters trained on labeled emails.
+
+---
+
+## Unsupervised Learning
+A machine learning approach in which a model is trained on data *without* labels, and must discover structure, patterns, or representations on its own. Common tasks include clustering (grouping similar data), dimensionality reduction, and anomaly detection. Pre-training LLMs on unlabeled internet text is technically a form of self-supervised learning — a closely related paradigm.
+
+---
+
+## NLP (Natural Language Processing)
+A branch of AI focused on enabling computers to understand, interpret, and generate human language. NLP encompasses tasks such as text classification, machine translation, sentiment analysis, named entity recognition, question answering, and text generation. Modern NLP is dominated by Transformer-based LLMs, which have achieved state-of-the-art performance across nearly all language benchmarks.
+
+---
+
+## Generative AI
+A class of AI models designed to generate new content — such as text, images, audio, video, or code — that resembles human-created content. Generative AI models learn patterns from large training datasets and use that knowledge to produce novel outputs in response to prompts. LLMs like GPT and Claude are examples of generative AI for text; diffusion models are used for image generation.
+
+---
+
+## Attention Mechanism
+A core component of Transformer architecture that allows a model to weigh the relevance of different parts of the input when processing each element. Rather than treating all words equally, the attention mechanism lets the model focus on the most contextually relevant tokens — for example, connecting a pronoun back to the noun it refers to. The *self-attention* variant allows the model to consider relationships across all positions in the input simultaneously, enabling much richer contextual understanding than earlier architectures.
+
+---
+
+## Training
+The process by which a machine learning model learns from data. During training, the model is repeatedly shown examples, makes predictions, and then has its internal parameters (weights) adjusted — via an optimization algorithm like gradient descent — to reduce the error between its predictions and the correct answers. Training large models requires enormous computational resources, primarily GPUs, and can take days to months.
+
+---
+
+## GPU (Graphics Processing Unit)
+A hardware component originally designed for rendering graphics that has become the backbone of modern AI training. GPUs can perform thousands of simple mathematical operations in parallel, making them far more efficient than CPUs for the matrix multiplications that neural networks require. NVIDIA currently dominates the AI GPU market with chips such as the H100 and Blackwell series.
+
+---
+
+## Dataset
+A structured collection of data used to train, validate, or evaluate a machine learning model. Datasets can consist of text, images, audio, video, structured tables, or other data types. The quality, size, and diversity of a dataset are among the most important factors determining a model's capabilities and limitations. Common LLM training datasets include web crawls (Common Crawl), books, Wikipedia, and curated code repositories.
+
+---
+
+## Gradient Descent
+The core optimization algorithm used to train neural networks. During training, gradient descent computes the gradient (the direction and magnitude of error) of the loss function with respect to each model parameter, then adjusts the parameters in the opposite direction of the gradient to reduce error. The process iterates across the entire training dataset until the model's predictions are sufficiently accurate. Variants include stochastic gradient descent (SGD) and Adam.
+
+---
+
+## Temperature
+A parameter that controls the randomness and creativity of a language model's output during generation. Temperature values typically range from 0 to 1 (some models extend to 2). A low temperature (e.g., 0–0.3) makes the model more deterministic and predictable, favoring the most likely tokens. A high temperature (e.g., 0.7–1.0) introduces more randomness, producing more varied and creative — but potentially less accurate — outputs.
+
+---
+
+## Emergent Behavior
+Unexpected or unpredictable capabilities that arise in AI models as they scale in size or are trained on more data — behaviors that were not explicitly trained for and could not easily be predicted from smaller models. For example, large language models have been observed to spontaneously develop abilities in arithmetic, multi-step reasoning, and code generation at certain scales. Emergent behavior is an active area of AI research and debate.
+
+---
+
+## Context Window
+The maximum amount of text (measured in tokens) that a language model can process at one time — effectively the model's working memory. Everything the model "knows" about the current conversation or task must fit within this window. A larger context window allows the model to consider more prior text when generating a response. Modern LLMs range from tens of thousands to over a million tokens in their context windows.
+
+---
+
+*Last updated: April 2026 | AI Fundamentals Class Notes*
