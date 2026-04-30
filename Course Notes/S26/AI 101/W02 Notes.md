@@ -7,6 +7,7 @@
 ## Apr 30 Class
 - Directives of using AI in this course:
 	- Encouraged to use it as much as possible. You are responsible for what it generates.
+- Amadeus clip - AI becoming more virtuosic and talented than humankind?
 - 
 
 
