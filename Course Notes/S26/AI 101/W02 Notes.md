@@ -4,6 +4,10 @@
 - Do we need an 'off' button?
 - Does AI development/advancement need to be reigned in?
 
+## Apr 30 Class
+- Directives of using AI in this course:
+	- Encouraged to use it as much as possible. You are responsible for what it generates.
+- 
 
 
 
