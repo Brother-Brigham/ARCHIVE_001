@@ -8,7 +8,9 @@
 - Directives of using AI in this course:
 	- Encouraged to use it as much as possible. You are responsible for what it generates.
 - Amadeus clip - AI becoming more virtuosic and talented than humankind?
-- 
+- How is AI not a "black box" if we do not understand the workings of the hidden layers? 
+	- Understanding how it theoretically works does not reveal what is actually going on under the hood, when it comes to processes. What actually happens in the parts we cannot see?
+		- Does policing AI in this way create the same kinds of policies that would regulate human thought?
 
 
 
