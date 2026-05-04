@@ -9,6 +9,8 @@
 ## Ancient Material
 
 ## LDS Material
+
+"Blood Atonement" entry in Encyclopedia of Mormonism.
 ### Scriptures
 > [!ldslib] [Matthew 27:3-10](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=eng&id=p3-p10)
 > 3 ¶ Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,
