@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d350cf733a1095",
+  "active": "176cbab2937512ab",
   "lastOpenFiles": [
+    "Attachments/Notes_251227_091550_2c5.png",
+    "Judas Project.md",
     "Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Dashboard.md",
     "Course Notes/S26/AI 101/Personal AI Roadmap.md",
     "Course Notes/S26/AI 101/W02 Notes.md",
     "Course Notes/S26/AI 101/W01 Notes.md",
-    "Judas Project.md",
     "Course Notes/S26/CYBER 301/TCPView Lab.md",
     "Course Notes/S26/CYBER 301",
     "Awakening Apotheosis Team Planner.md",
@@ -238,7 +240,6 @@
     "conflict-files-obsidian-git.md",
     "Journal Entries/2026-03-29.md",
     "Journal Entries/2026-01-01.md",
-    "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Course Notes/W26/POLSC 110",
     "Course Notes/W26/GREEK 102/Untitled",
     "copilot/copilot-custom-prompts",
