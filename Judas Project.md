@@ -6,6 +6,7 @@
 - Ancient Greco-Roman ideas in conflict or harmony with ancient Hebrew custom in OT? Does Restoration bring back either?
 - *Herem* between Judas and the 30 silver pieces — Holy War between Jesus and the leaders of the Jews? Look up the conditions of Holy War, see if they pop up in Matthew.
 - How was Judas treated in sermons by Christian preachers in the 1800s? How much of that carried into the early LDS treatments? (Judas seen exclusively as traitor?)
+- How do early LDS leaders treat King David? Comparable to Judas at all? (Both guilty of the sin (unforgivable?) of shedding of innocent blood--additional Blood Atonement tie-in here?) (Would Matthew's audience have connected Judas's sin to David's sin?)
 ## Ancient Material
 
 ## LDS Material
