@@ -1,0 +1,9 @@
+- Phishing is much easier than hacking; why break in the code when you can just get someone to give you credentials?
+- Bug bounty programs are a good way to incentivize exploit reporting. Payouts on an annual basis are pretty big aross the industry.
+- IEEE mentioned, the big organization that defines things like WiFi protocols
+- SMTP protocol (email) - no security because it's a legacy protocol from the '80s that doesn't have any built-in sender verification; we've had to band-aid security solutions on top of the protocol to try to help clarify the legitimacy of emails.
+	- MX Lookup is a good tool for finding DNS entries
+		- The spf record reveals which IP addresses are legitimate IP addresses to receive emails from. 
+- https://phishingquiz.withgoogle.com/ to see how good we are at detecting phishing emails
+- Lots of the famous hackers go to jail, get out, and then make tons of money at big companies because they were famous and talented--Kevin Mitnick & others
+- "Phishing" comes from "Phone fishing" Origins of phishing in "phreaking"--hacking phone systems.
