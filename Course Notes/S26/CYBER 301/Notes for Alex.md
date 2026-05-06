@@ -7,3 +7,8 @@
 - https://phishingquiz.withgoogle.com/ to see how good we are at detecting phishing emails
 - Lots of the famous hackers go to jail, get out, and then make tons of money at big companies because they were famous and talented--Kevin Mitnick & others
 - "Phishing" comes from "Phone fishing" Origins of phishing in "phreaking"--hacking phone systems.
+- Homoglyph Attack Generator - irongeek.com - can use characters that look identical but are technically different in order to impersonate legitimate web URLs
+- NMAP Lab (in the Sec+ exam, you may get a question about what NMAP is) - due at midnight tonight.
+	- Just run a scan on scanme.nmap.org
+	- Nmap is preinstalled on Kali, so you don't have to install it separately if you still have your VM. Otherwise, you can install it for the lab.
+- No class on Monday, but the Topic and a lab assignment will be due. Prof has a jury summons that he couldn't get out of; judge wants him to come in and demonstrate a hardship (can't get classes covered by other faculty)

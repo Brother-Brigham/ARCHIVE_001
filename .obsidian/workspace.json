@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informational Interview - Justin Stewart.md",
+                "file": "Course Notes/S26/CYBER 301/Notes for Alex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informational Interview - Justin Stewart"
+              "title": "Notes for Alex"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/S26/CYBER 301/Notes for Alex.md",
+                "file": "Course Notes/S26/CYBER 301/NMAP Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes for Alex"
+              "title": "NMAP Lab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2314b988de272854",
+  "active": "23d350cf733a1095",
   "lastOpenFiles": [
-    "Course Notes/S26/CYBER 301/TCPView Lab.md",
-    "Informational Interview - Justin Stewart.md",
+    "Course Notes/S26/CYBER 301/NMAP Lab.md",
     "Course Notes/S26/CYBER 301/Notes for Alex.md",
+    "Informational Interview - Justin Stewart.md",
+    "Course Notes/S26/CYBER 301/TCPView Lab.md",
     "Judas Project.md",
     "Course Notes/S26/ENG 452/Contractors Flyer Brainstorming.md",
     "D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
@@ -253,7 +253,6 @@
     "Attachments/Pasted image 20260401122106.png",
     "Attachments/Pasted image 20260401122042.png",
     "Attachments/Pasted image 20260401122027.png",
-    "Journal Entries/2026-03-30.md",
     "Course Notes/W26/POLSC 110",
     "Course Notes/W26/GREEK 102/Untitled",
     "copilot/copilot-custom-prompts",
