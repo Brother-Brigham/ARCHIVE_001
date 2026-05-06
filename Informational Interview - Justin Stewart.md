@@ -1,14 +1,15 @@
 
 - What is your career title/position?
-
+Justin is a Congressional Staff Assistant, specifically over IT assistance and tour coordinating.
 - Could you walk me through your career path (education, internships, jobs etc)?
-
+Justin graduated PPA degree focus on policy, internship with Crapo in F24 in his IF office, reapplied for a DC internship w Crapo's office, because of his previous experience and a glowing recommendation from the IF office they took him; two weeks into the second position a full-time position opened up and Justin applied and was accepted to it. Because of his experience and already knowing the people there, they took him on in the staff assistant position.
 - Can you provide more details about what your typical day/week looks like?
-
+As Staff Assistant, main duties are constituent services (phone calls, logging concerns/wishes, submitting correspondence requests if they want to hear back from senator, tour coordination for Idahoans that come to DC for trips (FBI, WH, Treasury, etc.) coordinating with office interns who give the tours). Daily check voicemails for constituent services and tour coordination, then checks in on IT stuff, then is either answering phones or taking check-in for meetings with the Senator.
 - Which skills are most important for a job like yours?
-
+Multitasking probably the most important (phone call, meeting check-in, respond to email, get back on phone, etc.), being levelheaded (majority of phone calls are angry phone calls or from opposite party members, they'll attack you and the senator, etc.), office skills (Excel, Office Suite), good writing skills (develop these as an intern helping write letters to constituents that meet the senator's reqs), being able to read and research well (researching news and policy).
 - What do you like and dislike about your career?
-
+Likes working at one of the most important places in the country (nothing cooler than walking people through the capitol building and showing people around, watching people see the rotunda for the first time, etc.)--that side of constituent services is fantastic. Hardest part is having to take the angry phone calls, stay nonpartisan, etc. Negative side constituent services is hard. 
 - What do you think is the best way to earn an internship (or job) in this industry (or at this company)?
-
+Be persistent, but not overbearing. Followup is important (Gov't paperwork moves slowly)--for fear of your paperwork getting lost in the stack, check in. Have good interviewee skills, be able to answer how you would handle different aspects of the job duties. Proactively make connections and network. Opportunity isn't going to fall into your lap the majority of the time--opportunities are earned, not just given, and working for those is what will get you on the hill. It's who you know and how you handle yourself/representing yourself and ability to rep the senator.
 - What positions do you go to from here?
+Natural progression from here in most offices is Intern->Staff Assistant->Legislative Correspondent/Aide to Legislative Assistant->Legislative Assistant (different policy areas; your name doesn't show up on the redline, but you get to know that you helped make that policy)->Legislative Director (oversees policy/legislation for office). Also the press side of things, but most people go the policy side.
