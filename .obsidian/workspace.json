@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "W01 Notes"
             }
+          },
+          {
+            "id": "fce20ecae88fae94",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "176cbab2937512ab",
+  "active": "fce20ecae88fae94",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Course Notes/S26/AI 101/W01 Notes.md",
+    "Informational Interview - Justin Stewart.md",
+    "Course Notes/S26/ENG 452/Contractors Flyer Brainstorming.md",
+    "Course Notes/S26/CYBER 301/Notes for Alex.md",
+    "Course Notes/S26/CYBER 301/TCPView Lab.md",
+    "Course Notes/S26/CYBER 301/NMAP Lab.md",
+    "Course Notes/S26/CYBER 301",
+    "Course Notes/S26/AI 101/W02 Notes.md",
+    "Course Notes/S26/AI 101/Personal AI Roadmap.md",
     "Dashboard.md",
     "Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Course Notes/S26/ENG 452",
     "().md",
-    "Course Notes/S26/AI 101/W01 Notes.md",
     "Judas Project.md",
     "AI-Powered Scheduling App.md",
     "Meta-Prompt for AI Scheduler.md",
@@ -223,25 +247,16 @@
     "Attachments/Pasted image 20260401122027.png",
     "Attachments/Pasted image 20260401121028.png",
     "Journal Entries/2026-03-30.md",
-    "conflict-files-obsidian-git.md",
     "Journal Entries/2026-03-29.md",
     "Journal Entries/2026-01-01.md",
     "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Course Notes/W26/GREEK 102/Ch. 23.md",
     "Course Notes/W26/GREEK 102/Ch. 22.md",
-    "Division Go-Bag.md",
-    "Awakening Apotheosis Team Planner.md",
-    "Schedule Planning.md",
-    "Scripture Study Notes/Baptism.md",
-    "Course Notes/W26/GREEK 102/Ch. 21.md",
-    "Scripture Study Notes/Endowment.md",
-    "Course Notes/W26/POLSC 110/National Debt Part 2.md",
     "Course Notes/W26/POLSC 110",
     "Course Notes/W26/GREEK 102/Untitled",
     "copilot/copilot-custom-prompts",
     "copilot",
     "D&D/Character Builds",
-    "Untitled.canvas",
-    "Untitled.base"
+    "Untitled.canvas"
   ]
 }

@@ -5,3 +5,5 @@ b. After being notified by NMFS, all CA/OR DGN operators must attend one Skipper
 
 c. 
 
+## Chapter 2
+1. 
