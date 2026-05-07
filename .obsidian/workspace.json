@@ -25,14 +25,14 @@
             "id": "fce20ecae88fae94",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Course Notes/S26/AI 101/W03 Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "W03 Notes"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "fce20ecae88fae94",
   "lastOpenFiles": [
+    "Course Notes/S26/AI 101/W03 Notes.md",
     "conflict-files-obsidian-git.md",
     "Course Notes/S26/AI 101/W01 Notes.md",
     "Informational Interview - Justin Stewart.md",
@@ -251,7 +252,6 @@
     "Journal Entries/2026-01-01.md",
     "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Course Notes/W26/GREEK 102/Ch. 23.md",
-    "Course Notes/W26/GREEK 102/Ch. 22.md",
     "Course Notes/W26/POLSC 110",
     "Course Notes/W26/GREEK 102/Untitled",
     "copilot/copilot-custom-prompts",
