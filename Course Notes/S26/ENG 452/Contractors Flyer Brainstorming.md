@@ -5,4 +5,20 @@ Information they NEED to know:
 - Include floor plan/draft info
 - Contact info for James Zolman
 - Include new logo if it's used
-- 
+
+
+Tri-fold Approach
+- Front
+	- Bolded Letters
+- Second
+	- 
+- Third
+	- 
+- Fourth
+	- 
+- Inner
+	- 
+- Back
+	- QR Code
+	- Zolman's contact info
+	- 
