@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/S26/AI 101/W01 Notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W01 Notes"
-            }
-          },
-          {
-            "id": "fce20ecae88fae94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Judas Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Judas Project"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,54 +194,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce20ecae88fae94",
+  "active": "23d350cf733a1095",
   "lastOpenFiles": [
-    "Course Notes/S26/AI 101/W03 Notes.md",
-    "Course Notes/S26/AI 101/W03 Report - Your Major and Career.md",
-    "conflict-files-obsidian-git.md",
-    "Course Notes/S26/AI 101/W01 Notes.md",
-    "Informational Interview - Justin Stewart.md",
     "Course Notes/S26/ENG 452/Contractors Flyer Brainstorming.md",
+    "Course Notes/S26/AI 101/W03 Report - Your Major and Career.md",
+    "Course Notes/S26/AI 101/W03 Notes.md",
     "Course Notes/S26/CYBER 301/Notes for Alex.md",
-    "Course Notes/S26/CYBER 301/TCPView Lab.md",
     "Course Notes/S26/CYBER 301/NMAP Lab.md",
-    "Course Notes/S26/CYBER 301",
-    "Course Notes/S26/AI 101/W02 Notes.md",
-    "Course Notes/S26/AI 101/Personal AI Roadmap.md",
-    "Dashboard.md",
+    "Informational Interview - Justin Stewart.md",
+    "Course Notes/S26/CYBER 301/TCPView Lab.md",
+    "Judas Project.md",
+    "D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
+    "Attachments/Notes_251227_091550_2c5.png",
     "Course Notes/S26/ENG 452/Textbook Exercises.md",
+    "Index.md",
+    "Course Notes/S26/AI 101/Personal AI Roadmap.md",
+    "Course Notes/S26/AI 101/W02 Notes.md",
+    "Course Notes/S26/AI 101/W01 Notes.md",
+    "Course Notes/S26/CYBER 301",
+    "Awakening Apotheosis Team Planner.md",
+    "AI-Powered Scheduling App.md",
+    "Division Go-Bag.md",
+    "Diplomacy Planning.md",
+    "Weight Loss Plan.md",
+    "README.md",
+    "Schedule Planning.md",
+    "Goals for 2026.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "Course Notes/S26/ENG 452",
     "().md",
-    "Judas Project.md",
-    "AI-Powered Scheduling App.md",
     "Meta-Prompt for AI Scheduler.md",
     "Course Notes/S26/AI 101",
     "Course Notes/S26/POLSC 150/D&C 134 Summary.md",
     "Course Notes/S26/POLSC 150",
     "Attachments/IMG_4051.png",
     "Course Notes/S26",
-    "Diplomacy Planning.md",
     "Course Notes/W26/GREEK 102/Untitled.md",
-    "Course Notes/W26/GREEK 102/Ch. 26.md",
     "Attachments/Pasted image 20260406111806.png",
     "Attachments/Pasted image 20260406111517.png",
     "Attachments/Pasted image 20260406111446.png",
     "Attachments/Pasted image 20260402110939.png",
-    "Course Notes/W26/GREEK 102/Ch. 25.md",
     "Attachments/Pasted image 20260402100508.png",
     "Attachments/Pasted image 20260401122106.png",
     "Attachments/Pasted image 20260401122042.png",
     "Attachments/Pasted image 20260401122027.png",
-    "Attachments/Pasted image 20260401121028.png",
-    "Journal Entries/2026-03-30.md",
-    "Journal Entries/2026-03-29.md",
-    "Journal Entries/2026-01-01.md",
-    "Course Notes/W26/GREEK 102/Ch. 24.md",
     "Course Notes/W26/POLSC 110",
     "Course Notes/W26/GREEK 102/Untitled",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "D&D/Character Builds",
-    "Untitled.canvas"
+    "copilot"
   ]
 }
