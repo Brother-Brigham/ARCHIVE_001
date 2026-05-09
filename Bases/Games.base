@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: Game View
+    filters:
+      and:
+        - file.folder == "Bases/Games"
+    groupBy:
+      property: publishers
+      direction: ASC
+    order:
+      - englishTitle
+      - played
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.45
+    cardSize: 360

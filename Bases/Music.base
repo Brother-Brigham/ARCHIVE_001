@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Music View
+    filters:
+      and:
+        - file.folder == "Bases/Music"
+    order:
+      - englishTitle
+      - artists
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1

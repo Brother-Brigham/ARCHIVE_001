@@ -7,8 +7,8 @@ views:
     order:
       - title
       - author
-      - Status
-    image: note.coverUrl
+      - read
+    image: note.image
     imageAspectRatio: 1.45
     imageFit: contain
     cardSize: 200

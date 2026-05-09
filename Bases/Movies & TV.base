@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Movie View
+    filters:
+      and:
+        - file.folder == "Bases/Movies & TV"
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.35
