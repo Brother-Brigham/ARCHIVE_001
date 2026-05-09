@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23d350cf733a1095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theology & Scripture MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theology & Scripture MOC"
-            }
-          },
-          {
             "id": "a1a6e115a668152e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Research.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Research"
+              "title": "Index"
             }
           },
           {
@@ -53,14 +39,17 @@
             "id": "a536a13cdf00f58b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Bases/Bookshelf.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Bookshelf"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,17 +219,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a536a13cdf00f58b",
+  "active": "176cbab2937512ab",
   "lastOpenFiles": [
-    "Academic Vault MOC.md",
-    "Current Research.md",
-    "Curriculum Vitae.md",
+    "Bases/Books/The Book of Mormon.md",
+    "Bases/Bookshelf.base",
+    "Bases/Bookshelf.base",
+    "Bases/Books",
+    "Bases",
     "Index.md",
-    "Work Samples.md",
+    "Curriculum Vitae.md",
+    "Current Research.md",
     "Theology & Scripture MOC.md",
+    "Academic Vault MOC.md",
+    "Work Samples.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Journal Entries/2026-01-01.md",
     "Creative Projects/Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
@@ -259,8 +254,6 @@
     "Academic Vault/Judas Project.md",
     "Academic Vault/Course Notes/S26/AI 101/Personal AI Roadmap.md",
     "Academic Vault/Course Notes/S26/AI 101/W01 Notes.md",
-    "Academic Vault/Course Notes/S26/AI 101/W02 Notes.md",
-    "Academic Vault/Course Notes/S26/AI 101/W03 Notes.md",
     "Creative Projects",
     "Theology & Scripture",
     "Academic Vault",
@@ -269,10 +262,7 @@
     "Untitled.base",
     "Untitled.canvas",
     "Academic Vault/Course Notes/S26/ENG 452",
-    "Academic Vault/Course Notes/S26/AI 101",
-    "Academic Vault/Course Notes/S26/POLSC 150",
     "Attachments/IMG_4051.png",
-    "Academic Vault/Course Notes/S26",
     "Attachments/Pasted image 20260406111806.png",
     "Attachments/Pasted image 20260406111517.png",
     "Attachments/Pasted image 20260406111446.png",
@@ -280,7 +270,6 @@
     "Attachments/Pasted image 20260402100508.png",
     "Attachments/Pasted image 20260401122106.png",
     "Attachments/Pasted image 20260401122042.png",
-    "Attachments/Pasted image 20260401122027.png",
-    "Academic Vault/Course Notes/W26/POLSC 110"
+    "Attachments/Pasted image 20260401122027.png"
   ]
 }
