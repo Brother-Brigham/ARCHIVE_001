@@ -3,27 +3,23 @@ title: Theology & Scripture
 ---
 # Theology & Scripture
 
-This is the central hub for my notes on Latter-day Saint history, theology, and personal scripture study. 
+This is the central hub for my notes on Latter-day Saint history, theology, and personal scripture study. My method of study, motivated by my Hebrew professor, is geared toward linking concepts, symbols, and concrete parallels to deepen understanding. Obsidian's linking functions seem well equipped for his methodology.
 
-## ⚖️ Core Theological Concepts
-These are my growing, evergreen notes on foundational doctrines.
+## Concepts
+These are links to the concepts I have found connections with throughout my developing studies.
 * [[God]]
 * [[Jesus]]
 * [[Lucifer]]
 * [[Man]]
 * [[Woman]]
 * [[Heaven]]
-
-## 📜 Ordinances and Covenants
 * [[Baptism]]
 * [[Endowment]]
-* [[Covenant and Plan Outline]] 
+* [[Glass]]
+* [[Earth]]
 
-## 📚 Coursework & Academic Study
-Notes and syntheses generated from my university religion courses.
-* **REL 250 (Christ and the Everlasting Gospel):** *(Link to major concepts or the folder index here)*
-* **REL 392R (LDS History & Thought):** *(Link to major concepts here)*
-
+## Drafts for *The Mountaineer*
+*The Mountaineer* is my Substack publication, a blog tailored toward Latter-day Saint 
 ## 🔗 Intersections
 Where my theology overlaps with my other studies.
 * [[D&C 134 Summary]] (Connecting theology to [[POLSC 150]])

@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Projects/Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
+                "file": "Theology & Scripture MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storyline, They Call Me 'The Kid'"
+              "title": "Theology & Scripture MOC"
+            }
+          },
+          {
+            "id": "a1a6e115a668152e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,11 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d350cf733a1095",
+  "active": "a1a6e115a668152e",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "Theology & Scripture MOC.md",
+    "Journal Entries/2026-01-01.md",
+    "Creative Projects/Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
     "Creative Projects/Red Ivy Records/Concepts/They Call Me 'The Kid' - Original Full Concept.md",
     "Creative Projects/Red Ivy Records/Concepts/FULL CONCEPT They Call Me 'The Kid'.md",
-    "Creative Projects/Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
     "Creative Projects/Red Ivy Records/Concepts/COLLECTION Under the Moon.md",
     "Creative Projects/Red Ivy Records/Concepts/COLLECTION The Hymns.md",
     "Creative Projects/Red Ivy Records/Concepts/ALBUM They Call Me 'The Kid'.md",
@@ -209,7 +223,6 @@
     "Creative Projects/D&D/Character Builds/Spencer's Campaign - Wizard Build Planning.md",
     "Creative Projects/D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
     "Creative Projects/WOTW Planning/Ito Kai.md",
-    "Journal Entries/2026-01-01.md",
     "Academic Vault/Judas Project.md",
     "Academic Vault/Course Notes/S26/AI 101/Personal AI Roadmap.md",
     "Academic Vault/Course Notes/S26/AI 101/W01 Notes.md",
@@ -220,8 +233,6 @@
     "Academic Vault/Course Notes/S26/CYBER 301/Notes for Alex.md",
     "Academic Vault/Course Notes/S26/CYBER 301/TCPView Lab.md",
     "Academic Vault/Course Notes/S26/CYBER 301/Wireshark Lab.md",
-    "Academic Vault/Course Notes/S26/ENG 452/Contractors Flyer Brainstorming.md",
-    "Academic Vault/Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Creative Projects",
     "Theology & Scripture",
     "Academic Vault",
