@@ -1,14 +1,14 @@
 The attacker is trying to log into a specific service. What service is this? File Transfer Protocol (FTP)
 
-There is a very popular tool by Van Hauser which can be used to brute force a series of services. What is the name of this tool? 
+There is a very popular tool by Van Hauser which can be used to brute force a series of services. What is the name of this tool? THC-Hydra, Hydra
 
-The attacker is trying to log on with a specific username. What is the username?
+The attacker is trying to log on with a specific username. What is the username? jenny
 
-What is the user's password?
+What is the user's password? password123
 
-What is the current FTP working directory after the attacker logged in?
+What is the current FTP working directory after the attacker logged in? "/var/www/html" is the current directory
 
-The attacker uploaded a backdoor. What is the backdoor's filename?
+The attacker uploaded a backdoor. What is the backdoor's filename? 
 
 The backdoor can be downloaded from a specific URL, as it is located inside the uploaded file. What is the full URL?
 
