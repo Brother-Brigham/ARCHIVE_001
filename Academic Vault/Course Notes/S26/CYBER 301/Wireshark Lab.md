@@ -12,7 +12,6 @@ The attacker uploaded a backdoor. What is the backdoor's filename? shell.php
 
 The backdoor can be downloaded from a specific URL, as it is located inside the uploaded file. What is the full URL? http://pentestmonkey.net/tools/php-reverse-shell
 
-
 Which command did the attacker manually execute after getting a reverse shell?
 
 What is the computer's hostname?
