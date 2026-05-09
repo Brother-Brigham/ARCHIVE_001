@@ -19,7 +19,8 @@ These are links to the concepts I have found connections with throughout my deve
 * [[Earth]]
 
 ## Drafts for *The Mountaineer*
-*The Mountaineer* is my Substack publication, a blog tailored toward Latter-day Saint 
-## 🔗 Intersections
+*The Mountaineer* is my Substack publication, a blog tailored toward Latter-day Saint thought, history, and apologetics.
+- [[Observation, Space, and Seeing the Bigger Picture]]
+## Intersections
 Where my theology overlaps with my other studies.
-* [[D&C 134 Summary]] (Connecting theology to [[POLSC 150]])
+* 

@@ -25,10 +25,14 @@
             "id": "a1a6e115a668152e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ],
@@ -207,8 +211,12 @@
   },
   "active": "a1a6e115a668152e",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "Current Research.md",
+    "Index.md",
+    "Work Samples.md",
+    "Curriculum Vitae.md",
     "Theology & Scripture MOC.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Journal Entries/2026-01-01.md",
     "Creative Projects/Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
     "Creative Projects/Red Ivy Records/Concepts/They Call Me 'The Kid' - Original Full Concept.md",
@@ -229,10 +237,6 @@
     "Academic Vault/Course Notes/S26/AI 101/W02 Notes.md",
     "Academic Vault/Course Notes/S26/AI 101/W03 Notes.md",
     "Academic Vault/Course Notes/S26/AI 101/W03 Report - Your Major and Career.md",
-    "Academic Vault/Course Notes/S26/CYBER 301/NMAP Lab.md",
-    "Academic Vault/Course Notes/S26/CYBER 301/Notes for Alex.md",
-    "Academic Vault/Course Notes/S26/CYBER 301/TCPView Lab.md",
-    "Academic Vault/Course Notes/S26/CYBER 301/Wireshark Lab.md",
     "Creative Projects",
     "Theology & Scripture",
     "Academic Vault",
