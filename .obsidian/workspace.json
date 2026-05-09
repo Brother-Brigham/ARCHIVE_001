@@ -39,13 +39,14 @@
             "id": "a536a13cdf00f58b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Bookshelf.base",
-                "viewName": "Book View"
+                "file": "Academic Vault/Course Notes/S26/CYBER 301/Wireshark Lab.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Bookshelf"
+              "icon": "lucide-file",
+              "title": "Wireshark Lab"
             }
           }
         ],
@@ -226,6 +227,7 @@
   },
   "active": "a536a13cdf00f58b",
   "lastOpenFiles": [
+    "Bases/Bookshelf.base",
     "Bases/Games.base",
     "Bases/Games/STAR WARS™ Battlefront II (Classic 2005) (2009).md",
     "Bases/Games/Minecraft (2009).md",
@@ -240,7 +242,6 @@
     "Bases/Music.base",
     "Bases/Music/George Harrison (by George Harrison - 1979).md",
     "Bases/Games/The Legend of Zelda - Breath of the Wild (2017).md",
-    "Bases/Bookshelf.base",
     "Bases/Music/All Things Must Pass (by George Harrison - 1970).md",
     "Bases/Music",
     "Bases/Movies & TV.base",

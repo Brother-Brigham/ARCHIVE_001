@@ -1,6 +1,6 @@
-The attacker is trying to log into a specific service. What service is this?
+The attacker is trying to log into a specific service. What service is this? File Transfer Protocol (FTP)
 
-There is a very popular tool by Van Hauser which can be used to brute force a series of services. What is the name of this tool?
+There is a very popular tool by Van Hauser which can be used to brute force a series of services. What is the name of this tool? 
 
 The attacker is trying to log on with a specific username. What is the username?
 
