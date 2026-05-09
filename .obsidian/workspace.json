@@ -42,9 +42,9 @@
               "type": "bases",
               "state": {
                 "file": "Bases/Bookshelf.base",
-                "viewName": "Table"
+                "viewName": "Book View"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Bookshelf"
             }
           }
@@ -223,18 +223,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "176cbab2937512ab",
+  "active": "a536a13cdf00f58b",
   "lastOpenFiles": [
+    "Academic Vault MOC.md",
+    "Index.md",
+    "Bases/Bookshelf.base",
+    "Bases/Books/The Jewish Study Bible - Adele Berlin, Marc Zvi Brettler.md",
+    "Bases/Books/Book of Mormon - Joseph Smith.md",
     "Bases/Books/The Book of Mormon.md",
-    "Bases/Bookshelf.base",
-    "Bases/Bookshelf.base",
+    "Republic - Plato.md",
     "Bases/Books",
     "Bases",
-    "Index.md",
     "Curriculum Vitae.md",
     "Current Research.md",
     "Theology & Scripture MOC.md",
-    "Academic Vault MOC.md",
     "Work Samples.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Journal Entries/2026-01-01.md",
@@ -251,9 +253,6 @@
     "Creative Projects/D&D/Character Builds/Spencer's Campaign - Wizard Build Planning.md",
     "Creative Projects/D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
     "Creative Projects/WOTW Planning/Ito Kai.md",
-    "Academic Vault/Judas Project.md",
-    "Academic Vault/Course Notes/S26/AI 101/Personal AI Roadmap.md",
-    "Academic Vault/Course Notes/S26/AI 101/W01 Notes.md",
     "Creative Projects",
     "Theology & Scripture",
     "Academic Vault",

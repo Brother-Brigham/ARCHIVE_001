@@ -1,8 +1,14 @@
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: Book View
     filters:
       and:
         - file.folder == "Bases/Books"
     order:
-      - file.name
+      - title
+      - author
+      - Status
+    image: note.coverUrl
+    imageAspectRatio: 1.45
+    imageFit: contain
+    cardSize: 200
