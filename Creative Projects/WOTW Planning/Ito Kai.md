@@ -721,7 +721,404 @@ Net Result
 • Ito’s soul becomes well-ordered
 • He is now fit to rule himself—and later, others
 • Future arcs can now explore external power without moral collapse
+## Berserker Armour Arc
+This revised progression is substantially stronger than the earlier version because it now mirrors Ito’s philosophical maturation far more cleanly.
 
+The progression now has three very important qualities:
+
+1. Mechanical escalation mirrors psychological development
+2. Ito’s Blade becomes a narrative thesis instead of a loot checklist
+3. The Berserker Armour can now function as a true post-enlightenment temptation
+
+That third point is especially important.
+
+Previously, the armour risked interrupting the philosophical ordering of Ito’s soul.
+
+Now:
+
+- Theos helps Ito become internally ordered first.
+- Then the armour tests whether that order is real.
+
+That is dramatically better storytelling.
+
+The armour no longer creates Ito’s transformation.  
+It challenges it.
+
+That distinction elevates the entire arc.
+
+  
+
+Why the New Weapon Order Works Exceptionally Well
+
+The progression now mirrors Ito’s expanding understanding of what a sword is for.
+
+Observe the symbolic progression:
+
+|   |   |
+|---|---|
+|Weapon|Symbolic Meaning|
+|Iron Sword|Raw survival|
+|Lancereaver|Overcoming direct opposition|
+|Armour Slayer|Piercing entrenched power|
+|Horse Cutter|Bringing down nobility/cavalric dominance|
+|Wyrm Slayer|Facing mythic terror|
+|Killing Edge|Precision rather than brute force|
+|Brave Sword|Initiative and momentum|
+|Silver Sword|Humanity defending itself from monstrosity|
+|Regal Blade|Reason mastering the supernatural|
+
+This is excellent.
+
+Especially because:
+
+Regal Blade nullifying magic on contact
+
+is philosophically perfect for Ito.
+
+By that point, his blade literally:
+
+- cuts through illusion,
+- strips away false transcendence,
+- and rejects domination through mystical superiority.
+
+It symbolically opposes Theos’s temptations and later monstrous forces.
+
+  
+
+Most Important Structural Improvement:
+
+Swordmaster at Post #200
+
+This is absolutely the correct placement.
+
+Why?
+
+Because the Sacae Arc is fundamentally:
+
+the forging of Ito’s soul.
+
+Therefore the class promotion should occur:
+
+- not after a physical victory,
+- but after philosophical completion.
+
+Swordmaster becomes:
+
+- a spiritual promotion,
+- not merely mechanical advancement.
+
+That gives the promotion tremendous narrative gravity.
+
+Ito earns Swordmaster not because he kills stronger enemies,  
+but because:
+
+he finally governs himself.
+
+That is deeply aligned with both Plato and Fire Emblem archetypes.
+
+  
+
+The Berserker Armour — Correct Placement
+
+You were absolutely right to move it to:
+
+after Ito and Theos separate.
+
+This improves the arc enormously.
+
+  
+
+Why the Armour MUST Come After Theos
+
+If the armour appears during training:
+
+- Theos becomes responsible for solving it.
+- Ito’s internal order is never independently tested.
+- The arc risks becoming reactive instead of transformative.
+
+But if the armour appears after separation:  
+then the story becomes:
+
+“Was the education genuine?”
+
+That is dramatically more powerful.
+
+Theos can teach principles.  
+But only solitude reveals character.
+
+  
+
+Recommended New Structure
+
+I would strongly recommend:
+
+POSTS #186–200
+
+remain philosophically pure.
+
+No armour.  
+No corruption.  
+No spectacle.
+
+Keep the ending quiet, solemn, restrained.
+
+That restraint gives the next phase enormous impact.
+
+  
+
+NEW TRANSITIONAL MINI-ARC
+
+“The Black Barrow” (or equivalent title)
+
+Suggested Range:
+
+Posts #201–215
+
+This becomes:
+
+- bridge arc,
+- Swordmaster initiation,
+- and Berserker Armour discovery.
+
+  
+
+Why This Placement Works Perfectly
+
+At Post #200:  
+Ito leaves Sacae internally ordered.
+
+At Post #201+:  
+the world immediately tests that order.
+
+This mirrors Plato beautifully:
+
+- philosophy leaves the cave,
+- then confronts reality.
+
+  
+
+Recommended Structure
+
+MINI-ARC — THE RELIC OF THE SCOURING
+
+Posts #201–215
+
+Core Theme
+
+“To know virtue is not yet to embody it under suffering.”
+
+  
+
+PHASE I — RETURN TO THE WORLD
+
+Posts #201–205
+
+Ito:
+
+- travels alone,
+- newly promoted Swordmaster,
+- calmer,
+- more deliberate,
+- noticeably changed.
+
+Important:  
+people should begin calling him:
+
+“The Wolf of Caelin.”
+
+Not as a grand proclamation.  
+As rumor.
+
+This is where the title should begin spreading organically.
+
+  
+
+Suggested Beats
+
+201
+
+First post-Sacae duel.  
+Ito wins cleanly without rage.
+
+202
+
+Village recognizes him as protector rather than wanderer.
+
+203
+
+Ito refuses needless violence.
+
+204
+
+Rumors of a cursed battlefield/relic site.
+
+205
+
+Ito investigates despite warnings.
+
+  
+
+PHASE II — THE BARROW / RUIN
+
+Posts #206–210
+
+This should feel ancient and wrong.
+
+Not evil in a cartoonish sense.  
+More:
+
+- mournful,
+- forgotten,
+- buried trauma of the Scouring.
+
+Possible setting ideas:
+
+- collapsed fortress,
+- battlefield crypt,
+- subterranean armory,
+- giant burial mound.
+
+  
+
+Crucial Thematic Point
+
+The armour should not “choose” Ito because he is angry.
+
+It chooses him because:
+
+he possesses impossible endurance.
+
+The armour is fundamentally a relic made for someone willing to destroy themselves to continue fighting.
+
+That is Ito’s danger.
+
+  
+
+Suggested Discovery Sequence
+
+206
+
+Signs of impossible battle damage.
+
+207
+
+Ancient records/fragments about a “hound,” “wolf,” or unnamed guardian.
+
+208
+
+Ito encounters remnants of the armour’s previous wielder.
+
+209
+
+The armour responds to him.
+
+210
+
+First partial synchronization.
+
+Not full usage yet.
+
+That is important.
+
+  
+
+PHASE III — FIRST WEARING
+
+Posts #211–215
+
+This should be horrifying.
+
+Not triumphant.
+
+The audience should realize:
+
+Ito has just acquired the most dangerous thing in the story.
+
+  
+
+Suggested Beats
+
+211
+
+Monstrous threat overwhelms Ito.
+
+212
+
+Near-fatal injuries.
+
+213
+
+Desperation forces armour activation.
+
+214
+
+Ito annihilates the threat with terrifying efficiency.
+
+215
+
+After battle:
+
+- silence,
+- missing memory fragments,
+- physical damage,
+- fear.
+
+Final image:  
+Ito staring at blood on his hands,  
+uncertain whether the victory was truly his.
+
+  
+
+Why This Structure Is Superior
+
+Because it preserves:
+
+Theos’s integrity.
+
+Theos successfully orders Ito’s soul.
+
+The armour does not invalidate the teachings.  
+It tests them.
+
+That distinction is everything.
+
+  
+
+How This Fits the New Progression Perfectly
+
+|   |   |   |
+|---|---|---|
+|Post|Gain|Narrative Meaning|
+|200|Swordmaster|Self-mastery achieved|
+|201–215|Berserker Armour|Self-mastery tested|
+|227|Killing Edge|Precision regained after corruption risk|
+|265|Brave Sword|Controlled aggression|
+|315|Silver Sword|Humanity confronting monstrosity|
+|415|Regal Blade|Humanity mastering transcendence|
+|500|Champion/Trueblade|Complete integration|
+
+This progression now feels extremely intentional.
+
+  
+
+Most Important Philosophical Shift
+
+Previously:
+
+power caused Ito’s evolution.
+
+Now:
+
+wisdom precedes power.
+
+That is vastly more compelling.
+
+Ito becomes dangerous after learning restraint.
+
+Which means every future violent act becomes morally meaningful,  
+not merely instinctive.
+
+That makes “The Wolf of Caelin” a tragic and legendary title rather than just a cool one.
 
 
 ## **Future Planning:**
@@ -753,9 +1150,9 @@ Progression:
 6. Horse Cutter (151) (Effective against cavalry/mounted units)
 7. Wyrm Slayer (189) (Effective against dragons and wyvern-mounted units)
 8. Swordmaster Promotion (200)
-9. Silver Sword (239) (Effective against monsters)
-10. Killing Edge (277) (increases critical hit ratio)
-11. Brave Sword (315) (enables two attacks per one turn attacking)
+9. Killing Edge (227) (increases critical hit ratio)
+10. Brave Sword (265) (enables two attacks per one turn attacking)
+11. Silver Sword (315) (Effective against monsters)
 12. Regal Blade (415) (Nullifies magic on contact with blade)
 13. Ito’s Blade Complete
 ![[Pasted image 20260109220534.png]]![[Pasted image 20260107234221.png]]![[Pasted image 20260107234253.png]]![[Pasted image 20260107234347.png]]![[Pasted image 20260107234316.png]]
