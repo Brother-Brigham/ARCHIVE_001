@@ -34,6 +34,11 @@
 > 9 Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
 > 10 And, therefore, they took the pieces of silver and gave them for the potter’s field, as the Lord appointed by the mouth of Jeremy.*
 
+> [!ldslib] [Zechariah 11:12-13](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=eng&id=p12-p13)
+> 12 And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
+> 13 And the Lord said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.
+
+
 
 > [!ldslib] [Matthew 5:13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p13)
 > 13 ¶ Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
