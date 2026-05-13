@@ -1,27 +1,30 @@
+- Find _one_ example in/from/of a country _other than_ the US that illustrates the term.
+- How is this example similar _OR_ different than the United States? (10+ words)
+- List the links to the ACTUAL sources where you found the info.
 1. State/Country: a specific sovereign geographical area, the government of that area, and the people living in that area. 
-
+Canada is a sovereign geographical area that borders the United States to the north. Its national government is a federation of the provinces and territories, each represented in the country's parliament. As of 2025, there are nearly 41.5 million people living in Canada, a small number compared to the United States' over 330 million residents. https://www150.statcan.gc.ca/n1/daily-quotidien/260318/dq260318b-eng.htm
 2. Sovereignty (usually external): a government of state/country being able to make decisions independent of the governments of other states/countries
-
+Whereas the United States earned its sovereignty through civil war, Canada earned its sovereignty through an act of British parliament when it allowed Canada's 1982 Constitution Act to pass, which made it so that Canada could amend its constitution and pass other laws without getting the approval of Britain, first. https://thecanadianencyclopedia.ca/en/article/constitution-act-1982
 3. Monopoly of Violence: The basis of any sort of functional state. A government is the dominant exerciser of violence (or the threat of violence) within its own geography. 
-
+Canada's monopoly of violence is largely concentrated in the Royal Canadian Mounted Police (RCMP). The RCMP is similar in ability to most police forces in the US, perhaps especially comparable to the police forces of large US cities, but is nationalized instead of localized like US police forces. https://rcmp.ca/en/corporate-information
 4. Regime: the official institutions that determine how a state/country government operates
-
+Canada's government is both a constitutional monarchy and a parliamentary democracy. Like the US, its legislature is divided into two bodies: a smaller body of senators, and a larger body of elected representatives. Unlike the US, the executive in Canada is directly accountable to the legislature, whereas the US executive is entirely separate from the legislature. https://learn.parl.ca/sites/Learn/default/en_CA/ParliamentaryPrimer
 5. Government: the people who decide and implement policy in a state/country
-
+In Canada, this is the party with a majority control of Parliament, the Prime Minister representing that party (and, if applicable, their coalition), and the Prime Minister's cabinet. Currently, Mark Carney is Canada's Prime Minister. In the US, this body would be comprised of the President and his cabinet, but they would have a less direct influence on legislation and a more direct influence on rulemaking; because of the executive's relationship to the legislature in Canada, this delineation of policymaking is less clear. https://www.pm.gc.ca/en/cabinet
 6. Legitimacy: how people determine whether the people, policies or institutions of their state's government are valid/rightful/lawful
-
-    - Traditional legitimacy: a person, policy, or institution is legitimate because that's how it's always been
-
-    - Charismatic legitimacy: a person, policy, or institution is legitimate because people are "fans". 
-
-    - Rational/Legal legitimacy: a person, policy or institution is legitimate because the law says so. 
-
+- Traditional legitimacy: a person, policy, or institution is legitimate because that's how it's always been
+The traditional leader of Canada's constitutional monarchy is the head of the British monarchy, currently King Charles III; he is represented in Canadian government by the Governor General. https://www.gg.ca/en/crown
+- Charismatic legitimacy: a person, policy, or institution is legitimate because people are "fans". 
+Similarly to John F. Kennedy in the US, Pierre Elliot Trudeau was able to become massively popular and derive political power from his charismatic appeal. https://thecanadianencyclopedia.ca/en/article/trudeau-30-years-later
+- Rational/Legal legitimacy: a person, policy or institution is legitimate because the law says so. 
+Canada's Charter of Rights and Freedoms, a part of the Canadian Constitution, functions similarly to the Bill of Rights in the US Constitution, dictating that certain civil rights and liberties are legitimate according to the highest law of the land. https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/
 7. Federal State: power is shared between a central government and regional governments
-
+Both the US and Canada are federal states at the national level. Where the US is a federation of 50 states, Canada is a federation of 10 provinces. https://www.canada.ca/en/intergovernmental-affairs/services/federation.html
 8. Unitary State: power is exercised by a central government only. 
-
+While Canada's national government is federal, the provincial governments are unitary, comparable to the individual states in the United States being unitary states that are part of a larger, national federation. https://thecanadianencyclopedia.ca/en/article/provincial-government
 9. State Stability/Fragility: whether a state/country can do what it's expected to do based on formal (and informal) institutions)
-
+Canada, comparable to but slightly better than the United States, ranks among the most stable countries in the Fragile States Index, indicating that it is able to do what it is expected to based on its institutions. https://fragilestatesindex.org/global-data/
 10. Capacity: whether a state/country has the personnel, knowledge and material to do implement policy
-
+Similarly to the United States' IRS, the Canadian Government's Canada Revenue Agency (CRA) has and uses its capacity to administer tax laws throughout the entire federation of Canada. In addition to this, the CRA also effectively administers social benefit and welfare programs across Canada. https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra.html
 11. Autonomy (usually internal): a government of a state/country being able to make decisions independent of its own population.
+One example of internal autonomy in Canada is the Bank of Canada. It is an effective analogy of the US Federal Reserve, having been set up in a way to shield it from political influence in order to implement policy that brings about a more stable economy. https://www.bankofcanada.ca/about/
