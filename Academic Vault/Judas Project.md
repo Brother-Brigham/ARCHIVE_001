@@ -9,6 +9,7 @@
 - How was Judas treated in sermons by Christian preachers in the 1800s? How much of that carried into the early LDS treatments? (Judas seen exclusively as traitor?)
 - How do early LDS leaders treat King David? Comparable to Judas at all? (Both guilty of the sin (unforgivable?) of shedding of innocent blood--additional Blood Atonement tie-in here?) (Would Matthew's audience have connected Judas's sin to David's sin?)
 - Paradidomi - Judas didn’t betray, he handed over
+- Judas as the Hellenized form of Hebrew Judah—Zechariah 11 reference, cutting off of Judah from Israel (covenant violation?); Judah handing over his brother for silver; Judah as sympathetic with the mainstream Jews (likelihood needs assessing; unlikely?); redemption themes in Jeremiah 32 (what is larger context? Find secondary scholarship);
 ## Ancient Material
 
 ## LDS Material
