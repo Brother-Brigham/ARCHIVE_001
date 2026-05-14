@@ -285,3 +285,84 @@ To get into the "Discovery" phase, you want to focus your career on the **Proces
 
 Since you are heading into your MA soon, have you looked into the **Boren Fellowship**? It’s a great way to get your modern strategic language funded while securing a "service requirement" that basically fast-tracks you into a USIC job after graduation.
 
+## May 14 Class
+
+**Experimentation** 
+Fill in the blanks: "I want to be an airline pilot for Delta Airlines. To do this, I need to major in [Major], my internship needs to be [Internship], and I need to demonstrate [Skills]."
+
+The path to the flight deck of a major carrier like Delta is more about the credentials and flight hours you earn rather than one specific "correct" major. However, if you are looking for the most traditional and effective route, here is how you would fill in those blanks:
+
+"I want to be an airline pilot for Delta Airlines. To do this, I need to major in **Aviation or Aeronautical Science**, my internship needs to be **with a Part 121 regional airline or a Delta Propel partner**, and I need to demonstrate **superior situational awareness, leadership, and decision-making under pressure**."
+
+---
+
+### Breaking Down the Requirements
+
+While the "blanks" above represent the gold standard, Delta looks for a well-rounded profile. Here’s a deeper look at what actually moves the needle on an application:
+
+#### 1. The Major
+
+Delta (and most "Big Three" carriers) no longer strictly requires a college degree, but it remains **highly competitive** to apply without one.
+
+- **Best Bet:** A BS in **Aeronautical Science** or **Professional Flight** from a Part 141 flight school. This often allows you to qualify for a Restricted Airline Transport Pilot (R-ATP) certificate at fewer hours.
+    
+- **The Alternative:** You can major in _anything_ (Business, Engineering, etc.) as long as you get your flight ratings privately. Many pilots prefer this as a "Plan B" in case of medical disqualification.
+    
+
+#### 2. The Internship
+
+Delta offers a specific collegiate pilot career path called the **Delta Propel Program**.
+
+- **The Goal:** An internship or "Bridge Program" through Propel is the most direct route.
+    
+- **The Experience:** If not Propel, an internship at a regional carrier (like SkyWest, Endeavor, or Republic) provides the "Part 121" (airline operations) experience Delta values most.
+    
+
+#### 3. The Skills
+
+Beyond just "flying the plane," Delta recruits for "Captain potential."
+
+- **CRM (Crew Resource Management):** The ability to communicate and work effectively with a co-pilot and cabin crew.
+    
+- **Technical Proficiency:** A clean check-ride record (minimal to no failures during training).
+    
+- **Professionalism:** Delta places a high premium on "servant leadership"—being an ambassador for the brand while maintaining safety as the absolute priority.
+    
+
+### The "Hidden" Requirement: Flight Hours
+
+To sit in a Delta cockpit, the most critical "blank" is actually your flight time.
+
+- You need an **ATP Certificate**, which generally requires **1,500 flight hours**.
+    
+- Most pilots bridge the gap between college and Delta by working as a **Certified Flight Instructor (CFI)** or flying for a regional airline for 2–5 years.
+
+I think I would use a fill-in-the-blank style of prompt when I am totally lost on where to start to reach a certain goal. When considering losing weight, for example, I could use this style of prompt to find the starting point for type of exercise, kind of diet, or resources I should use for help (such as a gym, personal trainer, or dietitian).
+
+Science Fiction - Dune
+Harry Potter -
+
+**Fantasy** (or more specifically, **Young Adult Fantasy / Contemporary Fantasy**)
+
+---
+
+### Why this fits:
+
+While **Dune** is the quintessential "Space Opera" or **Science Fiction** epic—focusing on interstellar politics, ecology, and technology—**Harry Potter** serves as the modern benchmark for **Fantasy**.
+
+Here is a quick breakdown of how they compare in the literary world:
+
+|**Feature**|**Dune (Science Fiction)**|**Harry Potter (Fantasy)**|
+|---|---|---|
+|**Source of Power**|Spice Melange / Genetic Breeding|Innate Magic / Wands|
+|**Setting**|Far-future Universe (Arrakis)|Secret Magical Society (Earth)|
+|**Themes**|Religion, Messianism, Politics|Heroism, Death, Moral Choice|
+|**Sub-genre**|Hard Sci-Fi / Political Intrigue|Coming-of-Age / Urban Fantasy|
+
+---
+
+### A Note on "Science Fantasy"
+
+Interestingly, some critics argue that _Dune_ leans toward **Science Fantasy** because of its "Chosen One" tropes and mystical elements (like the Voice and prescience). Similarly, _Harry Potter_ uses a "Hard Fantasy" system where magic often has strict rules and academic structures, much like a science.
+
+I might use an analogy prompt to see comparisons on the 
