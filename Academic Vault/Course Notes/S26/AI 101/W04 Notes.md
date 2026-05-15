@@ -385,3 +385,118 @@ There is a slight undertone of **accountability** regarding the "list of tasks,"
 
 I might use a tone prompt to classify speech in online discussions, if I am unsure I am reading the correct/intended tone from the author. The prompt could be made better by involving greater context on the situation; as-is, there is not enough contextual information for the LLM to determine the exact tone of the passage. It can only guess, based on the current state of the prompt.
 
+This AI course focuses on mastering prompt engineering, agent management, and the ethical application of modern AI tools through a gospel-centric lens. To succeed, students must complete weekly readings and class activities worth 20% each, alongside critical weekly assignments that comprise 60% of the final grade.
+
+The summary prompt did well. I might use one to help summarize long documents, in order to get the gist of them and find the most important information. The prompt could be improved by requesting that the LLM highlight specific kinds of information in the summary.
+
+The following list provides 10 high-quality sources for prompt engineering, authored by experts in academia and industry. These sources are selected for their clarity, practical examples, and accessibility to college students.
+
+### **Top 10 Sources for Prompt Engineering**
+
+1. **Google TechAI Whitepaper: Prompt Engineering**
+    
+    - **Author:** Lee Boonstra (Cloud Developer Advocate at Google)
+        
+    - **Why it’s the best:** This is a comprehensive, professional-grade guide that explains the "why" behind token prediction and model configurations like Temperature and Top-P (Boonstra, 2024). It is written for those who want to move from "chatting" to "engineering" while remaining highly readable for students.
+        
+    - **Key Student Takeaway:** Learn how to use "Iterative Refinement" to tinker with prompts until they are perfect.
+        
+2. **Prompt Engineering in Higher Education: A Systematic Review**
+    
+    - **Authors:** Daniel Lee and Edward Palmer (University of Adelaide)
+        
+    - **Expertise:** Published in the _International Journal of Educational Technology in Higher Education_.
+        
+    - **Why it’s great:** It synthesizes multiple frameworks into a "steering mechanism" for students, focusing on how prompting improves critical thinking and educational outcomes (Lee & Palmer, 2025).
+        
+    - **Key Student Takeaway:** Understand the difference between zero-shot and few-shot prompting as the "cornerstone" of the field.
+        
+3. **Bridging the Generative AI Literacy Gap: A University Guide**
+    
+    - **Author:** Meg Coffin Murray (Professor of Information Systems, Kennesaw State University)
+        
+    - **Expertise:** Academic leadership in information technology education.
+        
+    - **Why it’s great:** Specifically designed for university courses, it treats prompt engineering as a "problem decomposition exercise," helping students break complex tasks into manageable components (Murray, 2025).
+        
+    - **Key Student Takeaway:** Use "Chain of Thought" (CoT) prompting to guide AI through logical steps.
+        
+4. **Prompt Engineering for Health Researchers: A Practical Guide**
+    
+    - **Author:** Jeremy Y. Ng (University Hospital Tübingen)
+        
+    - **Expertise:** Researcher in biomedical communications and AI ethics.
+        
+    - **Why it’s great:** While focused on health, its "Establishing Context" and "Structuring the Prompt" sections are universal (Ng, 2026). It provides clear "before and after" examples of prompts.
+        
+    - **Key Student Takeaway:** Never ask a general question; specify the population, objective, and format every time.
+        
+5. **Prompt Engineering in Clinical Practice: Tutorial for Clinicians**
+    
+    - **Expertise:** Peer-reviewed tutorial published in _PMC_.
+        
+    - **Why it’s great:** It introduces the "Clinical Prompt Engineering" principles—explicitness, specificity, and contextual relevance—which are gold standards for any high-stakes professional field (PMC, 2025).
+        
+    - **Key Student Takeaway:** Use "role-based" prompting (e.g., "Act as a senior consultant") to set the AI's perspective.
+        
+6. **Unlocking the Secrets of Prompt Engineering**
+    
+    - **Publisher:** IEEE Xplore / Packt Publishing
+        
+    - **Expertise:** Professional technical publishing for engineers.
+        
+    - **Why it’s great:** It focuses on "creative language generation" and helps students move from novice to pro by understanding the AI agent's "mental model" (IEEE, 2024).
+        
+    - **Key Student Takeaway:** Learn to integrate LLMs with other tools to boost productivity.
+        
+7. **Prompt Engineering and Revision – Voices of USU**
+    
+    - **Source:** Utah State University (USU) Student Writing Anthology
+        
+    - **Expertise:** Academic writing and peer-reviewed student scholarship.
+        
+    - **Why it’s great:** It defines the "Main Factors" of a prompt (Role, Detail, Context) in language that is perfectly tuned for a college peer group.
+        
+    - **Key Student Takeaway:** Use "follow-up prompts" as a conversation rather than expecting a perfect first result.
+        
+8. **Paving Paths of Inquiry-Led AI Integration**
+    
+    - **Source:** University of Queensland (UQ) Pressbooks
+        
+    - **Expertise:** Educational design and technical literacy.
+        
+    - **Why it’s great:** It views prompting as a form of "technical literacy" and provides a "learning arc" for students to follow (UQ, 2025).
+        
+    - **Key Student Takeaway:** Master "Validation Protocols"—always fact-check the AI's output using lateral reading.
+        
+9. **Prompt Engineering for SBA Questions (Multi-Stage Prompting)**
+    
+    - **Source:** National Center for Biotechnology Information (NCBI)
+        
+    - **Expertise:** Educational assessment and AI logic.
+        
+    - **Why it’s great:** It introduces "Multi-stage prompting," a technique where you use a six-stage schema (topic → vignette → lead-in → options → rationale → self-critique) to ensure high-quality output (PMC, 2025).
+        
+    - **Key Student Takeaway:** Break your request into a sequence where the AI critiques its own work.
+        
+10. **A Prompt Pattern Catalog to Enhance Prompt Engineering**
+    
+    - **Authors:** White et al. (Vanderbilt University)
+        
+    - **Expertise:** Leading researchers in software engineering and AI.
+        
+    - **Why it’s great:** This is the definitive "dictionary" of prompt patterns (like the "Flipped Interaction" pattern) that every serious student should know.
+        
+    - **Key Student Takeaway:** Use patterns to give the AI a "template" for how it should behave and respond.
+        
+
+---
+
+### **References**
+
+Lee, D., & Palmer, E. (2025). Prompt engineering in higher education: a systematic review to help inform curricula. _International Journal of Educational Technology in Higher Education_, _22_(7). [https://doi.org/10.1186/s41239-025-00503-7](https://www.google.com/search?q=https://doi.org/10.1186/s41239-025-00503-7)
+
+Cited by: 261
+
+The research prompt did okay. I would prefer that a research prompt return links to the sources, or source citations. You could improve the prompt to achieve that by requesting links or a specific citation style in the Format portion of the prompt. I frequently use research prompts, to try to find good information as I research for papers and projects.
+
