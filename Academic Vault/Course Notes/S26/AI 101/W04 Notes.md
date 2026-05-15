@@ -365,4 +365,6 @@ Here is a quick breakdown of how they compare in the literary world:
 
 Interestingly, some critics argue that _Dune_ leans toward **Science Fantasy** because of its "Chosen One" tropes and mystical elements (like the Voice and prescience). Similarly, _Harry Potter_ uses a "Hard Fantasy" system where magic often has strict rules and academic structures, much like a science.
 
-I might use an analogy prompt to see comparisons on the 
+I might use an analogy prompt to see comparisons between concepts that initially might seem unrelated.
+
+
