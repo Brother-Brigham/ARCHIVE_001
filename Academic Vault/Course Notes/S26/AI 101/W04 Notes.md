@@ -521,4 +521,48 @@ I have a few questions for you. Please answer them as you would in a real interv
 
 **Please provide your responses to these four questions below.**
 
-The LLM responded very well. I can see myself using a role-playing prompt whenever preparing for a job interview. 
+The LLM responded very well. I can see myself using a role-playing prompt whenever preparing for a job interview. The prompt might be improved by including a specific job description that I am applying to fill.
+
+To get a truly helpful critique, you need to tell the AI to look past the typos and focus on **impact, hierarchy, and ATS (Applicant Tracking System) compatibility.**
+
+Here is a high-level "Expert" prompt you can copy and paste.
+
+---
+
+### **The "Master Resume Critique" Prompt**
+
+> **Act as a Senior Technical Recruiter and ATS Optimization Expert.** I am going to provide my resume below. I want you to perform a brutal and honest audit of it based on the following criteria:
+> 
+> 1. **Impact vs. Activity:** Are my bullet points focused on "tasks I did" or "results I achieved"? Suggest ways to quantify my achievements with metrics (e.g., %, $, or time saved).
+>     
+> 2. **The "6-Second" Scan:** Is the hierarchy clear? Tell me what stands out first and if my most impressive skills are buried.
+>     
+> 3. **ATS Compatibility:** Identify any formatting issues (tables, columns, images) that might break a resume scanner.
+>     
+> 4. **Action Verbs:** Identify "weak" verbs (like "Responsible for" or "Helped with") and suggest "power verbs" (like "Spearheaded," "Optimized," or "Engineered").
+>     
+> 5. **Industry Alignment:** [Optional: Insert a specific job title here, e.g., "Dental Receptionist"]. Tell me which keywords I am missing based on common job descriptions for this role.
+>     
+> 
+> **Please provide your feedback in a "Stop, Start, Continue" format.**
+> 
+> [PASTE YOUR RESUME TEXT HERE]
+
+---
+
+### **Why this prompt works:**
+
+- **Role Prompting:** By telling the AI to act as a "Senior Recruiter," you move it away from generic "looks good!" praise and into professional criticism.
+    
+- **Quantification:** Most resumes fail because they list duties. This prompt forces the AI to look for **numbers**.
+    
+- **Specific Format:** The "Stop, Start, Continue" format gives you actionable steps rather than a wall of vague text.
+    
+
+**Pro-Tip:** If you have a specific job description for a role you really want, paste that into the chat _after_ the resume and ask: _"Now, tell me the top 5 gaps between my resume and this specific job description."_
+
+The meta-prompt given seems effective for achieving the right outcome. I think I would use a meta-prompt whenever I can't quite get the output I desire, but I don't know how else to adjust the prompt on my own.
+
+Providing a role for the global warming/climate change prompt completely changed the output's tone. Where the generic, "What is climate change?" prompt gave a generic, information-first answer, instructing the LLM to fill the role of a politician and then tell me about climate change changed the output from information-first to persuasion-first. Instead of telling me what climate change is, it was trying to convince me to act politically because of the issue of climate change. Adding context shifted the output further; the LLM, roleplaying as a politician, was now attempting to persuade me based on specific appeals to the context I provided. Adding a task, creating a radio address on the topic to be played during an ad break, changed the output's structure again. The change was deeply committed to the context, role, and task, generating something completely different from the first prompt.
+
+The math prompt was similarly basic and information-first, offering generic test taking and math learning strategies. I gave it the role of an academic skills coach, since I do that for work, and the approach to planning and suggestion of specific test taking skills was remarkably similar to what I suggest in my coaching appointments with struggling students.  
