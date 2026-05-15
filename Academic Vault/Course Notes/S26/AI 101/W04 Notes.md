@@ -500,3 +500,25 @@ Cited by: 261
 
 The research prompt did okay. I would prefer that a research prompt return links to the sources, or source citations. You could improve the prompt to achieve that by requesting links or a specific citation style in the Format portion of the prompt. I frequently use research prompts, to try to find good information as I research for papers and projects.
 
+It’s a pleasure to meet you. We are looking for someone who can be the "face" of our practice—someone who is organized, empathetic, and capable of keeping our clinical team on track while making patients feel at ease.
+
+I have a few questions for you. Please answer them as you would in a real interview. When you are finished with all your answers, type **"DONE"** and I will provide a detailed critique of your performance.
+
+---
+
+### **The Interview Questions**
+
+1. **The "First Impression" Question:** A patient walks in who is clearly in a lot of pain and is quite frustrated because they had to wait 10 minutes past their appointment time. How do you handle their frustration while checking them in?
+    
+2. **The "Multitasking" Question:** The phone is ringing, a patient is standing at the desk waiting to check out, and a dental assistant just walked up to tell you that Room 3 needs a quick follow-up call made to a lab. In what order do you handle these tasks and why?
+    
+3. **The "Detail" Question:** Dental billing and insurance can be complex. If a patient is confused or upset about why their insurance didn't cover a specific procedure, how do you go about explaining it to them without overstepping your medical knowledge?
+    
+4. **The "Why Us" Question:** Why do you want to work in a dental office specifically, rather than a standard corporate or retail environment?
+    
+
+---
+
+**Please provide your responses to these four questions below.**
+
+The LLM responded very well. I can see myself using a role-playing prompt whenever preparing for a job interview. 
