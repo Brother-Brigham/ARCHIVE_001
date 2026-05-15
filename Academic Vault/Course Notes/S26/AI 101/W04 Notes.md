@@ -287,6 +287,14 @@ Since you are heading into your MA soon, have you looked into the **Boren Fellow
 
 ## May 14 Class
 
+- AI can be used to effectively generate slides or other presentation materials
+- Results become more usable with more effective prompt engineering
+	- Basic things to include for better prompt engineering are:
+		- Role/Persona
+		- Context
+		- Task
+		- Format
+
 **Experimentation** 
 Fill in the blanks: "I want to be an airline pilot for Delta Airlines. To do this, I need to major in [Major], my internship needs to be [Internship], and I need to demonstrate [Skills]."
 
@@ -365,6 +373,15 @@ Here is a quick breakdown of how they compare in the literary world:
 
 Interestingly, some critics argue that _Dune_ leans toward **Science Fantasy** because of its "Chosen One" tropes and mystical elements (like the Voice and prescience). Similarly, _Harry Potter_ uses a "Hard Fantasy" system where magic often has strict rules and academic structures, much like a science.
 
-I might use an analogy prompt to see comparisons between concepts that initially might seem unrelated.
+I might use an analogy prompt to see comparisons between concepts that initially might seem unrelated, such as Harry Potter and Dune seeming to be unrelated. It may also be helpful to use this type of prompt when trying to categorize items when I know the categories of other items that might be analogous in some respect.
 
+This passage is classified as **Neutral**.
+
+### Explanation
+
+While the speaker uses an affectionate opening ("Hello, dear"), the tone is primarily **inquisitive and functional** rather than purely positive or negative. The passage consists of a series of standard welfare checks and routine inquiries about productivity and neighborhood news.
+
+There is a slight undertone of **accountability** regarding the "list of tasks," but without further context to suggest frustration or praise, the language remains grounded in everyday domestic dialogue. It serves as a bridge-building communication meant to gather information after a period of absence.
+
+I might use a tone prompt to classify speech in online discussions, if I am unsure I am reading the correct/intended tone from the author. The prompt could be made better by involving greater context on the situation; as-is, there is not enough contextual information for the LLM to determine the exact tone of the passage. It can only guess, based on the current state of the prompt.
 
