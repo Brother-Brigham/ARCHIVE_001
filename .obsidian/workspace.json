@@ -49,8 +49,7 @@
               "title": "Ch. 29"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +225,12 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a536a13cdf00f58b",
+  "active": "a1a6e115a668152e",
   "lastOpenFiles": [
-    "Academic Vault/Course Notes/S26/AI 101/W04 Notes.md",
-    "Academic Vault/Course Notes/S26/GREEK 201/Ch. 29.md",
-    "Academic Vault/Course Notes/S26/GREEK 201",
     "Academic Vault MOC.md",
+    "Academic Vault/Course Notes/S26/GREEK 201/Ch. 29.md",
+    "Academic Vault/Course Notes/S26/AI 101/W04 Notes.md",
+    "Academic Vault/Course Notes/S26/GREEK 201",
     "Academic Vault/Course Notes/S26/POLSC 150/Political Institutions - Terms.md",
     "Academic Vault/Course Notes/S26/POLSC 150/Informational Interview - Justin Stewart.md",
     "Academic Vault/Judas Project.md",
