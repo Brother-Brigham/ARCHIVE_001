@@ -8,10 +8,14 @@ But the Corinthians and the allies were sailing, on the one hand, not for a nava
 
 And the Peloponnesians, on the one hand, arranged a circle of their ships as large as they were able, the bows on the one hand outward, and inward the sterns, and the light boats which were sailing with them they place inside. But the Athenians, having been arranged in single file, were sailing around them in a circle and were drawing them together into a small space, always sailing past within a hair's breadth; but an order had been given to them by Phormio not to attack before he himself should give the signal. For he was hoping for their order not to remain, but that the ships would fall together against each other and the boats would provide confusion; and if the wind should blow out from the gulf, which thing was accustomed to happen towards the dawn, he was hoping that they would not keep quiet for any time.
 ### β, last two paragraphs
-And the Peloponnesians also sailed past straight with the rest of the ships from Dyme and Patrae into Cyllene. And from Leucas Cnemus and the ships of those men arrive into Cyllene.
+And the Peloponnesians also sailed past straight with the rest of the ships from Dyme and Patrae into Cyllene. And from Leucas, Cnemus and the ships of those men arrive into Cyllene. And the Lacedaemonians also send advisers to Cnemus onto the ships, ordering to prepare another naval battle and not to be shut out from the sea by a few ships. For they were not thinking their own navy to be deficient but some cowardice to have happened; therefore in anger they were sending the advisers. And those having arrived with Cnemus sent for other ships, calling upon the allies to help, and they were equipping the ships already there as if for battle.
 
-
+And Phormio also sends messengers into Athens, both to announce their preparation and to tell about the naval battle which they won, and ordering them to dispatch to him as many ships as possible quickly, since daily there being an expectation to fight a naval battle. And the Athenians send twenty ships to him, but to the one conveying them they instructed in addition to arrive into Crete first, in order that he might help some allies there.
 ## 29γ-ε Story
+### γ
+
+### δ
+
 
 
 ## 29α Exercise
