@@ -13,7 +13,9 @@ And the Peloponnesians also sailed past straight with the rest of the ships from
 And Phormio also sends messengers into Athens, both to announce their preparation and to tell about the naval battle which they won, and ordering them to dispatch to him as many ships as possible quickly, since daily there being an expectation to fight a naval battle. And the Athenians send twenty ships to him, but to the one conveying them they instructed in addition to arrive into Crete first, in order that he might help some allies there.
 ## 29γ-ε Story
 ### γ
+And the Peloponnesians in Cyllene, during which time the Athenians around Crete were being delayed, having prepared as if for a naval battle, sailed along to Panormus the Achaean, exactly where the land army of the Peloponnesians had come to help them. And Phormio also sailed along to the Molycrian Rhium, and came to anchor outside of it with twenty ships, with which indeed he fought the naval battle. Therefore at the Achaean Rhium the Peloponnesians, it being not much distant from Panormus, came to anchor also themselves with seventy-seven ships, when indeed they saw the Athenians.
 
+And for six or seven days they were lying at anchor opposite each other, practicing and preparing for the naval battle, having the intention, the Peloponnesians on the one hand not to sail out outside of the Rhium into the broad waters, fearing the earlier disaster, and the Athenians on the other hand not to sail into the narrows, thinking the naval battle in a small space to be in their favor. Then Cnemus and the other generals of the Peloponnesians, wishing quickly to make the naval battle before any aid from the Athenians came to the rescue, called together the soldiers, and seeing of them the majority on account of the earlier defeat being afraid and not being eager, they encouraged them.
 
 ### δ
 
