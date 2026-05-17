@@ -1,10 +1,10 @@
-## 29a-b Story
+## 29α-β Story
 
 
-## 29c-e Story
+## 29γ-ε Story
 
 
-## 29a Exercise
+## 29α Exercise
 **1. οἱ παῖδες οὐκ ἂν κατέστησαν εἰς κίνδῡνον, εἰ εὐθὺς οἴκαδε ἐπανῆλθον.**
 - **Translation**: The children would not have fallen into danger, if they had returned home immediately.
 - **α.** ὁ πατὴρ λέγει ὅτι οἱ παῖδες οὐκ ἂν κατέστησαν εἰς κίνδῡνον, εἰ εὐθὺς οἴκαδε ἐπανῆλθον.
