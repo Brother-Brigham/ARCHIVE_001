@@ -1,4 +1,9 @@
 ## 29α-β Story
+And when it became winter, the Athenians sent twenty ships around the Peloponnese, and Phormio as general, who, starting at Naupactus, was on guard so that neither anyone might sail out from Corinth and the Crisean gulf, nor sail in.
+
+But the Corinthians and the other allies were forced around the same days to fight a naval battle against Phormio and the twenty ships of the Athenians which were keeping guard in Naupactus. For Phormio was watching them sailing out of the gulf, wishing to attack in the broad waters.
+
+But the Corinthians and the allies were sailing, on the one hand, not for a naval battle but more for carrying troops into Acarnania, and not thinking the Athenians would dare to make a naval battle; however, while being conveyed past their own land they were seeing the Athenians sailing along opposite, and, when from Patrae of Achaea towards the opposite mainland they were crossing, they saw the Athenians from Chalcis sailing towards them; thus indeed they are forced to fight a naval battle at the middle of the strait.
 
 
 ## 29γ-ε Story
