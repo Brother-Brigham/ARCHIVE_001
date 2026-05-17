@@ -14,8 +14,11 @@ And Phormio also sends messengers into Athens, both to announce their preparatio
 ## 29γ-ε Story
 ### γ
 
+
 ### δ
 
+
+### ε
 
 
 ## 29α Exercise
