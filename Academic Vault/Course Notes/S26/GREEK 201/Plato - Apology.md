@@ -1,1 +1,2 @@
-That which you all, O men of Athens, have experienced at the hands of my accusers, I know not; at any rate I, even myself because of them I almost forgot myself, 
+17a
+That which you all, O men of Athens, have experienced at the hands of my accusers, I know not; at any rate I, even myself because of them I almost forgot myself, because they have spoken so persuasively. Indeed they have spoken no truth at all. 
