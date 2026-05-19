@@ -1,3 +1,34 @@
 ## May 19 Class
 Presentation Day 1 Notes
-- 
+- Few-Shot Prompting
+	- Using multiples examples to take advantage of LLM's pattern recognition ability and improve output.
+	- Use clear, consistent formatting to separate examples and improve results.
+	- Beware the Context Wall (Adding too many tokens to a prompt/to context)
+	- Beware Overfitting (too many, too similar outcomes)
+	- Enhance with Chain-of-Thought
+	- Enhance with Dynamic Prompting
+- Meta-Prompting
+	- Using the LLM to generate, analyze, or refine prompts to get better output.
+	- Helps improve efficiency by cutting down on iteration time.
+	- Teaches better prompt-writing to users.
+	- Generates detailed prompts for complex tasks.
+	- Often outperforms few-shot prompting on reasoning tasks.
+	- The important part of meta-prompting is the meta-instructions.
+	- Adding roles and context can help the LLM provide an even more tailored outcome.
+	- Can be used when you only have a vague idea, to get you where you want to be
+	- Limitations:
+		- Time consumption
+		- Over-engineering
+		- Token usage
+		- Skill gap
+- Automatic Reasoning and Tool Use
+	- Enables LLMs to combine reasoning ability with external tool use
+	- Tools
+		- Calculator
+		- Web Search
+		- Database
+		- Translation tool
+		- File Reader
+		- Presentation Tool
+		- And more!
+	- Don't use for fact recall, basic writing tasks, opinions or creative suggestions, very simple arithmetic, brainstorming
