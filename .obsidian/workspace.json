@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Vault/Course Notes/S26/GREEK 201/Ch. 29.md",
+                "file": "Academic Vault/Course Notes/S26/AI 101/W05 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch. 29"
+              "title": "W05 Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +226,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a1a6e115a668152e",
+  "active": "a536a13cdf00f58b",
   "lastOpenFiles": [
-    "Academic Vault MOC.md",
+    "Academic Vault/Course Notes/S26/GREEK 201/Ch. 30.md",
+    "Academic Vault/Course Notes/S26/AI 101/W05 Notes.md",
+    "Academic Vault/Course Notes/W26/GREEK 102/Ch. 26.md",
     "Academic Vault/Course Notes/S26/GREEK 201/Ch. 29.md",
+    "Index.md",
+    "Academic Vault MOC.md",
     "Academic Vault/Course Notes/S26/AI 101/W04 Notes.md",
     "Academic Vault/Course Notes/S26/GREEK 201",
     "Academic Vault/Course Notes/S26/POLSC 150/Political Institutions - Terms.md",
@@ -236,7 +241,6 @@
     "Academic Vault/Judas Project.md",
     "Academic Vault/Course Notes/S26/AI 101/W03 Notes.md",
     "Academic Vault/Course Notes/S26/CYBER 301/Wireshark Lab.md",
-    "Index.md",
     "Bases/Bookshelf.base",
     "Bases/Games.base",
     "Bases/Games/STAR WARS™ Battlefront II (Classic 2005) (2009).md",
@@ -256,9 +260,6 @@
     "Bases/Music",
     "Bases/Movies & TV.base",
     "Bases/Books/Athenaze Bk 1 (2015).md",
-    "Bases/Books/Athenaze Bk 2 (2016).md",
-    "Bases/Books/The Jewish Study Bible - Adele Berlin, Marc Zvi Brettler.md",
-    "Bases/Books/The Jewish Study Bible (2003).md",
     "Bases/Games",
     "Bases/Movies & TV",
     "Bases/Books",
