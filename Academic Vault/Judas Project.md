@@ -202,6 +202,14 @@ This paper attempts to make sense of the inclusion of Judas Iscariot’s death i
 	- What is the purpose behind Matthew’s depiction of Judas, when considered in the light of Matthew’s audience and message?
 	- *Carmen Paschale* and the *Legend Aurea* as the works that stoked the popular negative sentiments against Judas
 	- Thomas de Quincey and others on Judas not being a betrayer, but attempting to force Jesus’s hand to usher in the kingdom (demonstrated by his significant remorse)
+	- linguistic analysis of the earliest sources indicates that Judas was not seen as a betrayer (Klassen, p. 57-58)
+	- Ch 4 on Judas acting as an informer according to the Hebrew or Aramaic that underlies the story (Klassen); Judas and Jesus both appear to obey the actions given them by their masters, and the integrity of their actions should not be judged (p. 73); Klassen thinks that Judas was arranging a meetup between Jesus and the temple authorities so that Jesus could directly rebuke the sinner, as he had taught to do (p. 74)
+	- Ex. 21:32—price of recompense for a gored slave
+	- What were the rhetorical needs served by Matthew’s retelling of the Judas story?
+	- “In Matthew’s treatment of Judas, we need, above all, to consider the role of the Hebrew Bible.” (Klassen, p. 99)
+	- Matthew is the only writer to include Judas’s death as part of the Jesus story. Luke saves it for his discussion of the emerging church. (Klassen, p. 106)
+		- This is where the Discourses of Death dissertation comes in. Why is Judas’s death framed alongside Jesus’s?
+	- Covenant obligation/reciprocal relationship between Jesus and Judas according to Jewish custom at the last supper (Klassen, p. 109-111)
 	- 
 
 ## Views on Suicide
