@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +225,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a536a13cdf00f58b",
+  "active": "176cbab2937512ab",
   "lastOpenFiles": [
     "Rule of Three.md",
     "Academic Vault/Course Notes/S26/AI 101/W05 Notes.md",
