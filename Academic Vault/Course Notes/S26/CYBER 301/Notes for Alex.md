@@ -34,7 +34,7 @@ Health managed by Student Health Center; registration/academic records managed b
 Access should be determined by relevance to job tasks (Advising should have access to grad planner records but HR should not, etc.); IT/InfoSec should have ability to determine access based on access requests from data owners to authorize users (e.g., Head of Financial Aid should be able to request that new hire be given access to job-relevant Financial Aid data or that former employee access be revoked).
 
 5. Come up with a strategy for ensuring the data isn't accessed by those not authorized and how this data will be logged.
-Follow principles of least access
+Follow principles of least privilege; log user access on files, and audit access logs occasionally. Use a SIEM to flag access at odd hours.
 
 6. Using your strategy and classifications, create a data classification document and upload your document here. 
 
