@@ -36,6 +36,58 @@ Access should be determined by relevance to job tasks (Advising should have acce
 5. Come up with a strategy for ensuring the data isn't accessed by those not authorized and how this data will be logged.
 Follow principles of least privilege; log user access on files, and audit access logs occasionally. Use a SIEM to flag access at odd hours.
 
-6. Using your strategy and classifications, create a data classification document and upload your document here. 
+6. Using your strategy and classifications, create a data classification document and upload your document here. (Just use AI to draft a policy based on your answers to questions 1-5.)
 
-"Even though this is a team assignment, each student needs to submit their own final report."
+**Document Title:** BYU-Idaho Data Classification and Handling Policy
+
+**Version:** 1.0
+
+**Effective Date:** [Date]
+
+#### 1. Purpose and Scope
+
+The purpose of this policy is to establish a framework for classifying data collected and maintained by BYU-Idaho. This ensures that data is protected with appropriate security controls in compliance with institutional policies and regulatory requirements (e.g., FERPA, HIPAA, PCI DSS). This policy applies to all university employees, faculty, contractors, and student workers who access university information systems.
+
+#### 2. Roles and Responsibilities
+
+- **Data Owners:** Senior university officials or department heads (e.g., University Registrar, Director of Student Health Center, Head of Financial Aid) responsible for a specific domain of data. They determine who is authorized to access the data based on job roles.
+    
+- **Data Custodians:** Information Technology (IT) personnel responsible for the safe custody, transport, storage, and technical provisioning of access to the data, as directed by the Data Owners.
+    
+- **Data Users:** Authorized employees, faculty, or student workers who access data to perform their defined job duties.
+    
+- **Information Security (InfoSec):** Responsible for monitoring access, defining security controls, managing the SIEM, and auditing compliance with this policy.
+    
+
+#### 3. Data Classification Tiers & Inventory
+
+All university data must be classified into one of the following four tiers.
+
+|**Classification**|**Definition**|**Examples (BYU-I Context)**|
+|---|---|---|
+|**1. Public**|Information that is freely available to the public and poses no risk if disclosed.|General university directory, institutional research (public reports), course catalogs, GIS campus maps.|
+|**2. Internal Use Only**|Information intended for university employees and students. Unauthorized disclosure would cause minimal risk.|Internal memos, non-sensitive departmental data, general digital usage metrics, standard employee directories.|
+|**3. Confidential**|Sensitive information protected by privacy laws or institutional policy. Disclosure could cause moderate to high harm.|Educational records (FERPA), PII (home addresses, birth dates, demographic info), ecclesiastical records.|
+|**4. Restricted**|Highly sensitive data. Unauthorized disclosure would cause severe financial, legal, or reputational damage.|Financial data, SSNs, Health Records (HIPAA), tax documents (1098-T), insurance policy details, payment card info.|
+
+#### 4. Access Control Strategy
+
+- **Role-Based Access Control (RBAC):** Access to Confidential and Restricted data is granted strictly based on the user’s job function and the Principle of Least Privilege. For example, academic advising staff will have access to grad planner records, while Human Resources staff will not.
+    
+- **Access Provisioning:** Access must be formally requested by the user's supervisor and explicitly approved by the relevant Data Owner. IT will execute the provisioning.
+    
+- **Access Revocation:** Upon termination or transfer of an employee, Data Owners and HR must immediately notify IT to revoke all system access.
+    
+
+#### 5. Data Security and Auditing
+
+- **Logging:** All systems housing Confidential or Restricted data must log user access, including timestamps, user IDs, and the specific files accessed.
+    
+- **Monitoring:** Information Security will utilize a Security Information and Event Management (SIEM) system to monitor access logs. Automated alerts will be configured to flag anomalous activities, such as bulk downloads or access during off-hours.
+    
+- **Auditing:** InfoSec will conduct periodic audits of access logs and current user permissions to ensure alignment with the Principle of Least Privilege.
+    
+
+#### 6. Enforcement
+
+Violations of this policy, whether intentional or accidental, may result in disciplinary action up to and including termination of employment or academic dismissal, as well as potential civil or criminal penalties.
