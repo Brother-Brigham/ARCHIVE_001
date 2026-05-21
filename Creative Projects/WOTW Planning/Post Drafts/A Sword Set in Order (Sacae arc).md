@@ -40,6 +40,8 @@ Satisfied and spent, Ito returned his blade to its sheath and laid on his bedrol
 
 *Post where Ito interacts with Luci’s voice*
 
+The night went quickly, eventlessly, just as Ito liked. It was safer that way, or so he thought. The possibility that the calm merely preceded some new chaos was ever-present, but Ito felt confident that his abilities could see him through in at least some pieces. Such had happened before, anyway. His mind cast itself back to that village in Worde, where he'd so thoughtlessly throw himself into battle. He couldn't remember if he had ever learned the names of those other two who had fought on his side. Certain echoes came from his conversation with the troubadour that saved his life right after. *Was Inese her name?* 
+
 _____
 
 *Post where [[Theos Aletheios|Theos]] is introduced.* “Tell me, boy; you hear a ghost too, don’t you?”
