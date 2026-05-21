@@ -25,7 +25,7 @@ But those others are more terrible, O men, since the majority of you receiving f
 but in fact, O men of Athens, I have no share in these things.
 
 19d
-And as witnesses I once again hand over the majority of you, and I deem worthy for you to instruct and to point out to one another, all who have ever yet heard me dialogue--and there are many of you such as this--so point out to one another if any of you all ever hear such small or such great things from my dialoguing, and you will come to know for yourselves from this that these and other such things they say concerning me.
+And as witnesses I once again hand over the majority of you, and I deem worthy for you to instruct and to point out to one another, all who have ever yet heard me dialogue--and there are many of you such as this--so point out to one another if any of you all ever hear such small or such great things from my dialoguing about these things, and you will come to know for yourselves from this that these and other such things they say concerning me.
 
 For but 
 
