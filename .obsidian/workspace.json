@@ -8,49 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1a6e115a668152e",
+            "id": "23d350cf733a1095",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "465fa28c652b094a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Vault MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Academic Vault MOC"
-            }
-          },
-          {
-            "id": "a536a13cdf00f58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plato - Apology"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,51 +187,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a536a13cdf00f58b",
+  "active": "a0a1dac495db7288",
   "lastOpenFiles": [
-    "Academic Vault MOC.md",
-    "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
-    "Academic Vault/Course Notes/S26/AI 101/W05 Notes.md",
-    "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
-    "Creative Projects/WOTW Planning/Ito Kai.md",
-    "Creative Projects/WOTW Planning/Ito WOTW Romhack.md",
-    "Creative Projects/WOTW Planning/Theos Aletheios.md",
-    "Academic Vault/Course Notes/S26/CYBER 301/Notes for Alex.md",
-    "Creative Projects MOC.md",
-    "Creative Projects/Red Ivy Records/Concepts.base",
-    "Concepts.md",
-    "Untitled.base",
-    "Bases/Games.base",
-    "Bases/Music.base",
-    "Bases/Movies & TV.base",
-    "Bases/Bookshelf.base",
+    "Work Samples.md",
+    "Theology & Scripture/Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
+    "Theology & Scripture/Scripture Study Notes/God.md",
+    "Theology & Scripture/Scripture Study Notes/Woman.md",
+    "Theology & Scripture/Scripture Study Notes/Man.md",
+    "Theology & Scripture/Scripture Study Notes/Earth.md",
+    "Theology & Scripture/Scripture Study Notes/Lucifer.md",
+    "Theology & Scripture/Scripture Study Notes/Jesus.md",
+    "Theology & Scripture/Scripture Study Notes/Glass.md",
+    "Theology & Scripture/Scripture Study Notes/Heaven.md",
+    "Theology & Scripture/Scripture Study Notes/Endowment.md",
+    "Theology & Scripture/Scripture Study Notes/Baptism.md",
+    "Theology & Scripture/Post Drafts for The Mountaineer",
+    "Theology & Scripture/Scripture Study Notes",
+    "Theology & Scripture",
+    "Theology & Scripture MOC.md",
     "Rule of Three.md",
-    "Academic Vault/Course Notes/S26/GREEK 201/Ch. 30.md",
-    "Academic Vault/Course Notes/W26/GREEK 102/Ch. 26.md",
-    "Academic Vault/Course Notes/S26/GREEK 201/Ch. 29.md",
-    "Index.md",
-    "Academic Vault/Course Notes/S26/AI 101/W04 Notes.md",
-    "Academic Vault/Course Notes/S26/GREEK 201",
-    "Academic Vault/Course Notes/S26/POLSC 150/Political Institutions - Terms.md",
-    "Academic Vault/Course Notes/S26/POLSC 150/Informational Interview - Justin Stewart.md",
-    "Academic Vault/Judas Project.md",
-    "Academic Vault/Course Notes/S26/AI 101/W03 Notes.md",
-    "Academic Vault/Course Notes/S26/CYBER 301/Wireshark Lab.md",
-    "Bases/Games/STAR WARS™ Battlefront II (Classic 2005) (2009).md",
-    "Bases/Games/Minecraft (2009).md",
-    "Bases/Games/Virtual Cottage 2 (2026).md",
-    "Bases/Games/Virtual Cottage (2020).md",
-    "Bases/Games/The Legend of Zelda - Twilight Princess (2006).md",
-    "Bases/Music",
-    "Bases/Games",
-    "Bases/Movies & TV",
-    "Attachments/Notes_251227_091550_2c5.png",
-    "Untitled.canvas",
+    "Journal Entries/Weight Loss Plan.md",
+    "Journal Entries/Goals for 2026.md",
+    "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
+    "Creative Projects/Red Ivy Records/Concepts/They Call Me 'The Kid' - Original Full Concept.md",
+    "Creative Projects/Red Ivy Records/Concepts/Storyline, They Call Me 'The Kid'.md",
+    "Creative Projects/Red Ivy Records/Concepts/ALBUM Home for Christmas.md",
+    "Creative Projects/Red Ivy Records/Concepts/FULL CONCEPT They Call Me 'The Kid'.md",
+    "Creative Projects/D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
+    "Creative Projects/Red Ivy Records/Concepts/COLLECTION Under the Moon.md",
+    "Creative Projects/Red Ivy Records/Concepts/COLLECTION The Hymns.md",
+    "Creative Projects/Red Ivy Records/Concepts/ALBUM They Call Me 'The Kid'.md",
+    "Creative Projects/Red Ivy Records/Concepts/ALBUM The Way of the Wanderer.md",
+    "Creative Projects/WOTW Planning/Post Drafts",
+    "Creative Projects/Red Ivy Records/Concepts",
+    "Creative Projects/Red Ivy Records/Concepts.base",
+    "Creative Projects/D&D/Character Builds",
+    "Creative Projects/WOTW Planning",
+    "Creative Projects/Red Ivy Records",
+    "Creative Projects/D&D",
     "Attachments/IMG_4051.png",
     "Attachments/Pasted image 20260406111806.png",
     "Attachments/Pasted image 20260406111517.png",
@@ -274,6 +236,8 @@
     "Attachments/Pasted image 20260402100508.png",
     "Attachments/Pasted image 20260401122106.png",
     "Attachments/Pasted image 20260401122042.png",
-    "Attachments/Pasted image 20260401122027.png"
+    "Attachments/Pasted image 20260401122027.png",
+    "Attachments/Pasted image 20260401121028.png",
+    "Untitled.canvas"
   ]
 }
