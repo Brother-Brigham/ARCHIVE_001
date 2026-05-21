@@ -11,10 +11,14 @@
             "id": "23d350cf733a1095",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Academic Vault/Course Notes/S26/AI 101/Personal AI Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Personal AI Roadmap"
             }
           }
         ]
@@ -190,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a1dac495db7288",
+  "active": "23d350cf733a1095",
   "lastOpenFiles": [
+    "Academic Vault/Course Notes/S26/AI 101/W05 Notes.md",
+    "Academic Vault/Course Notes/S26/AI 101/Personal AI Roadmap.md",
+    "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
+    "Judas Project.md",
     "Work Samples.md",
     "Theology & Scripture/Post Drafts for The Mountaineer/Observation, Space, and Seeing the Bigger Picture.md",
     "Theology & Scripture/Scripture Study Notes/God.md",
@@ -217,10 +225,6 @@
     "Creative Projects/Red Ivy Records/Concepts/ALBUM Home for Christmas.md",
     "Creative Projects/Red Ivy Records/Concepts/FULL CONCEPT They Call Me 'The Kid'.md",
     "Creative Projects/D&D/Character Builds/Spencer’s Campaign - Sorcerer Build Planning.md",
-    "Creative Projects/Red Ivy Records/Concepts/COLLECTION Under the Moon.md",
-    "Creative Projects/Red Ivy Records/Concepts/COLLECTION The Hymns.md",
-    "Creative Projects/Red Ivy Records/Concepts/ALBUM They Call Me 'The Kid'.md",
-    "Creative Projects/Red Ivy Records/Concepts/ALBUM The Way of the Wanderer.md",
     "Creative Projects/WOTW Planning/Post Drafts",
     "Creative Projects/Red Ivy Records/Concepts",
     "Creative Projects/Red Ivy Records/Concepts.base",
