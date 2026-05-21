@@ -44,4 +44,62 @@ Presentation Day 1 Notes
 	- RAG functions like a student taking an open-book exam
 		- No training overhead, just give a document folder (NotebookLM clearest example of RAG-oriented LLM?)
 	- Good for use in specific domains, rather than broad searches; keeps your answers better for the specific use cases
+- Multimodal Chain-of-Thought Prompting
+	- My presentation
+- Chain-of-Thought Prompting
+	- Chain-of-Thought does not perfect reasoning, but it enables it to go step-by-step through the thinking process
+	- This mimics human thought processes, where we generally solve problems one step at a time rather than all at once
+	- Types:
+		- Zero shot CoT
+		- Few shot CoT
+		- Prompt Scaffolding (Prompt Chaining?)
+		- Self-Consistency
+	- Hallucination and incorrect reasoning are still possible
+- Zero-Shot Prompting
+	- Asking AI to perform a task, but not providing any examples
+	- This causes the LLM to rely on its training to generate an answer
+	- Pros
+		- Fast and simple
+		- Low effort
+		- Flexible
+		- Scalable
+	- Cons
+		- Less precise
+		- Inconsistent
+		- Complex tasks struggle
+		- No style control
+		- Hallucination risk is higher
+	- When Zero Shot fails, try few-shot or prompt chaining
+- Deep Research Prompting
+	- A prompting method that instructs AI to gather, analyze, and synthesize information at a much deeper level.
+	- Steps:
+		- Have specific goal
+		- Ask for sources and evidence
+		- Request step-by-step reasoning
+		- Be specific about format
+	- Takes a while
+	- In depth answers
+	- Long answers
+	- Reduces hallucinations (If it uses its sources)
+	- Bad instructions = rabbit holes
+	- Tons of resources gathered
+	- Easier to validate output because sources are provided
+	- Transforms model into a powerful research assistant
+- Reflexion
+	- A framework that trains AI to lean and apply nuance, without human intervention. Allows the human to focus on other tasks and creates a self-improvement cycle for the AI
+	- Consists of three models:
+		- Actor
+		- Evaluator
+		- Self-Reflector
+	- Reflexion is uniquely strong for debugging AI and allowing it to identify mistakes in its own code and database, 
+- Tree-of-Thought
+	- If mistakes are made in CoT reasoning, hallucinations can abound
+	- Branching reasoning allows AI to to backtrack if it encounters faulty reasoning
+	- Enables AI to test each branch of thought
+	- Acts as an internal critic, scores its own heuristics, and prunes bad ideas from the tree early in reasoning
+	- Can pursue either Breadth-First Searching or Depth-First Searching
+	- High token cost
+	- High complexity
+	- Internal critic can hallucinate
+	- Output can have issues restating the same idea multiple times
 	- 
