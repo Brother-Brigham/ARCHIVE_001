@@ -102,4 +102,3 @@ Presentation Day 1 Notes
 	- High complexity
 	- Internal critic can hallucinate
 	- Output can have issues restating the same idea multiple times
-	- 

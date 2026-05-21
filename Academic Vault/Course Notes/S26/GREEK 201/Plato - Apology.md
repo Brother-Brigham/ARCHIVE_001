@@ -25,7 +25,7 @@ But those others are more terrible, O men, since the majority of you receiving f
 but in fact, O men of Athens, I have no share in these things.
 
 19d
-
+And as witnesses I once again hand over to the majority of you, and I think to instruct 
 
 ---
 ### Section 18b
