@@ -32,3 +32,16 @@ Presentation Day 1 Notes
 		- Presentation Tool
 		- And more!
 	- Don't use for fact recall, basic writing tasks, opinions or creative suggestions, very simple arithmetic, brainstorming
+
+## May 21 Class
+- Prompt Chaining
+	- Break the prompt into smaller pieces, then feed those into the LLM one smaller prompt at a time
+	- Make the smaller prompts clear and specific
+	- Validate output with each step for more effective iteration
+	- Improves consistency of results by breaking tasks into smaller, simpler steps
+	- Reduces hallucination
+- Retrieval-Augmented Generation (RAG) Prompts
+	- RAG functions like a student taking an open-book exam
+		- No training overhead, just give a document folder (NotebookLM clearest example of RAG-oriented LLM?)
+	- Good for use in specific domains, rather than broad searches; keeps your answers better for the specific use cases
+	- 
