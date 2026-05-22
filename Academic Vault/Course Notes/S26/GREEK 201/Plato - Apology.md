@@ -2,12 +2,10 @@
 That which you all, O men of Athens, have experienced at the hands of my accusers, I know not; at any rate I, even myself because of them I almost forgot myself, because they have spoken so persuasively. Indeed they have spoken no truth at all. 
 
 18b
-ὑστέρους. ἐμοῦ γὰρ πολλοὶ κατήγοροι γεγόνασι πρὸς ὑμᾶς καὶ πάλαι πολλὰ ἤδη ἔτη καὶ οὐδὲν ἀληθὲς λέγοντες, οὓς ἐγὼ μᾶλλον φοβοῦμαι ἢ τοὺς ἀμφὶ Ἄνυτον, καίπερ ὄντας καὶ τούτους δεινούς: ἀλλ᾽ ἐκεῖνοι δεινότεροι, ὦ ἄνδρες, οἳ ὑμῶν τοὺς πολλοὺς ἐκ παίδων παραλαμβάνοντες ἔπειθόν τε καὶ κατηγόρουν ἐμοῦ μᾶλλον οὐδὲν ἀληθές, ὡς ἔστιν τις Σωκράτης σοφὸς ἀνήρ, τά τε μετέωρα φροντιστὴς καὶ τὰ ὑπὸ γῆς πάντα ἀνεζητηκὼς καὶ τὸν ἥττω λόγον κρείττω
-But those others are more terrible, O men, since the majority of you receiving from childhood both were persuaded and were accusing me 
+But those others are more terrible, O men, who of you the majority from childhood both were persuading and were accusing of me nothing true, that there is a certain Socrates, a wise man, a ponderer of both the things-in-the-air and the things under earth, all having investigated and the weaker argument stronger...
 
 18c
-ποιῶν. οὗτοι, ὦ ἄνδρες Ἀθηναῖοι, οἱ ταύτην τὴν φήμην κατασκεδάσαντες, οἱ δεινοί εἰσίν μου κατήγοροι: οἱ γὰρ ἀκούοντες ἡγοῦνται τοὺς ταῦτα ζητοῦντας οὐδὲ θεοὺς νομίζειν. ἔπειτά εἰσιν οὗτοι οἱ κατήγοροι πολλοὶ καὶ πολὺν χρόνον ἤδη κατηγορηκότες, ἔτι δὲ καὶ ἐν ταύτῃ τῇ ἡλικίᾳ λέγοντες πρὸς ὑμᾶς ἐν ᾗ ἂν μάλιστα ἐπιστεύσατε, παῖδες ὄντες ἔνιοι ὑμῶν καὶ μειράκια, ἀτεχνῶς ἐρήμην κατηγοροῦντες ἀπολογουμένου οὐδενός. ὃ δὲ πάντων ἀλογώτατον, ὅτι οὐδὲ τὰ
-
+...making. These ones, O men Athenians, the ones this the rumor having scattered, the formidable are of me accusers: the for ones hearing suppose the ones these things seeking not even gods to believe in. Then there are these the accusers many and much time already having accused, further moreover also in this the age speaking to you in which [particle] most you trusted, children being some of you and youths, completely an undefended [case] accusing [with] defending-oneself no one. Which moreover of all things [is] most unreasonable, that not even the...
 
 18d
 ὀνόματα οἷόν τε αὐτῶν εἰδέναι καὶ εἰπεῖν, πλὴν εἴ τις κωμῳδοποιὸς τυγχάνει ὤν. ὅσοι δὲ φθόνῳ καὶ διαβολῇ χρώμενοι ὑμᾶς ἀνέπειθον—οἱ δὲ καὶ αὐτοὶ πεπεισμένοι ἄλλους πείθοντες—οὗτοι πάντες ἀπορώτατοί εἰσιν: οὐδὲ γὰρ ἀναβιβάσασθαι οἷόν τ᾽ ἐστὶν αὐτῶν ἐνταυθοῖ οὐδ᾽ ἐλέγξαι οὐδένα, ἀλλ᾽ ἀνάγκη ἀτεχνῶς ὥσπερ σκιαμαχεῖν ἀπολογούμενόν τε καὶ ἐλέγχειν μηδενὸς ἀποκρινομένου. ἀξιώσατε οὖν καὶ ὑμεῖς, ὥσπερ ἐγὼ λέγω, διττούς μου τοὺς κατηγόρους γεγονέναι, ἑτέρους μὲν τοὺς ἄρτι κατηγορήσαντας, ἑτέρους δὲ
