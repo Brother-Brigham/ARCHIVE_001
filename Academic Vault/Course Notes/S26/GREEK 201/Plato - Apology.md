@@ -28,13 +28,9 @@ And as witnesses I once again hand over the majority of you, and I deem worthy f
 For but 
 
 20
-For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess the name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. But these men perhaps, whom I was just now speaking of, might be wise according to some greater than human wisdom, or I don't know what to say; for I at least certainly know it not, but whoever  says that I do both lies and speaks for the purpose of slandering me. 
+For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess this same name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. But these men perhaps, whom I was just now speaking of, might be wise according to some greater than human wisdom, or I don't know what to say; for I at least certainly know it not, but whoever  says that I do both lies and speaks for the purpose of slandering me. 
 
-And please, O men of Athens, do not make an uproar, not even if I seem to you to boast; for the account which I am going to give is not mine, 
-
-21
-
-
+And please, O men of Athens, do not make an uproar, not even if I seem to you to boast; for the account which I am going to give is not mine, but I shall refer it to one speaking who is worth considering.  
 
 
 ---
