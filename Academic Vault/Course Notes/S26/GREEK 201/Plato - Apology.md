@@ -28,7 +28,7 @@ And as witnesses I once again hand over the majority of you, and I deem worthy f
 For but 
 
 20d6
-For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess a name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality 
+For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess a name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. 
 
 ---
 ### Section 18b
