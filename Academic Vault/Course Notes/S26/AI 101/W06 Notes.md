@@ -27,4 +27,5 @@
 	- One token is four characters
 	- Context windows are limited to token amounts
 		- Many frontier context windows are able to handle gargantuan numbers of tokens
-	- 
+	- Conversations use limited amounts of the context window, but coding applications are liable to use more.
+- What was the state of Human-in-the-Loop?
