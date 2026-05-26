@@ -28,4 +28,7 @@
 	- Context windows are limited to token amounts
 		- Many frontier context windows are able to handle gargantuan numbers of tokens
 	- Conversations use limited amounts of the context window, but coding applications are liable to use more.
-- What was the state of Human-in-the-Loop?
+- HITL has moved from *muscle* to *brain* to *teacher*, is currently at *manager*, and in the future may become *governor* and *expert collaborator*.
+- Is there value in the process, or is the end product all that matters?
+	- The process is perhaps the most meaningful, or at least the most meaning-infusing part of the experience. 
+- 
