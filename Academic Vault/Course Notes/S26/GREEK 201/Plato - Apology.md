@@ -27,12 +27,15 @@ And as witnesses I once again hand over the majority of you, and I deem worthy f
 
 For but 
 
-20d6
-For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess the name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. But these men perhaps, whom I was just now speaking of, might be wise according to some greater than human wisdom, or I don't know what to say; for I at least certainly know it not, but whoever  says that I do both lies and speaks for the purpose of slandering me.
+20
+For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess the name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. But these men perhaps, whom I was just now speaking of, might be wise according to some greater than human wisdom, or I don't know what to say; for I at least certainly know it not, but whoever  says that I do both lies and speaks for the purpose of slandering me. 
 
 And please, O men of Athens, do not make an uproar, not even if I seem to you to boast; for the account which I am going to give is not mine, but I shall refer it to one whom you will consider trustworthy. For as witness to my wisdom—if indeed I possess any, and whatever sort it may be—I shall present to you the god at Delphi.
 
-For you surely know Chaerephon. He was my companion from youth, and also a companion of your multitude, and he shared in this exile and returned with you.
+For you surely know Chaerephon. 
+
+21
+He was my companion from youth, and also a companion of your multitude, and he shared in this exile and returned with you.
 
 And indeed you know what kind of man Chaerephon was, how intense he was in whatever he undertook.  And once, after going to Delphi, he dared to inquire this from the oracle—and, men, do not make an uproar at what I am saying—for he asked whether anyone was wiser than I. The Pythia therefore replied that no one was wiser. And his brother here will testify to these things for you, since he himself has died. Consider then why I say these things; for I am about to teach you from where the prejudice against me arose. 
 
