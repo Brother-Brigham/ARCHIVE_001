@@ -30,28 +30,10 @@ For but
 20
 For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess the name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. But these men perhaps, whom I was just now speaking of, might be wise according to some greater than human wisdom, or I don't know what to say; for I at least certainly know it not, but whoever  says that I do both lies and speaks for the purpose of slandering me. 
 
-And please, O men of Athens, do not make an uproar, not even if I seem to you to boast; for the account which I am going to give is not mine, but I shall refer it to one whom you will consider trustworthy. For as witness to my wisdom—if indeed I possess any, and whatever sort it may be—I shall present to you the god at Delphi.
-
-For you surely know Chaerephon. 
+And please, O men of Athens, do not make an uproar, not even if I seem to you to boast; for the account which I am going to give is not mine, 
 
 21
-He was my companion from youth, and also a companion of your multitude, and he shared in this exile and returned with you.
 
-And indeed you know what kind of man Chaerephon was, how intense he was in whatever he undertook.  And once, after going to Delphi, he dared to inquire this from the oracle—and, men, do not make an uproar at what I am saying—for he asked whether anyone was wiser than I. The Pythia therefore replied that no one was wiser. And his brother here will testify to these things for you, since he himself has died. Consider then why I say these things; for I am about to teach you from where the prejudice against me arose. 
-
-For after hearing these things I reasoned with myself in this way:
-
- “What does the god mean? What is he hinting at? For I am conscious that I am wise neither in great things nor in small things. What then does he mean by saying that I am wisest? Surely he is not lying, for that would not be lawful for him.”
-
-And for a long time I was perplexed as to what he meant. Then with considerable difficulty I finally turned to an investigation of it something like this:
-
-I went to one of those reputed to be wise, thinking that there, if anywhere, I might refute the oracle and show to the prophecy:
-
-“This man here is wiser than I, but you declared me to be wiser.”
-
-Examining this man—for I have no need to mention him by name, though he was one of the politicians—to him I went, men of Athens, and while conversing with him I experienced something like the following:
-
-It seemed to me that this man appeared wise to many other people, and especially to himself, but in fact was not. Then I attempted to show him that although he thought himself wise, he was not.
 
 
 
