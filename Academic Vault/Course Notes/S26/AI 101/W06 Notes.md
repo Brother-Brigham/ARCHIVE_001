@@ -31,4 +31,4 @@
 - HITL has moved from *muscle* to *brain* to *teacher*, is currently at *manager*, and in the future may become *governor* and *expert collaborator*.
 - Is there value in the process, or is the end product all that matters?
 	- The process is perhaps the most meaningful, or at least the most meaning-infusing part of the experience. 
-- 
+## May 28 Class
