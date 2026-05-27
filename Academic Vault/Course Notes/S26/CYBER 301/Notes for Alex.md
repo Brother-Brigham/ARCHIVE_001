@@ -108,3 +108,4 @@ Violations of this policy, whether intentional or accidental, may result in disc
 - FCC regulates frequencies
 	- [US Frequency Allocations chart](https://www.ntia.gov/sites/default/files/2025-09/ntia-us-frequency-allocations.pdf)
 - Wifi classifications:
+![[IMG_4308.jpeg]]
