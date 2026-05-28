@@ -1,3 +1,16 @@
+[12 Skills for Every Man](https://youtu.be/AOhHCyvI58E?si=2dTdFixRf8DAkeMS)
+- Strength
+- Combat/Competition
+- Courage/Spiritedness/Thumos
+- Speech
+- History/Politics
+- Finance
+- Creativity
+- Cooking
+- Outdoorsmanship
+- Responsibility
+- Dress
+
 Physical
 - Follow training program for FBI Personal Fitness Test for exercise
 - Meal plan/eat better
