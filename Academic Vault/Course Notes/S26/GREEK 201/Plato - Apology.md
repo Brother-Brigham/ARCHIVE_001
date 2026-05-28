@@ -76,6 +76,7 @@ And please, O men of Athens, do not make an uproar, not even if I seem to you to
 
 23c
 And to these 
+
 23d
 
 23e
@@ -84,11 +85,7 @@ And to these
 
 24b
 
-24c
 
-24d
-
-24e
 
 
 
