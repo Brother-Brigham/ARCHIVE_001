@@ -32,3 +32,25 @@
 - Is there value in the process, or is the end product all that matters?
 	- The process is perhaps the most meaningful, or at least the most meaning-infusing part of the experience. 
 ## May 28 Class
+- What does AI know about you?
+	- My primary ChatGPT instance knows quite a lot about me, but nothing that I haven't told it.
+- Scenarios:
+	- Sacrament talk
+		- I would not have AI write my sacrament talk for me; I might use it to gather resources that I synthesize myself, but I would not use it to write for me.
+	- Resume
+		- I would use AI to help me refine and to offer suggestions; I already use VMOCK's platform for resume building, which is predominantly AI-powered. As long as the final product looks decent, I'd be tempted to let the AI build my resume completely.
+	- History paper
+		- Use AI for gathering sources, read through the sources myself, then write the paper myself. 5 pages isn't that bad, especially when double-spaced and if you have good sources.
+	- English prof feedback
+		- That's probably okay? There's a balance that should be found here; my preference is that the grading be done by the professor, but that's a pretty big workload and could be helped without degrading the student experience drastically if AI use was integrated.
+	- Performance Evaluation
+		- The manager should use AI to synthesize the data, drawing out the key points and recurring threads in the vast pool of data, but they should evaluate that information and reach a conclusion independent of the AI.
+	- Job Search
+		- That's fine, use AI. AI is possibly a better resource than just a Google search, and many job websites have integrated AI features, as well.
+	- Red Flags
+		- Use AI to sift the data and discover which employees were flagged, then go back and listen through the flagged calls or monitor those employees in a performance review process; then, the manager should offer feedback to the employees in question to help reduce that number.
+- AI Usage
+	- Personally
+		- We need to decide on a case-by-case basis how we should use AI in our personal lives
+	- Professionally
+		- This will differ, based on your career; we will *probably* need to learn to use AI effectively in order to have successful careers; follow your industry/company guidelines for AI use.
