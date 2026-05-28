@@ -1,6 +1,14 @@
 17a
 That which you all, O men of Athens, have experienced at the hands of my accusers, I know not; at any rate I, even myself because of them I almost forgot myself, because they have spoken so persuasively. Indeed they have spoken no truth at all. 
 
+17b
+
+17c
+
+17d
+
+18a
+
 18b
 But those others are more terrible, O men, who of you the majority from childhood both were persuading and were accusing of me nothing true, that there is a certain Socrates, a wise man, a ponderer of both the things-in-the-air and the things under earth, all having investigated and the weaker argument stronger...
 
@@ -27,10 +35,62 @@ And as witnesses I once again hand over the majority of you, and I deem worthy f
 
 For but 
 
-20
+19e
+
+20a
 For I, O men of Athens, because of nothing but wisdom of some sort have acquired and still possess this same name. Just what sort of wisdom is this? It is the very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. But these men perhaps, whom I was just now speaking of, might be wise according to some greater than human wisdom, or I don't know what to say; for I at least certainly know it not, but whoever  says that I do both lies and speaks for the purpose of slandering me. 
 
 And please, O men of Athens, do not make an uproar, not even if I seem to you to boast; for the account which I am going to give is not mine, but I shall refer it to one speaking who is worth considering.  
+
+20b
+
+20c
+
+20d
+
+20e
+
+21a
+
+21b
+
+21c
+
+21d
+
+21e
+
+22a
+
+22b
+
+22c
+
+22d
+
+22e
+
+23a
+
+23b
+
+23c
+And to these 
+23d
+
+23e
+
+24a
+
+24b
+
+24c
+
+24d
+
+24e
+
+
 
 
 ---
