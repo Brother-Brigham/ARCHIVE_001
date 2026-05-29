@@ -128,3 +128,7 @@ Violations of this policy, whether intentional or accidental, may result in disc
 		- For example, have an AI run a scan every 5 minutes to detect unknown connections to the network, pull the source IPs from those connections, take them to the firewall, and block those IPs at the firewall.
 	- NetworkChuck has good YouTube videos on setting up and using n8n.
 - Claude Code is also good.
+**Software Inventory Lab**
+- Don't inventory more than 100 items.
+- Follow the lab document and submit it by the deadline.
+- Use AI for as much as possible (it is especially useful for finding license info, whether the software is outdated, etc.)
