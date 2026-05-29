@@ -115,5 +115,4 @@ Violations of this policy, whether intentional or accidental, may result in disc
 - Pre-Shared Keys (802.1x Personal setup, uses a password for every device to log into the network)
 - 802.1x Enterprise (has a RADIUS server that users sign into with their unique user names and passwords to authenticate and connect to the network) (can be used on a home setup if you really want to)
 ## May 29 Class
-
-
+****
