@@ -124,4 +124,7 @@ Violations of this policy, whether intentional or accidental, may result in disc
 	- Useful for AI integration in your automated workflows
 	- For every operating system, there are "guidelines" for how to integrate and keep your environment safe
 		- Published guidelines are called STIGs (NIST has them)
-	- 
+	- The automation speeds up our ability to respond to incidents. 
+		- For example, have an AI run a scan every 5 minutes to detect unknown connections to the network, pull the source IPs from those connections, take them to the firewall, and block those IPs at the firewall.
+	- NetworkChuck has good YouTube videos on setting up and using n8n.
+- Claude Code is also good.
