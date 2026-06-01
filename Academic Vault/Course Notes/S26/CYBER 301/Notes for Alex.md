@@ -140,4 +140,45 @@ Violations of this policy, whether intentional or accidental, may result in disc
 	- Tor Browser
 		- Creates anonymity by routing traffic through a number of nodes to obscure user IP
 	- NetworkChuck has videos explaining what the dark web is and how to access it
-	- 
+	- No reason to really use the dark web unless you're conducting research (e.g., is my company's data being sold there?)
+- National Vulnerability Database 
+	- [https://nvd.nist.gov/vuln/search](https://nvd.nist.gov/vuln/search)
+- CVSS Score Calculation
+	-  https://www.first.org/cvss/v3.1/specification-document
+	- Base Metric Group
+		- Exploitability Metrics
+			- Attack Vector
+				- Network (N)
+				- Adjacent (A)
+				- Local (L)
+				- Physical (P)
+			- Attack Complexity
+				- Low (L)
+				- High (H)
+			- Privileges Required
+				- None (N)
+				- Low (L)
+				- High (H)
+			- User Interaction
+				- None (N)
+				- Required (R)
+		- Scope 
+			- Unchanged (U)
+			- Changed (C)
+		- Impact Metrics
+			- Confidentiality
+				- High (H)
+				- Low (L)
+				- None (N)
+			- Integrity
+				- High (H)
+				- Low (L)
+				- None (N)
+			- Availability
+				- High (H)
+				- Low (L)
+				- None (N)
+	- Temporal Metric Group
+	- Environmental Metric Group
+**CVSS Lab**
+- Address: 
