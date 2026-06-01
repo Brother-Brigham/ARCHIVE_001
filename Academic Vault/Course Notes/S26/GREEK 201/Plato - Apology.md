@@ -94,7 +94,7 @@ Therefore, concerning the things my first accusers were accusing me of, let this
 νομίζει οὐ νομίζοντα, ἕτερα δὲ δαιμόνια καινά. τὸ μὲν δὴ ἔγκλημα τοιοῦτόν ἐστιν: τούτου δὲ τοῦ ἐγκλήματος ἓν ἕκαστον ἐξετάσωμεν.
 φησὶ γὰρ δὴ τοὺς νέους ἀδικεῖν με διαφθείροντα. ἐγὼ δέ γε, ὦ ἄνδρες Ἀθηναῖοι, ἀδικεῖν φημι Μέλητον, ὅτι σπουδῇ χαριεντίζεται, ῥᾳδίως εἰς ἀγῶνα καθιστὰς ἀνθρώπους, περὶ πραγμάτων προσποιούμενος σπουδάζειν καὶ κήδεσθαι ὧν οὐδὲν τούτῳ πώποτε ἐμέλησεν: ὡς δὲ τοῦτο οὕτως ἔχει, πειράσομαι καὶ ὑμῖν ἐπιδεῖξαι. καί μοι δεῦρο, ὦ Μέλητε, εἰπέ: ἄλλο τι ἢ
 
-recognizes, not recognizing, but rather other new divinities." The charge, then, is of such a kind. Now, let us examine each single part of this charge. For indeed, he says that I do wrong by corrupting the young. But I, at least, O Athenian men, say that Meletus does wrong, because he makes a joke in earnest, easily bringing people to trial, pretending to be serious and concerned about matters of which nothing has ever yet mattered to this man. And that this is so, I will try to demonstrate to you as well. And tell me here, O Meletus:
+recognizes, not recognizing, but rather other new divinities." The charge, then, is of such a kind. Now, let us examine each single part of this charge. For indeed, he says that I do wrong by corrupting the young. But I, at least, O Athenian men, say that Meletus does wrong, because he makes a joke in earnest, easily bringing people to trial, pretending to be serious and concerned about matters of which nothing has ever yet mattered to this man. And that this is so, I will try to demonstrate to you as well. And tell me here, O Meletus: don't you...
 
 24d
 περὶ πλείστου ποιῇ ὅπως ὡς βέλτιστοι οἱ νεώτεροι ἔσονται;
@@ -104,7 +104,7 @@ recognizes, not recognizing, but rather other new divinities." The charge, then,
 
 οἱ νόμοι.
 
-"Isn't it true that you consider it of highest importance how the younger men will be as good as possible?" "I certainly do." "Come then now, tell these men, who makes them better? For it is clear that you know, since it is a concern to you at least. For having found out the one corrupting them—as you say, me—you bring me before these very men here and accuse me; but the one indeed making them better, come, tell and point out to them who it is. —Do you see, O Meletus, that you are silent and are not able to speak? And yet does it not seem to you to be shameful, and a sufficient proof of exactly what I say, that nothing has mattered to you? But tell us, my good man, who makes them better?" "The laws."
+...consider it of highest importance how the younger men will be as good as possible? "I certainly do." "Come then now, tell these men, who makes them better? For it is clear that you know, since it is a concern to you at least. For having found out the one corrupting them—as you say, me—you bring me before these very men here and accuse me; but the one indeed making them better, come, tell and point out to them who it is. —Do you see, O Meletus, that you are silent and are not able to speak? And yet does it not seem to you to be shameful, and a sufficient proof of exactly what I say, that nothing has mattered to you? But tell us, my good man, who makes them better?" "The laws."
 
 24e
 ἀλλ᾽ οὐ τοῦτο ἐρωτῶ, ὦ βέλτιστε, ἀλλὰ τίς ἄνθρωπος, ὅστις πρῶτον καὶ αὐτὸ τοῦτο οἶδε, τοὺς νόμους;
