@@ -139,4 +139,5 @@ Violations of this policy, whether intentional or accidental, may result in disc
 - Dark Web
 	- Tor Browser
 		- Creates anonymity by routing traffic through a number of nodes to obscure user IP
+	- NetworkChuck has videos explaining what the dark web is and how to access it
 	- 
