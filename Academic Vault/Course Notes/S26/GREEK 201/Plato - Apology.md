@@ -94,7 +94,7 @@ Therefore, concerning the things my first accusers were accusing me of, let this
 νομίζει οὐ νομίζοντα, ἕτερα δὲ δαιμόνια καινά. τὸ μὲν δὴ ἔγκλημα τοιοῦτόν ἐστιν: τούτου δὲ τοῦ ἐγκλήματος ἓν ἕκαστον ἐξετάσωμεν.
 φησὶ γὰρ δὴ τοὺς νέους ἀδικεῖν με διαφθείροντα. ἐγὼ δέ γε, ὦ ἄνδρες Ἀθηναῖοι, ἀδικεῖν φημι Μέλητον, ὅτι σπουδῇ χαριεντίζεται, ῥᾳδίως εἰς ἀγῶνα καθιστὰς ἀνθρώπους, περὶ πραγμάτων προσποιούμενος σπουδάζειν καὶ κήδεσθαι ὧν οὐδὲν τούτῳ πώποτε ἐμέλησεν: ὡς δὲ τοῦτο οὕτως ἔχει, πειράσομαι καὶ ὑμῖν ἐπιδεῖξαι. καί μοι δεῦρο, ὦ Μέλητε, εἰπέ: ἄλλο τι ἢ
 
-recognizes, not recognizing [them myself], but rather other new divine things." The charge, then, is of such a kind. Now, let us examine each single part of this charge. For indeed, he says that I do wrong by corrupting the young. But I, at least, O Athenian men, say that Meletus does wrong, because he makes a joke in earnest, easily bringing people to trial, pretending to be serious and concerned about matters of which nothing has ever yet mattered to this man. And that this is so, I will try to demonstrate to you as well. And tell me here, O Meletus:
+recognizes, not recognizing, but rather other new divinities." The charge, then, is of such a kind. Now, let us examine each single part of this charge. For indeed, he says that I do wrong by corrupting the young. But I, at least, O Athenian men, say that Meletus does wrong, because he makes a joke in earnest, easily bringing people to trial, pretending to be serious and concerned about matters of which nothing has ever yet mattered to this man. And that this is so, I will try to demonstrate to you as well. And tell me here, O Meletus:
 
 24d
 περὶ πλείστου ποιῇ ὅπως ὡς βέλτιστοι οἱ νεώτεροι ἔσονται;
