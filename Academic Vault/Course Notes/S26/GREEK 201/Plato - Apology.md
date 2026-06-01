@@ -88,11 +88,13 @@ And to these
 
 περὶ μὲν οὖν ὧν οἱ πρῶτοί μου κατήγοροι κατηγόρουν αὕτη ἔστω ἱκανὴ ἀπολογία πρὸς ὑμᾶς: πρὸς δὲ Μέλητον τὸν ἀγαθὸν καὶ φιλόπολιν, ὥς φησι, καὶ τοὺς ὑστέρους μετὰ ταῦτα πειράσομαι ἀπολογήσασθαι. αὖθις γὰρ δή, ὥσπερ ἑτέρων τούτων ὄντων κατηγόρων, λάβωμεν αὖ τὴν τούτων ἀντωμοσίαν. ἔχει δέ πως ὧδε: Σωκράτη φησὶν ἀδικεῖν τούς τε νέους διαφθείροντα καὶ θεοὺς οὓς ἡ πόλις
 
-So concerning 
+Therefore, concerning the things my first accusers were accusing me of, let this be a sufficient defense before you. And against Meletus—the "good and city-loving" man, as he says—and the later ones after this, I will try to defend myself. For indeed, once again, just as if these were different accusers, let us take up their oath in turn. It goes somewhat like this: It says Socrates does wrong by corrupting the young men, and [not believing in] the gods whom the city
 
 24c
 νομίζει οὐ νομίζοντα, ἕτερα δὲ δαιμόνια καινά. τὸ μὲν δὴ ἔγκλημα τοιοῦτόν ἐστιν: τούτου δὲ τοῦ ἐγκλήματος ἓν ἕκαστον ἐξετάσωμεν.
 φησὶ γὰρ δὴ τοὺς νέους ἀδικεῖν με διαφθείροντα. ἐγὼ δέ γε, ὦ ἄνδρες Ἀθηναῖοι, ἀδικεῖν φημι Μέλητον, ὅτι σπουδῇ χαριεντίζεται, ῥᾳδίως εἰς ἀγῶνα καθιστὰς ἀνθρώπους, περὶ πραγμάτων προσποιούμενος σπουδάζειν καὶ κήδεσθαι ὧν οὐδὲν τούτῳ πώποτε ἐμέλησεν: ὡς δὲ τοῦτο οὕτως ἔχει, πειράσομαι καὶ ὑμῖν ἐπιδεῖξαι. καί μοι δεῦρο, ὦ Μέλητε, εἰπέ: ἄλλο τι ἢ
+
+recognizes, not recognizing [them myself], but rather other new divine things." The charge, then, is of such a kind. Now, let us examine each single part of this charge. For indeed, he says that I do wrong by corrupting the young. But I, at least, O Athenian men, say that Meletus does wrong, because he makes a joke in earnest, easily bringing people to trial, pretending to be serious and concerned about matters of which nothing has ever yet mattered to this man. And that this is so, I will try to demonstrate to you as well. And tell me here, O Meletus:
 
 24d
 περὶ πλείστου ποιῇ ὅπως ὡς βέλτιστοι οἱ νεώτεροι ἔσονται;
@@ -101,6 +103,8 @@ So concerning
 ἴθι δή νυν εἰπὲ τούτοις, τίς αὐτοὺς βελτίους ποιεῖ; δῆλον γὰρ ὅτι οἶσθα, μέλον γέ σοι. τὸν μὲν γὰρ διαφθείροντα ἐξευρών, ὡς φῄς, ἐμέ, εἰσάγεις τουτοισὶ καὶ κατηγορεῖς: τὸν δὲ δὴ βελτίους ποιοῦντα ἴθι εἰπὲ καὶ μήνυσον αὐτοῖς τίς ἐστιν. —ὁρᾷς, ὦ Μέλητε, ὅτι σιγᾷς καὶ οὐκ ἔχεις εἰπεῖν; καίτοι οὐκ αἰσχρόν σοι δοκεῖ εἶναι καὶ ἱκανὸν τεκμήριον οὗ δὴ ἐγὼ λέγω, ὅτι σοι οὐδὲν μεμέληκεν; ἀλλ᾽ εἰπέ, ὠγαθέ, τίς αὐτοὺς ἀμείνους ποιεῖ;
 
 οἱ νόμοι.
+
+"Isn't it true that you consider it of highest importance how the younger men will be as good as possible?" "I certainly do." "Come then now, tell these men, who makes them better? For it is clear that you know, since it is a concern to you at least. For having found out the one corrupting them—as you say, me—you bring me before these very men here and accuse me; but the one indeed making them better, come, tell and point out to them who it is. —Do you see, O Meletus, that you are silent and are not able to speak? And yet does it not seem to you to be shameful, and a sufficient proof of exactly what I say, that nothing has mattered to you? But tell us, my good man, who makes them better?" "The laws."
 
 24e
 ἀλλ᾽ οὐ τοῦτο ἐρωτῶ, ὦ βέλτιστε, ἀλλὰ τίς ἄνθρωπος, ὅστις πρῶτον καὶ αὐτὸ τοῦτο οἶδε, τοὺς νόμους;
@@ -116,6 +120,8 @@ So concerning
 ἅπαντες.
 
 εὖ γε νὴ τὴν Ἥραν λέγεις καὶ πολλὴν ἀφθονίαν τῶν ὠφελούντων. τί δὲ δή; οἱ δὲ ἀκροαταὶ βελτίους ποιοῦσιν
+
+"But I do not ask this, my excellent man, but what man [makes them better], who first of all knows this very thing itself, the laws?" "These men, O Socrates, the jurymen." "How do you mean, O Meletus? Are these men here able to educate the young and do they make them better?" "Most certainly." "Whether all [of them], or some of them, but others not?" "All." "You speak well indeed, by Hera, and of a great abundance of those who benefit [the youth]. But what then? Do the listeners make them better...
 
 25a
 ἢ οὔ;
@@ -135,6 +141,8 @@ So concerning
 
 πολλήν γέ μου κατέγνωκας δυστυχίαν. καί μοι ἀπόκριναι: ἦ καὶ περὶ ἵππους οὕτω σοι δοκεῖ ἔχειν; οἱ μὲν
 
+...or not?" 
+"These ones also."
 
 
 
