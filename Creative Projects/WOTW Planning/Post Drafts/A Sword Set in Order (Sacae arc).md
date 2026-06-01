@@ -46,7 +46,7 @@ Had something in Ito begun to shift? *No, perhaps the solitude of the plains has
 
 *Ito, my silly boy--just sit and feel. You don't have to fight everything, you know. Just feel the breeze for a little bit, and breathe.*
 
-
+Luci was right, her voice calling to him from the depths of his mind. 
 
 _____
 

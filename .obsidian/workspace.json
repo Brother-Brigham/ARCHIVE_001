@@ -49,8 +49,7 @@
               "title": "Plato - Apology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,11 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a536a13cdf00f58b",
+  "active": "a1a6e115a668152e",
   "lastOpenFiles": [
-    "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
+    "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
     "Academic Vault/Course Notes/S26/CYBER 301/Notes for Alex.md",
+    "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
     "Academic Vault/Course Notes/S26/CYBER 301/TCPView Lab.md",
     "Academic Vault/Course Notes/S26/CYBER 301/Wireshark Lab.md",
     "Academic Vault/Course Notes/S26/CYBER 301/NMAP Lab.md",
@@ -247,7 +247,6 @@
     "Bases/Music.base",
     "Bases/Movies & TV.base",
     "Bases/Games.base",
-    "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
     "Journal Entries/Goals for 2026.md",
     "Academic Vault/Judas Project.md",
     "Attachments/IMG_4309.jpeg",

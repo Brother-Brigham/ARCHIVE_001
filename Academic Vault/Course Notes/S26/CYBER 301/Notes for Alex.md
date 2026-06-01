@@ -131,4 +131,7 @@ Violations of this policy, whether intentional or accidental, may result in disc
 **Software Inventory Lab**
 - Don't inventory more than 100 items.
 - Follow the lab document and submit it by the deadline.
-- Use AI for as much as possible (it is especially useful for finding license info, whether the software is outdated, etc.)
+- Use AI for as much as possible (it is especially useful for finding license info, whether the software is outdated, etc
+## June 1 Class
+**4.3 Topic Review**
+- 
