@@ -134,4 +134,9 @@ Violations of this policy, whether intentional or accidental, may result in disc
 - Use AI for as much as possible (it is especially useful for finding license info, whether the software is outdated, etc
 ## June 1 Class
 **4.3 Topic Review**
-- 
+- OSINT
+	- osintframework.com
+- Dark Web
+	- Tor Browser
+		- Creates anonymity by routing traffic through a number of nodes to obscure user IP
+	- 
