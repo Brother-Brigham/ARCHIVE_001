@@ -104,7 +104,7 @@ recognizes, not recognizing, but rather other new divinities." The charge, then,
 
 οἱ νόμοι.
 
-...consider it of highest importance how the younger men will be as good as possible? "I certainly do." "Come then now, tell these men, who makes them better? For it is clear that you know, since it is a concern to you at least. For having found out the one corrupting them—as you say, me—you bring me before these very men here and accuse me; but the one indeed making them better, come, tell and point out to them who it is. —Do you see, O Meletus, that you are silent and are not able to speak? And yet does it not seem to you to be shameful, and a sufficient proof of exactly what I say, that nothing has mattered to you? But tell us, my good man, who makes them better?" "The laws."
+...consider it of highest importance how the younger men will be as good as possible? "I certainly do." "Come then now, tell these men, who makes them better? For it is clear that you know, since it is a concern to you at least. For having found out the one corrupting them—as you say, me—you bring me before these very men here and accuse me; but the one indeed making them better, come, tell and reveal to them who it is. —Do you see, O Meletus, that you are silent and are not able to speak? And yet does it not seem to you to be shameful, and a sufficient proof of exactly what I say, that nothing has mattered to you? But tell us, my good man, who makes them better?" "The laws."
 
 24e
 ἀλλ᾽ οὐ τοῦτο ἐρωτῶ, ὦ βέλτιστε, ἀλλὰ τίς ἄνθρωπος, ὅστις πρῶτον καὶ αὐτὸ τοῦτο οἶδε, τοὺς νόμους;
@@ -121,7 +121,7 @@ recognizes, not recognizing, but rather other new divinities." The charge, then,
 
 εὖ γε νὴ τὴν Ἥραν λέγεις καὶ πολλὴν ἀφθονίαν τῶν ὠφελούντων. τί δὲ δή; οἱ δὲ ἀκροαταὶ βελτίους ποιοῦσιν
 
-"But I do not ask this, my excellent man, but what man [makes them better], who first of all knows this very thing itself, the laws?" "These men, O Socrates, the jurymen." "How do you mean, O Meletus? Are these men here able to educate the young and do they make them better?" "Most certainly." "Whether all [of them], or some of them, but others not?" "All." "You speak well indeed, by Hera, and of a great abundance of those who benefit [the youth]. But what then? Do the listeners make them better...
+"But I do not ask this, O best one, but what man, who first of all knows this very thing itself, the laws?" "These men, O Socrates, the jurymen." "How do you mean, O Meletus? Are these men here able to educate the young and do they make them better?" "Most certainly." "All of these, or some of these, or none of these?" "All." "You speak well indeed, by Hera, and of a great abundance of those who benefit. But what then? Do the listeners make them better...
 
 25a
 ἢ οὔ;
@@ -143,6 +143,8 @@ recognizes, not recognizing, but rather other new divinities." The charge, then,
 
 ...or not?" 
 "These ones also."
+
+
 
 
 
