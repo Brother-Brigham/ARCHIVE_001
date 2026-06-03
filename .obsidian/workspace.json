@@ -49,7 +49,8 @@
               "title": "Plato - Apology"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,16 +225,19 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a1a6e115a668152e",
+  "active": "52ce3806bb5bb177",
   "lastOpenFiles": [
+    "Academic Vault/Course Notes/S26/ENG 452/Textbook Exercises.md",
+    "Academic Vault/Course Notes/S26/ENG 452/Untitled.md",
+    "Academic Vault/Course Notes/S26/ENG 452/Portfolio Planning.md",
+    "Academic Vault/Course Notes/S26/AI 201",
+    "Academic Vault/Course Notes/S26/Untitled.md",
+    "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
     "Academic Vault/Course Notes/S26/AI 101/W07 Notes.md",
     "Attachments/Pasted image 20260602094805.png",
     "Attachments/Pasted image 20260602094627.png",
     "Academic Vault/Course Notes/S26/AI 101/W06 Notes.md",
-    "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
     "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
-    "Academic Vault/Course Notes/S26/ENG 452/Portfolio Planning.md",
-    "Academic Vault/Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Academic Vault/Course Notes/S26/ENG 452/Contractors Flyer Brainstorming.md",
     "Academic Vault/Course Notes/S26/CYBER 301/Notes for Alex.md",
     "conflict-files-obsidian-git.md",
@@ -259,12 +263,10 @@
     "Attachments/IMG_4308.jpeg",
     "Creative Projects/Red Ivy Records/Concepts.base",
     "Index.md",
-    "Academic Vault MOC.md",
     "Academic Vault/Course Notes/S26/REL 351",
     "Untitled.base",
     "Academic Vault/Course Notes/S26/GREEK 201",
     "Bases/Music",
-    "Bases/Games",
     "Attachments/Notes_251227_091550_2c5.png",
     "Untitled.canvas",
     "Attachments/IMG_4051.png",
