@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +225,10 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "52ce3806bb5bb177",
+  "active": "a7634063c36c1e75",
   "lastOpenFiles": [
-    "Academic Vault/Course Notes/S26/ENG 452/Portfolio Planning.md",
     "Academic Vault/Course Notes/S26/AI 201/W07 Notes.md",
+    "Academic Vault/Course Notes/S26/ENG 452/Portfolio Planning.md",
     "Academic Vault/Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Academic Vault/Course Notes/S26/ENG 452/Untitled.md",
     "Academic Vault/Course Notes/S26/AI 201",
