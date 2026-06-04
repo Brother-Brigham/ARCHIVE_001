@@ -147,6 +147,7 @@ recognizes, not recognizing, but rather other new divinities." The charge, then,
 
 
 
+
 ---
 ### Section 18b
 
