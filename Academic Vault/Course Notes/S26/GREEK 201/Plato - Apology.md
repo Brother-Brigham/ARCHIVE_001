@@ -55,7 +55,7 @@ And please, O men of Athens, do not make an uproar, not even if I seem to you to
 
 
 20d6
-For I, O men of Athens, by nothing but wisdom of some sort I have acquired this name. Just what sort of wisdom is this? The very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. And perhaps these, who have spoken just now, are wise with a certain greater wisdom than human wisdom, else I don't know what to say. For I at least do not understand it, but whoever says I do both lies and speaks for the purpose of slandering me. And please, O Men of Athens, do not make an uproar, not even if I appear to boast to you; for the account which I am going to give is not mine, 
+For I, O men of Athens, by nothing but wisdom of some sort I have acquired this name. Just what sort of wisdom is this? The very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. And perhaps these, who have spoken just now, are wise with a certain greater wisdom than human wisdom, else I don't know what to say. For I at least do not understand it, but whoever says I do both lies and speaks for the purpose of slandering me. And please, O Men of Athens, do not make an uproar, not even if I appear to boast to you; for the account which I am going to give is not mine, but I shall refer to you a speaker that is worth considering. 
 
 20e
 
