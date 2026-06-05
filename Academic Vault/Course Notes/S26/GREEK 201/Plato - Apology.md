@@ -31,6 +31,7 @@ But those others are more terrible, O men, who of you the majority from childhoo
 ὑμῶν ἐξελέσθαι τὴν διαβολὴν ἣν ὑμεῖς ἐν πολλῷ χρόνῳ ἔσχετε ταύτην ἐν οὕτως ὀλίγῳ χρόνῳ. βουλοίμην μὲν οὖν ἂν τοῦτο οὕτως γενέσθαι, εἴ τι ἄμεινον καὶ ὑμῖν καὶ ἐμοί, καὶ πλέον τί με ποιῆσαι ἀπολογούμενον: οἶμαι δὲ αὐτὸ χαλεπὸν εἶναι, καὶ οὐ πάνυ με λανθάνει οἷόν ἐστιν. ὅμως τοῦτο μὲν ἴτω ὅπῃ τῷ θεῷ φίλον, τῷ δὲ νόμῳ πειστέον καὶ ἀπολογητέον.
 
 
+
 19c8
 but in fact, O men of Athens, I have no share in these things.
 
@@ -53,8 +54,8 @@ And please, O men of Athens, do not make an uproar, not even if I seem to you to
 20c
 
 
-20d
-
+20d6
+For I, O men of Athens, by nothing but wisdom of some sort I have acquired this name. Just what sort of wisdom is this? The very wisdom which is perhaps human wisdom; for in reality I am likely to be this kind of wise. And perhaps these, who have spoken just now,  
 
 20e
 
