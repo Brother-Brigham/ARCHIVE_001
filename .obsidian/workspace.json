@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
+                "file": "Creative Projects/WOTW Planning/ito-agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Sword Set in Order (Sacae arc)"
+              "title": "ito-agent"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +239,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a7634063c36c1e75",
+  "active": "a1a6e115a668152e",
   "lastOpenFiles": [
-    "Creative Projects/WOTW Planning/Ito Kai.md",
-    "Academic Vault/Course Notes/S26/AI 201/W07 Notes.md",
+    "Creative Projects/WOTW Planning/ito-history.md",
+    "Creative Projects/WOTW Planning/ito-agent.md",
     "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
     "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
+    "Creative Projects/WOTW Planning/Ito Kai.md",
+    "Academic Vault/Course Notes/S26/AI 201/W07 Notes.md",
     "Academic Vault/Course Notes/S26/ENG 452/Portfolio Planning.md",
     "Academic Vault/Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Academic Vault/Course Notes/S26/ENG 452/Untitled.md",
@@ -268,12 +270,10 @@
     "Journal Entries/Weight Loss Plan.md",
     "Creative Projects/Division Go-Bag.md",
     "Creative Projects/Diplomacy Planning.md",
-    "Creative Projects/Awakening Apotheosis Team Planner.md",
     "Bases/Bookshelf.base",
     "Bases/Music.base",
     "Bases/Movies & TV.base",
     "Bases/Games.base",
-    "Journal Entries/Goals for 2026.md",
     "Attachments/IMG_4309.jpeg",
     "Attachments/IMG_4308.jpeg",
     "Creative Projects/Red Ivy Records/Concepts.base",
