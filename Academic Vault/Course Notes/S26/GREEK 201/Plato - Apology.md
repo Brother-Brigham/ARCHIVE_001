@@ -144,6 +144,11 @@ consider it of highest importance how the younger men will be as good as possibl
 "These ones also."
 
 
+p. 46
+But indeed, O men of Athens, that I am not unjust according to the charge of Meletus, seems to me not to be a matter requiring much defense, but these things also are sufficient; this and in the former parts of the speech, 
+
+p. 48
+
 
 
 
