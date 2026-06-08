@@ -36,21 +36,19 @@ Lighting the small fire he had built as he set camp, Ito continued drilling with
 Satisfied and spent, Ito returned his blade to its sheath and laid on his bedroll, watching his fire burn out before drifting to sleep.
 (265 words)
 
------
-
-*Post where Ito interacts with Luci’s voice*
+---
 
 The night went quickly, eventlessly, just as Ito liked. It was safer that way, or so he thought. The possibility that the calm merely preceded some new chaos was ever-present, but Ito felt confident that his abilities could see him through in at least some pieces. Such had happened before, anyway. His mind cast itself back to that village in Worde, where he'd so thoughtlessly throw himself into battle. He couldn't remember if he had ever learned the names of those other two who had fought on his side. Certain echoes came from his conversation with the troubadour that saved his life right after. *Was Inese her name?* Her words about killing, saving, and his fool's errand on that day struck him now more than they had back then. Perhaps she was right, after all? Ito was unsure; fighting, killing, and surviving had been all he had known for some time, now; even as a boy, though he knew life and a quiet, peaceful existence, still he trained for war. 
 
 Had something in Ito begun to shift? *No, perhaps the solitude of the plains has brought this reflection on me.* It was awfully quiet out there; only the sound of the wind sweeping through the grass and the feeling of the breeze over his skin touched his senses. The vastness of the plains, their emptiness, made him feel small. Even within himself, it felt as though the core of his being had shrunken down and settled somewhere near his heart.
 
-*Ito, my silly boy--just sit and feel. You don't have to fight everything, you know. Just feel the breeze for a little bit, and breathe.*
-
-Luci was right, her voice calling to him from the depths of his mind. 
+Ito, my silly boy--just sit and feel. You don't have to fight everything, you know. Just feel the breeze for a little bit, and breathe.
 
 _____
 
 *Post where [[Theos Aletheios|Theos]] is introduced.* “Tell me, boy; you hear a ghost too, don’t you?”
+
+
 
 _____
 
