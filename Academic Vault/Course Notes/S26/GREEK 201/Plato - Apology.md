@@ -147,7 +147,16 @@ consider it of highest importance how the younger men will be as good as possibl
 p. 46
 But indeed, O men of Athens, that I am not unjust according to the charge of Meletus, seems to me not to be a matter requiring much defense, but these things also are sufficient; this and in the former parts of the speech, 
 
+And what I was saying also in the previous remarks, that much hatred has arisen for me and against many people, know well that it is true. And this is what will convict me, if indeed it convicts [me]—not Meletus nor Anytus, but the slander and envy of the many. Which things indeed have convicted many other good men too, and I think will also convict [them]; and there is no danger that it will stop with me.
+
+Perhaps, then, someone might say: "Are you not then ashamed, Socrates, of having pursued such a pursuit from which you are now in danger of dying?" But I would reply to this person with a just argument: "You do not speak well, sir, if you think a man ought to calculate the risk of living or dying, [a man] of whom there is even some small use, but [if you think he] ought not to look to that alone when he acts: whether he acts justly or unjustly, and doing the deeds of a good man or a bad one. For by your reasoning, those of the demigods who died at Troy would be worthless, both the others and especially the son of Thetis, who so despised danger in comparison to enduring anything shameful that, when his mother—being a goddess—spoke to him as he was eager to kill Hector, [she said] something like this, as I think:"
+
 p. 48
+"My child, if you avenge the murder of Patroclus your comrade and kill Hector, you yourself will die—for straightway," she says, "after Hector, your doom is certain"—but he, having heard this, made light of death and danger, fearing much more to live as a coward and not to avenge his friends. "Straightway," he says, "let me die, having inflicted justice upon the wrongdoer, so that I do not remain here a laughingstock beside the curved ships, a burden upon the earth." Do you think he thought of death and danger?
+
+For this is how it stands, men of Athens, in truth: wherever anyone stations himself, thinking it to be best, or is stationed by a commander, there it is necessary, as it seems to me, to remain and face danger, calculating nothing, neither death nor anything else, before dishonor.
+
+I therefore would have wrought dreadful deeds, men of Athens, if—when the commanders stationed me, whom you chose to command me, both at Potidaea and at Amphipolis and at Delium—then indeed I remained where they stationed me, just as anyone else would, and risked dying; but when the god stations [me], as I thought and believed, that I must live practicing philosophy and examining myself and others, there, out of fear of either death or any other thing whatsoever, I should desert my post. It would be dreadful indeed, and in truth then someone might justly bring me into a court of law, on the grounds that I do not believe gods exist, since I would be disobeying the oracle and fearing death and thinking myself to be wise when I am not.
 
 
 
