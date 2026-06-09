@@ -156,6 +156,14 @@ For this is how it stands, men of Athens, in truth: wherever anyone stations him
 
 I therefore would have done terrible deeds, men of Athens, if—when the commanders stationed me, whom you chose to command me, both at Potidaea and at Amphipolis and at Delium—then indeed I remained where they stationed me, just as anyone else would, and risked dying; but when the god stations [me], as I thought and believed, that I must live practicing philosophy and examining myself and others, there, out of fear of either death or any other thing whatsoever, I should desert my post. It would be dreadful indeed, and in truth then someone might justly bring me into a court of law, on the grounds that I do not believe gods exist, since I would be disobeying the oracle and fearing death and thinking myself to be wise when I am not.
 
+p. 50
+For to fear death, O men, is surely nothing else than to think oneself to be wise when one is not; for it is to think one knows what one does not know. For no one knows whether death actually happens to be the greatest of all goods for a human being, but they fear it as if they knew well that it is the greatest of evils. And yet, how is this not that reprehensible ignorance, that of thinking one knows what one does not know?
+
+But I, gentlemen, perhaps differ from the majority of human beings in this and in this respect, and if indeed I should say that I am wiser than anyone in anything, it would be in this: that because I do not know sufficiently about the things in Hades, so also I think that I do not know. But to do injustice and to disobey the better person, both god and human, I know that this is evil and shameful. Therefore, in preference to the evils which I know are evils, I will never fear nor flee the things which I do not know, whether they even happen to be good.
+
+Consequently, not even if you acquit me now, refusing to believe Anytus—who said that either it was necessary that I not come here in the first place, or, since I did come, that it is not possible not to kill me, telling you that if I should escape, right now all your sons, practicing what Socrates teaches, will be completely corrupted,—
+
+
 
 
 
