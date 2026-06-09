@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Vault/Course Notes/S26/AI 201/W07 Notes.md",
+                "file": "Academic Vault/Course Notes/S26/AI 201/W08 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W07 Notes"
+              "title": "W08 Notes"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,16 +239,17 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a7634063c36c1e75",
+  "active": "52ce3806bb5bb177",
   "lastOpenFiles": [
-    "Theology & Scripture/Brigham Young JoD Archive.md",
+    "Academic Vault/Course Notes/S26/AI 201/W07 Notes.md",
+    "Academic Vault/Course Notes/S26/AI 201/W08 Notes.md",
     "Creative Projects/WOTW Planning/Post Drafts/A Sword Set in Order (Sacae arc).md",
+    "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
+    "Theology & Scripture/Brigham Young JoD Archive.md",
     "Creative Projects/WOTW Planning/Ito Kai.md",
     "Creative Projects/WOTW Planning/ito-agent.md",
-    "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
     "Academic Vault/Course Notes/S26/GREEK 201/Plato Apology Submission.md",
     "Creative Projects/WOTW Planning/ito-history.md",
-    "Academic Vault/Course Notes/S26/AI 201/W07 Notes.md",
     "Academic Vault/Course Notes/S26/ENG 452/Portfolio Planning.md",
     "Academic Vault/Course Notes/S26/ENG 452/Textbook Exercises.md",
     "Academic Vault/Course Notes/S26/ENG 452/Untitled.md",
@@ -269,7 +270,6 @@
     "Rule of Three.md",
     "Theology & Scripture MOC.md",
     "Work Samples.md",
-    "Journal Entries/Weight Loss Plan.md",
     "Bases/Bookshelf.base",
     "Bases/Music.base",
     "Bases/Movies & TV.base",
