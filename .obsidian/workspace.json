@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,10 +253,10 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "2eea0351416f13f0",
+  "active": "a7634063c36c1e75",
   "lastOpenFiles": [
-    "Academic Vault/Judas Project.md",
     "Academic Vault/Judas Writeup.md",
+    "Academic Vault/Judas Project.md",
     "Academic Vault/Course Notes/S26/GREEK 201/Plato - Apology.md",
     "Theology & Scripture MOC.md",
     "Theology & Scripture/Scripture Study Notes/Glass.md",
