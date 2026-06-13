@@ -7,7 +7,7 @@ I went with a Catholic-style rosary.
     (number of beads, sections, repetitions)
 I was initially just going to use beads for each Hail Mary, Our Father, and the Cross, but tying knots to separate each was too time-consuming, so I used additional beads to divide the parts. In total, I used one cross, 53 black beads for each Hail Mary, six white beads for the Our Fathers, and twelve olive wood beads to divide all of the sections.
 - Why did you choose this design?
-I chose this design because 
+I chose this design because it seemed like a simple, reverent, 
 
 ---
 
