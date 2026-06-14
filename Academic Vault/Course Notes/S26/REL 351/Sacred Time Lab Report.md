@@ -38,9 +38,9 @@ As I repeated the pattern over time, I found myself able to make the repetitions
 - What might this practice train someone to do?
 This practice might train someone to transition their mind from the things of the profane world toward the things of the sacred world. Though I haven't prayed the rosary, I can imagine each repeated prayer (especially if a practitioner proceeds through the entire rosary) moves the user one step closer to a holier space.
 - How could repetition shape a person’s attention or memory?
-I think repetition could shape a person's attention and memory by training their mind to respond to certain stimuli. 
+I think repetition could shape a person's attention and memory by training their mind to respond to certain stimuli. Through persistent repetition, a person could shape their attention in such a way that they can enter sacred states of mind sooner and more reliably than when they first begin the practice.
 - What kind of problem might this type of practice address?
-
+This type of practice might address the problem of finding sacredness in the busyness of daily life. 
 
 ---
 
