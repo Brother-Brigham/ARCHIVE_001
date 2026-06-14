@@ -40,7 +40,7 @@ This practice might train someone to transition their mind from the things of th
 - How could repetition shape a person’s attention or memory?
 I think repetition could shape a person's attention and memory by training their mind to respond to certain stimuli. Through persistent repetition, a person could shape their attention in such a way that they can enter sacred states of mind sooner and more reliably than when they first begin the practice.
 - What kind of problem might this type of practice address?
-This type of practice might address the problem of finding sacredness in the busyness of daily life. 
+This type of practice might address the problem of finding sacredness in the busyness of daily life. Engaging in such repetitive behaviour causes the practitioner to consciously slow down and intentionally engage with their spirituality for a meaningful amount of time.
 
 ---
 
@@ -51,3 +51,5 @@ Write 4–6 sentences:
 - What did you learn about how repetition functions in religion?
 - What surprised you during this experience?
 - How did this change the way you think about religious practices?
+
+I learned that conscious repetition helps move the practitioner into sacred states of mind, where there is an increased capacity to connect with the divine in a sense noticeably different from how most people feel that connection in daily life. One of the things that surprised me most about this experience is the persistent return to my mind of George Harrison's song, "P2 Vatican Blues (Last Saturday Night)", every time I hold my rosary. In the song, George makes reference to the rosary prayers with a chorus line, "one Our Father, three Hail Marys / each Saturday night". This song probably comes to my mind because I've been listening to the album that song is from numerous times over the last decade, engaging in my own sort of repetition with the rosary before ever touching one. Having had this experience, I can deeply appreciate how someone who experiences the rosary in the intended way is able to use it to experience sacredness for the time they interact with the object. It's changed my mind from the classic LDS thinking I grew up with, that things such as this or crucifixes are somehow bad/idolatrous/sinful, to viewing the practice with empathy and respect despite the fact that I am experiencing a Beatle through the rosary instead of experiencing God. In addition, when discussing this experience with my wife, she wonderfully pointed out that we have a tendency to hate on repetitious prayers (treating them as "vain repetitions"), when the most powerful prayers in our faith, the sacrament prayers, must be repeated with exactness every week.
