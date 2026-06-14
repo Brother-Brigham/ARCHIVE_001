@@ -36,7 +36,7 @@ As I repeated the pattern over time, I found myself able to make the repetitions
 ## **Part 4: Patterns and Meaning**
 
 - What might this practice train someone to do?
-This practice might train someone to transition their mind from the things of the profane world toward the things of the sacred world. Though I haven't prayed the rosary, I can imagine each repeated prayer (especially if a practitioner proceeds through the entire rosary) moves the user one step 
+This practice might train someone to transition their mind from the things of the profane world toward the things of the sacred world. Though I haven't prayed the rosary, I can imagine each repeated prayer (especially if a practitioner proceeds through the entire rosary) moves the user one step closer to a holier space.
 - How could repetition shape a person’s attention or memory?
 
 - What kind of problem might this type of practice address?
