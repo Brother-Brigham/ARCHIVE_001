@@ -189,4 +189,4 @@ Violations of this policy, whether intentional or accidental, may result in disc
 	- Ask AI to give you realistic examples (10 or more, as needed) of common Security+ test questions about CVSS scores.
 	- Be wary of the test questions including made-up letters in the CVSS classifications to throw you off.
 
-## June 15 Class
+## ___ ___ Class
