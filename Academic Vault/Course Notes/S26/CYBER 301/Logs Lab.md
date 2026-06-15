@@ -256,3 +256,4 @@ Drops by Country:
       1 El Salvador
 What else might be important?
 	Look at column `26` (Destination Port) and column `15` (Application). If you know _which_ ports are being hit (like port 22 for SSH or port 3389 for RDP), you can tell whether the attacker is trying to break into secure shells, web apps, or databases. Column `2` (Receive Time) is also vital to track if these drops happen all at once (suggesting a scripted brute-force attack) or spread out over days.
+
