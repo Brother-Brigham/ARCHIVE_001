@@ -48,7 +48,7 @@ _____
 
 *Post where [[Theos Aletheios|Theos]] is introduced.* “Tell me, boy; you hear a ghost too, don’t you?”
 
-
+Ito laid back into the grass, resting his head on the hands behind his head and gazing up into the sky. "Alright, Luci, "
 
 _____
 
