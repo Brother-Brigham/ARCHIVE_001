@@ -188,3 +188,5 @@ Violations of this policy, whether intentional or accidental, may result in disc
 - You'll get a test question that gives you a CVSS and you'll need to be familiar with how CVSS works in order to get it right.
 	- Ask AI to give you realistic examples (10 or more, as needed) of common Security+ test questions about CVSS scores.
 	- Be wary of the test questions including made-up letters in the CVSS classifications to throw you off.
+
+## ___ ___ Class
