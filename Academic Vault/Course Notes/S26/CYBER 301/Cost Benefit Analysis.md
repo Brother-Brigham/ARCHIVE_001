@@ -1,5 +1,10 @@
 Identify EF, ARO, and compute SLE and ALE for each scenario. Evaluate the cost benefit of the proposed controls to justify their implementation.
 
+Exposure Factor (EF) = Percent of Asset Affected
+Annual Rate of Occurrence (ARO) = How often the incident occurs annually
+Single Loss Expectancy (SLE) = Asset Value * Exposure Factor
+Annual Loss Expectancy (ALE) = Single Loss Expectancy * Annual Rate of Occurrence
+
 **Scenario A: Company Laptops**
 
 A mid-sized marketing firm has noticed an uptick in laptop theft. In the last year, five laptops disappeared from employee desks. Each laptop costs approximately $2,000, and recovery and re-imaging adds roughly another $2,000 per incident. An external consultant has proposed a laptop locking and monitoring system for $1,500 per year, which is claimed to reduce the risk from five incidents a year down to roughly one.
