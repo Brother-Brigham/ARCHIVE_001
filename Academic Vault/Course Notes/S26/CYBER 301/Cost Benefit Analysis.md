@@ -63,11 +63,11 @@ A financial services company has been struggling with phishing attacks, costing 
 
 A regional law firm suffered a ransomware attack recently, costing approximately $100,000. Currently, incidents occur roughly once per year. A cybersecurity vendor has offered a detection service for $18,000 per year that may reduce incidents to roughly one every four years.
 
-- **EF:** 100% (The full cost of the ransomware incident is realized)    
+- **EF:** 100% (The full cost of the ransomware incident is realized) 
 - **ARO:** 1 (Current) | 0.25 (Proposed: 1 incident / 4 years)
 - **SLE:** $100,000
 - **ALE:** $100,000 (Current: $100,000 * 1) | $25,000 (Proposed: $100,000 * 0.25)
-- **Cost Benefit Analysis:** The current ALE is $100,000. The proposed control reduces the ALE to $25,000, creating $75,000 in risk reduction. Subtracting the $18,000 control cost yields a **net benefit of $57,000 per year**. _Conclusion: Implementation is justified._
+- **Cost Benefit Analysis:** The current ALE is $100,000. The proposed control reduces the ALE to $25,000, creating $75,000 in risk reduction. Subtracting the $18,000 control cost yields a net benefit of $57,000 per year.
 
 **Scenario D: Insider Threat Monitoring**
 
@@ -77,7 +77,7 @@ A medical research company maintains a database worth roughly $250,000. An insid
 - **ARO:** 0.5 (Current: 1 incident / 2 years) | 0.1 (Proposed: 1 incident / 10 years)
 - **SLE:** $62,500 ($250,000 * 0.25)
 - **ALE:** $31,250 (Current: $62,500 * 0.5) | $6,250 (Proposed: $62,500 * 0.1)
-- **Cost Benefit Analysis:** The current ALE is $31,250. The control reduces the ALE to $6,250, saving $25,000. Subtracting the $15,000 control cost yields a **net benefit of $10,000 per year**. _Conclusion: Implementation is justified._
+- **Cost Benefit Analysis:** The current ALE is $31,250. The control reduces the ALE to $6,250, saving $25,000. Subtracting the $15,000 control cost yields a net benefit of $10,000 per year.
 
 **Scenario E: DoS Attack Mitigation**
 
@@ -87,7 +87,7 @@ An online retailer experiences denial-of-service attacks that cost roughly $15,0
 - **ARO:** 4 (Current) | 1 (Proposed)
 - **SLE:** $15,000
 - **ALE:** $60,000 (Current: $15,000 * 4) | $15,000 (Proposed: $15,000 * 1)
-- **Cost Benefit Analysis:** The current ALE is $60,000. The control lowers it to $15,000, for a savings of $45,000. Subtracting the $25,000 control cost yields a **net benefit of $20,000 per year**. _Conclusion: Implementation is justified._
+- **Cost Benefit Analysis:** The current ALE is $60,000. The control lowers it to $15,000, for a savings of $45,000. Subtracting the $25,000 control cost yields a net benefit of $20,000 per year.
 
 **Scenario F: Fire Suppression System**
 
@@ -97,7 +97,7 @@ A manufacturing plant has equipment valued at roughly $1,000,000, with a potenti
 - **ARO:** 0.01 (Current: 1 incident / 100 years) | 0.001 (Proposed: tenfold reduction, or 1 incident / 1,000 years)
 - **SLE:** $500,000 ($1,000,000 * 0.50)
 - **ALE:** $5,000 (Current: $500,000 * 0.01) | $500 (Proposed: $500,000 * 0.001)
-- **Cost Benefit Analysis:** The current ALE is $5,000. The control lowers the ALE to $500, creating $4,500 in risk reduction. However, the control costs $10,000 per year. Subtracting the cost gives a **net loss of $5,500 per year**. _Conclusion: Implementation is NOT justified from a pure financial perspective._
+- **Cost Benefit Analysis:** The current ALE is $5,000. The control lowers the ALE to $500, creating $4,500 in risk reduction. However, the control costs $10,000 per year. Subtracting the cost gives a net loss of $5,500 per year.
 
 **Scenario G: USB Malware Risk**
 
@@ -107,7 +107,7 @@ A small engineering firm experiences roughly one malware infection per month cau
 - **ARO:** 12 (Current: 1 incident per month) | 3 (Proposed)
 - **SLE:** $5,000
 - **ALE:** $60,000 (Current: $5,000 * 12) | $15,000 (Proposed: $5,000 * 3)
-- **Cost Benefit Analysis:** The current ALE is $60,000. The control lowers it to $15,000, yielding $45,000 in risk reduction. Subtracting the $3,000 control cost leaves a **net benefit of $42,000 per year**. _Conclusion: Implementation is justified._
+- **Cost Benefit Analysis:** The current ALE is $60,000. The control lowers it to $15,000, yielding $45,000 in risk reduction. Subtracting the $3,000 control cost leaves a net benefit of $42,000 per year.
 
 **Scenario H: Securing a Web App Against SQL Injection**
 
@@ -117,4 +117,4 @@ A SaaS company operates a customer portal that, when compromised by SQL injectio
 - **ARO:** 2 (Current) | 0.25 (Proposed: 1 incident / 4 years)
 - **SLE:** $30,000
 - **ALE:** $60,000 (Current: $30,000 * 2) | $7,500 (Proposed: $30,000 * 0.25)
-- **Cost Benefit Analysis:** The current ALE is $60,000. The control lowers it to $7,500, giving $52,500 in risk reduction. Subtracting the $20,000 control cost leaves a **net benefit of $32,500 per year**. _Conclusion: Implementation is justified._
+- **Cost Benefit Analysis:** The current ALE is $60,000. The control lowers it to $7,500, giving $52,500 in risk reduction. Subtracting the $20,000 control cost leaves a net benefit of $32,500 per year.
