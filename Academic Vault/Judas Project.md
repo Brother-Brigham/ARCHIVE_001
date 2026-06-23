@@ -210,8 +210,6 @@ This paper attempts to make sense of the inclusion of Judas Iscariot’s death i
 	- Matthew is the only writer to include Judas’s death as part of the Jesus story. Luke saves it for his discussion of the emerging church. (Klassen, p. 106)
 		- This is where the Discourses of Death dissertation comes in. Why is Judas’s death framed alongside Jesus’s?
 	- Covenant obligation/reciprocal relationship between Jesus and Judas according to Jewish custom at the last supper (Klassen, p. 109-111)
-	- 
-
 ## Views on Suicide
 ### Greco-Roman Views
 
