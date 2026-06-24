@@ -182,5 +182,5 @@ What then is fitting for a poor man, a benefactor, who needs to have leisure for
 
 Perhaps, then, in saying these things to you I seem to speak in a similar way as I did about lamentation and entreaty, acting boldly. But the case is not like that, O men of Athens, but rather like this: I am convinced that I do not willingly wrong any of men, but I do not convince you of this; for we have conversed with each other for a short time. Since, as I think, if you had a law, just as other men do, not to judge concerning death for one day only but for many, you would have been convinced. But as it is, it is not easy to clear oneself of great slanders in a short time. Being convinced, then, that I wrong no one, I am far from going to wrong myself at least, and from speaking against myself, saying that I am worthy of some evil and proposing such a penalty for myself. Fearing what?
 
-p. 78
+p. 80
 
