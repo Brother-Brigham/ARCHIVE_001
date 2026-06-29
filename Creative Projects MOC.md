@@ -16,7 +16,9 @@ My overarching musical and narrative universe.
 ## 🎮 WotW Material
 Planning and mechanics for collaborative fiction and game modification projects.
 * [[Creative Projects/WOTW Planning/Ito WOTW Romhack|Romhack]]
-* [[Awakening Apotheosis Team Planner]]
+
+## ⚔️ Awakening Apotheosis
+* [[Creative Projects/Awakening Apotheosis Team Planner|Team Planner]]
 
 ## 🐉 Dungeons & Dragons
 Character repositories, backstories, and campaign notes.
