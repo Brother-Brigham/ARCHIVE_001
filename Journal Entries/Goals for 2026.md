@@ -1,3 +1,10 @@
+---
+title: Goals for 2026
+tags:
+  - type/journal
+  - area/personal-development
+---
+
 [12 Skills for Every Man](https://youtu.be/AOhHCyvI58E?si=2dTdFixRf8DAkeMS)
 - Strength
 - Combat/Competition

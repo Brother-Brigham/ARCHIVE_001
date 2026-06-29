@@ -1,17 +1,21 @@
 ---
 title: Creative Projects
+tags:
+  - type/moc
+  - area/creative
 ---
+
 # Creative Projects
 
 This is the hub for my worldbuilding, creative writing, game modifications, and tabletop RPG notes. Unlike academic notes, these are living documents that track my creative process and project roadmaps.
 
 ## 🎸 Red Ivy Records
 My overarching musical and narrative universe. 
-* [[Concepts.base|Concepts]]
+* [[Creative Projects/Red Ivy Records/Concepts/ALBUM They Call Me 'The Kid'|Concepts]]
 
 ## 🎮 WotW Material
 Planning and mechanics for collaborative fiction and game modification projects.
-* [[Romhack Planning]]
+* [[Creative Projects/WOTW Planning/Ito WOTW Romhack|Romhack]]
 * [[Awakening Apotheosis Team Planner]]
 
 ## 🐉 Dungeons & Dragons
