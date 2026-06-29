@@ -21,7 +21,9 @@ Planning and mechanics for collaborative fiction and game modification projects.
 ## 🐉 Dungeons & Dragons
 Character repositories, backstories, and campaign notes.
 * **Characters:**
-  * 
+  * [[Creative Projects/D&D/Character Builds/Spencer's Campaign - Sorcerer Build Planning|Sorcerer Build]]
+  * [[Creative Projects/D&D/Character Builds/Spencer's Campaign - Trickster Build Planning|Trickster Build]]
+  * [[Creative Projects/D&D/Character Builds/Spencer's Campaign - Wizard Build Planning|Wizard Build]]
 
 ## 🔗 Intersections
 * *(Placeholder: As the Red Ivy Universe grows, or D&D characters develop new philosophies, this is a great place to link them back to concepts from the [[Theology & Scripture MOC]] or [[Academic Vault MOC]])*

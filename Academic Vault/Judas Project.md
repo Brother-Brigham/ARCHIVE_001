@@ -1,4 +1,7 @@
 # Outlining
+
+**Related:** [[Judas Iscariot, Disciple-Betrayer?]] • [[Current Research]] • [[Theology & Scripture MOC]]
+
 ## Ideas
 - Covenant violation curses
 - Blood atonement connection re: LDS non-scripture materials?
