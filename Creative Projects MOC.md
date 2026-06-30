@@ -11,21 +11,18 @@ This is the hub for my worldbuilding, creative writing, game modifications, and 
 
 ## 🎸 Red Ivy Records
 My overarching musical and narrative universe. 
-* [[Creative Projects/Red Ivy Records/Concepts/ALBUM They Call Me 'The Kid'|Concepts]]
+* [[Creative Projects/Red Ivy Records|Red Ivy Records]]
 
 ## 🎮 WotW Material
 Planning and mechanics for collaborative fiction and game modification projects.
-* [[Creative Projects/WOTW Planning/Ito WOTW Romhack|Romhack]]
+* [[Creative Projects/WOTW Planning|WOTW Planning]]
 
 ## ⚔️ Awakening Apotheosis
 * [[Creative Projects/Awakening Apotheosis Team Planner|Team Planner]]
 
 ## 🐉 Dungeons & Dragons
 Character repositories, backstories, and campaign notes.
-* **Characters:**
-  * [[Creative Projects/D&D/Character Builds/Spencer's Campaign - Sorcerer Build Planning|Sorcerer Build]]
-  * [[Creative Projects/D&D/Character Builds/Spencer's Campaign - Trickster Build Planning|Trickster Build]]
-  * [[Creative Projects/D&D/Character Builds/Spencer's Campaign - Wizard Build Planning|Wizard Build]]
+* [[Creative Projects/Dungeons & Dragons|Dungeons & Dragons]]
 
 ## 🔗 Intersections
 * *(Placeholder: As the Red Ivy Universe grows, or D&D characters develop new philosophies, this is a great place to link them back to concepts from the [[Theology & Scripture MOC]] or [[Academic Vault MOC]])*
