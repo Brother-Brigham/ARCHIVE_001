@@ -1,3 +1,10 @@
+---
+title: Earth
+tags:
+  - type/scripture-study
+  - area/theology
+  - topic/earth
+---
 > [!ldslib] [Genesis 4:11](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=eng&id=p11)
 > 11 And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;
 

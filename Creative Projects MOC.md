@@ -17,12 +17,13 @@ My overarching musical and narrative universe.
 Planning and mechanics for collaborative fiction and game modification projects.
 * [[Creative Projects/WOTW Planning|WOTW Planning]]
 
-## ⚔️ Awakening Apotheosis
-* [[Creative Projects/Awakening Apotheosis Team Planner|Team Planner]]
+## ⚔️ Fire Emblem: Awakening
+* [[Creative Projects/Awakening Apotheosis Team Planner|Apotheosis Playthrough Team Planner]]
 
 ## 🐉 Dungeons & Dragons
 Character repositories, backstories, and campaign notes.
 * [[Creative Projects/Dungeons & Dragons|Dungeons & Dragons]]
 
-## 🔗 Intersections
-* *(Placeholder: As the Red Ivy Universe grows, or D&D characters develop new philosophies, this is a great place to link them back to concepts from the [[Theology & Scripture MOC]] or [[Academic Vault MOC]])*
+## 🔗 IRL Projects
+* [[Division Go-Bag]]
+* [[Rule of Three]]
