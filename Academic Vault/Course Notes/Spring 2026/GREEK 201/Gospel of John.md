@@ -1,7 +1,7 @@
 ## John 1
 16 That from the fullness of him we all received, and grace for grace; 
 17 that the law through Moses given, the grace and the truth through Jesus Christ came to be.
-18 Nobody had seen god at any time; only he, being god-like in the bosom of the father, that made him known.
+18 Nobody had seen a god at any time; only he, being god-like, in the bosom of the father, that made him known.
 19 And this is the testimony of John, when they sent out to him, the Jews out of Jerusalem, priests and Levites in order that they might ask him: “Who are you?”
 20 And he confessed and denied not, and confessed that “I am not the anointed one.”
 21 And they asked him: “Then who? Are you Elias?” And he says, “I am not.
