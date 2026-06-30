@@ -48,7 +48,13 @@ _____
 
 *Post where [[Theos Aletheios|Theos]] is introduced.* “Tell me, boy; you hear a ghost too, don’t you?”
 
-Ito laid back into the grass, resting his head on the hands behind his head and gazing up into the sky. "Alright, Luci, "
+Ito laid back into the grass, resting his head on the hands behind his head and gazing up into the sky. "Alright, Luci, you win." Ito thought back to his old Caelinian instructor again, and the breathing exercise the old man had taught. Ito took a deep breath in, counting to four, then held the breath for another four, exhaled for the same amount of time, and held again. After a few cycles of this box-breathing exercise, Ito could feel his muscles relax and the tension in his joints begin to ease. *It's been so long since I felt like I could relax, Luci. Thanks for the reminder.* 
+
+As if she were there, Ito spoke aloud to his late wife's memory. "What else have I forgotten, Luci? You always catch what I miss." With a strong exhale, Ito sat up, propped up on his hands and looked up at the sky. "I feel so small..." Ito paused, leaning back to rest on his elbows and allowing his head to hang back, his neck totally relaxed. "I'm afraid that out here, I might have to face what I felt losing you." He felt alone again, in a way he had been running from since he first departed Caelin on his journey. His grief haunted him like a ghost, but Ito worried that to face it would mean losing Luci's voice, her presence felt in the depths of his mind. Eyes closed, Ito sighed. "What do you want me to do, my girl?"
+
+Suddenly, a new voice appeared. It was shockingly close, and Ito jumped in surprise, rolling to his feet and facing the source as it spoke. An old man, grey with years, hair and beard unkempt, clothed in robes Ito didn't recognize from any Elibean culture he was familiar with. 
+
+"Tell my, boy; you hear a ghost, too, don't you?"
 
 _____
 

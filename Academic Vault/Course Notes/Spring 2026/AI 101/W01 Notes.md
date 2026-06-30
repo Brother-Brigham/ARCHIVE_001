@@ -1,3 +1,11 @@
+---
+title: W01 Notes
+tags:
+  - type/notes
+  - area/academic
+  - course/ai-101
+---
+
 ## Apr 21 Class
 
 * Professor has funny dad jokes—the eclipse one was my favourite
