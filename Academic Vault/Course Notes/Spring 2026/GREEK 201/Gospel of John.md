@@ -43,4 +43,5 @@
 4. And Jesus says to her: "What is it to me and to you, woman? It is not yet the hour of my coming."
 5. The mother says to the servants of him, "You all, do whatever he might say to you."
 6. And six stone water jars were there, placed in accordance with the purification of the Jews, each holding two or three measures.
-7. 
+7. Jesus says to them: "Fill the jars with water." And they filled them to the brim.
+8. And he says to them: "Now draw and carry to the head-waiter "
