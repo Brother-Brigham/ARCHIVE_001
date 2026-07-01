@@ -35,3 +35,12 @@
 49
 50
 51
+
+## John 2
+1. And the third day there was a wedding in Cana of the Galilee, and the mother of Jesus was there;
+2. and both Jesus and his disciples were invited to the wedding.
+3. And having run out of wine, the mother of Jesus says to him: "They don't have wine."
+4. And Jesus says to her: "What is it to me and to you, woman? It is not yet the hour of my coming."
+5. The mother says to the servants of him, "You all, do whatever he might say to you."
+6. And six stone water jars were there, placed in accordance with the purification of the Jews, each holding two or three measures.
+7. 
