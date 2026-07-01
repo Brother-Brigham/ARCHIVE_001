@@ -41,7 +41,10 @@
 2. and both Jesus and his disciples were invited to the wedding.
 3. And having run out of wine, the mother of Jesus says to him: "They don't have wine."
 4. And Jesus says to her: "What is it to me and to you, woman? It is not yet the hour of my coming."
-5. The mother says to the servants of him, "You all, do whatever he might say to you."
+5. The mother says to the servants of him, "You all, do whatever he says to you."
 6. And six stone water jars were there, placed in accordance with the purification of the Jews, each holding two or three measures.
 7. Jesus says to them: "Fill the jars with water." And they filled them to the brim.
-8. And he says to them: "Now draw and carry to the head-waiter "
+8. And he says to them: "Now draw and carry to the head-waiter." And they brought. 
+9. And when the head-waiter tasted the water that had become wine and he knew not from whence it is, but the servants having drawn the water knew, the head-waiter calls the bridegroom
+10. and says to him: "Every man first places the good wine, then whenever they're drunk, the inferior; you have kept the good wine until now."
+11. 
