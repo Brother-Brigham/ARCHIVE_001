@@ -47,4 +47,17 @@
 8. And he says to them: "Now draw and carry to the head-waiter." And they brought. 
 9. And when the head-waiter tasted the water that had become wine and he knew not from whence it is, but the servants having drawn the water knew, the head-waiter calls the bridegroom
 10. and says to him: "Every man first places the good wine, then whenever they're drunk, the inferior; you have kept the good wine until now."
-11. 
+
+## John 3
+5. And Jesus answered: "Verily of a truth, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
+6. "He having been born of the flesh is fleshly, and him having been born of the spirit is spiritual.
+7. "Don't be surprised at what I said to you; it is necessary for us to be born from above.
+8. "The spirit blows wherever he wishes and you hear his sound, but you do not know from whence he come nor where he goes; thus is everyone who has been born of the spirit."
+9. Nicodemus answered and said to him: "How is it possible to become this?"
+10. Jesus answered and said to him: "You are the teacher of Israel and you don't know these things?
+11. "Verily of a truth I say to you that what we have known, we speak, and what we have seen, we testify, and you all do not receive our testimony.
+12. "If I said to you all earthly things and you all trusted not, how will you all trust if I said heavenly things to you all?
+13. "And no one goes up into the heaven if he descended not from the heaven, the son of man.
+14. "And just as Moses lifted up the serpent in the wilderness, thus it is necessary that the son of man be lifted up, 
+15. "in order that all who trust in him might have eternal life."
+16. "For thus the god loved the cosmos, thus he gave the son, the one and only, in order that all who trust in him might not perish, but have eternal life."
