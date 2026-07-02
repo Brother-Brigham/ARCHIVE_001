@@ -52,8 +52,8 @@
 5. And Jesus answered: "Verily of a truth, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
 6. "He having been born of the flesh is fleshly, and him having been born of the spirit is spiritual.
 7. "Don't be surprised at what I said to you; it is necessary for us to be born from above.
-8. "The spirit blows wherever he wishes and you hear his sound, but you do not know from whence he come nor where he goes; thus is everyone who has been born of the spirit."
-9. Nicodemus answered and said to him: "How is it possible to become this?"
+8. "The spirit blows wherever he wishes and you hear his sound, but you do not know from whence he comes nor where he goes; thus is everyone who has been born of the spirit."
+9. Nicodemus answered and said to him: "How are these things possible?"
 10. Jesus answered and said to him: "You are the teacher of Israel and you don't know these things?
 11. "Verily of a truth I say to you that what we have known, we speak, and what we have seen, we testify, and you all do not receive our testimony.
 12. "If I said to you all earthly things and you all trusted not, how will you all trust if I said heavenly things to you all?
