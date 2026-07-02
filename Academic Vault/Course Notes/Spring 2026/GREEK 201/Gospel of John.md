@@ -57,7 +57,7 @@
 10. Jesus answered and said to him: "You are the teacher of Israel and you don't know these things?
 11. "Verily of a truth I say to you that what we have known, we speak, and what we have seen, we testify, and you all do not receive our testimony.
 12. "If I said to you all earthly things and you all trusted not, how will you all trust if I said heavenly things to you all?
-13. "And no one goes up into the heaven if he descended not from the heaven, the son of man.
+13. "And no one has gone up into the heaven if he, the son of man, descended not from the heaven.
 14. "And just as Moses lifted up the serpent in the wilderness, thus it is necessary that the son of man be lifted up, 
 15. "in order that all who trust in him might have eternal life.
 16. "For thus the god loved the cosmos, thus he gave the son, the one and only, in order that all who trust in him might not perish, but have eternal life.
