@@ -59,5 +59,9 @@
 12. "If I said to you all earthly things and you all trusted not, how will you all trust if I said heavenly things to you all?
 13. "And no one goes up into the heaven if he descended not from the heaven, the son of man.
 14. "And just as Moses lifted up the serpent in the wilderness, thus it is necessary that the son of man be lifted up, 
-15. "in order that all who trust in him might have eternal life."
-16. "For thus the god loved the cosmos, thus he gave the son, the one and only, in order that all who trust in him might not perish, but have eternal life."
+15. "in order that all who trust in him might have eternal life.
+16. "For thus the god loved the cosmos, thus he gave the son, the one and only, in order that all who trust in him might not perish, but have eternal life.
+17. "For the god sent not the son into the cosmos in order that he might condemn the cosmos, but in order that the cosmos might be saved through him.
+18. "He that trusts in him has not been condemned; but he that trusts not is already condemned, because he has not trusted in the name of the one and only son of the god.
+19. "And this condemnation is because the light has come into the cosmos and men loved the dark instead of the light; for the works of them were evil.
+20. "
