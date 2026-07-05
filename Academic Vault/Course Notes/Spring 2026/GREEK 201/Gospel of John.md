@@ -65,3 +65,10 @@
 18. "He that trusts in him has not been condemned; but he that trusts not is already condemned, because he has not trusted in the name of the one and only son of the god.
 19. "And this condemnation is because the light has come into the cosmos and men loved the dark instead of the light; for the works of them were evil.
 20. "
+## John 4
+1. Then as Jesus understood that the Pharisees heard that makes and baptizes many more disciples than John
+2. —although Jesus himself was not baptizing, but his disciples—
+3. He left Judea and went away again into the Galilee.
+4. And it was necessary for him to go through Samaria.
+5. So he came into a town of Samaria called Sychar near the place which Jacob gave to Joseph his son;
+6. And in that place was Jacob’s well. So Jesus
