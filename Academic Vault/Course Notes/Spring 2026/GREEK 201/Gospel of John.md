@@ -75,4 +75,4 @@
 7. A woman of Samaria comes to draw water. Jesus says to her: "Give me something to drink;"
 8. For the his disciples had gone away into the town in order to buy provisions.
 9. Then the Samaritan woman said to him: "How do you, being a Jew, ask of me something to drink, being a Samaritan woman? "For Jews have no dealings with Samaritans."
-10. Jesus answered and said to her: ""
+10. Jesus answered and said to her: "If you knew the gift of the god and who it saying to you: 'give to me something to drink' "
