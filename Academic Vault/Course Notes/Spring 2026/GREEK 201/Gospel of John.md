@@ -69,6 +69,10 @@
 1. Then as Jesus understood that the Pharisees heard that makes and baptizes many more disciples than John
 2. —although Jesus himself was not baptizing, but his disciples—
 3. He left Judea and went away again into the Galilee.
-4. And it was necessary for him to go through Samaria.
+4. And it was necessary for him to go through Samaria.The
 5. So he came into a town of Samaria called Sychar near the place which Jacob gave to Joseph his son;
-6. And in that place was Jacob’s well. So Jesus 
+6. And in that place was Jacob’s well. So Jesus, having become tired from the journey, thus was sitting down at the well; it was about the sixth hour.
+7. A woman of Samaria comes to draw water. Jesus says to her: "Give me something to drink;"
+8. For the his disciples had gone away into the town in order to buy provisions.
+9. Then the Samaritan woman said to him: "How do you, being a Jew, ask of me something to drink, being a Samaritan woman? "For Jews have no dealings with Samaritans."
+10. Jesus answered and said to her: ""
