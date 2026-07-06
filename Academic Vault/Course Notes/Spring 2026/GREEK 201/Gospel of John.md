@@ -73,6 +73,7 @@
 5. So he came into a town of Samaria called Sychar near the place which Jacob gave to Joseph his son;
 6. And in that place was Jacob’s well. So Jesus, having become tired from the journey, thus was sitting down at the well; it was about the sixth hour.
 7. A woman of Samaria comes to draw water. Jesus says to her: "Give me something to drink;"
-8. For the his disciples had gone away into the town in order to buy provisions.
-9. Then the Samaritan woman said to him: "How do you, being a Jew, ask of me something to drink, being a Samaritan woman? "For Jews have no dealings with Samaritans."
+8. For his disciples had gone away into the town in order to buy provisions.
+9. Then the Samaritan woman said to him: "How do you, being a Jew, ask of me something to drink, being a Samaritan woman? For Jews have no dealings with Samaritans."
 10. Jesus answered and said to her: "If you knew the gift of the god and who is saying to you: 'give me something to drink', you would have asked him and he would have given living waters to you." 
+11. 
