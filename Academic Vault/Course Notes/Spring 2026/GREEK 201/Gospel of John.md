@@ -71,4 +71,4 @@
 3. He left Judea and went away again into the Galilee.
 4. And it was necessary for him to go through Samaria.
 5. So he came into a town of Samaria called Sychar near the place which Jacob gave to Joseph his son;
-6. And in that place was Jacob’s well. So Jesus
+6. And in that place was Jacob’s well. So Jesus 
