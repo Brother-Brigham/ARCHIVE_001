@@ -81,4 +81,5 @@
 2. And the disciples asked him of him, saying: "rabbi, who sinned, this one or his parents, that he was born blind?"
 3. Jesus answered: "Neither this one sinned nor his parents, but in order that the works of the god might be revealed in him."
 4. "It is necessary that we work the works of the one who sent me while it is day; when night comes no one will be able to work."
-5. 
+5. "When I am in the cosmos, I am the light of the cosmos."
+6. 
