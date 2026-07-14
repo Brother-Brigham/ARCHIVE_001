@@ -77,9 +77,11 @@
 9. Then the Samaritan woman said to him: "How do you, being a Jew, ask of me something to drink, being a Samaritan woman? For Jews have no dealings with Samaritans."
 10. Jesus answered and said to her: "If you knew the gift of the god and who is saying to you: 'give me something to drink', you would have asked him and he would have given living waters to you." 
 ## John 9
-1. And going away he saw a man blind from birth.
+1. And leading by he saw a man blind from birth.
 2. And the disciples asked him of him, saying: "rabbi, who sinned, this one or his parents, that he was born blind?"
 3. Jesus answered: "Neither this one sinned nor his parents, but in order that the works of the god might be revealed in him."
 4. "It is necessary that we work the works of the one who sent me while it is day; when night comes no one will be able to work."
 5. "When I am in the cosmos, I am the light of the cosmos."
-6. 
+6. And when he said these things he spat on the ground and he made clay with the saliva and spread his clay upon the eyes
+7. and said to him: "Go wash in the pool of Siloam," which being interpreted is, 'having sent away'. So he went away and washed and returned seeing.
+8. 
