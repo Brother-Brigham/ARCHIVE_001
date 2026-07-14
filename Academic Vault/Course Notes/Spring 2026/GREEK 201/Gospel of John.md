@@ -76,4 +76,9 @@
 8. For his disciples had gone away into the town in order to buy provisions.
 9. Then the Samaritan woman said to him: "How do you, being a Jew, ask of me something to drink, being a Samaritan woman? For Jews have no dealings with Samaritans."
 10. Jesus answered and said to her: "If you knew the gift of the god and who is saying to you: 'give me something to drink', you would have asked him and he would have given living waters to you." 
-11. 
+## John 9
+1. And going away he saw a man blind from birth.
+2. And the disciples asked him of him, saying: "rabbi, who sinned, this one or his parents, that he was born blind?"
+3. Jesus answered: "Neither this one sinned nor his parents, but in order that the works of the god might be revealed in him."
+4. "It is necessary that we work the works of the one who sent me while it is day; when night comes no one will be able to work."
+5. 
