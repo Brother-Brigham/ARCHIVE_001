@@ -89,4 +89,5 @@
 2. "and he that enters through the door is the shepherd of the sheep."
 3. "To this one the porter opens and the sheep hear his voice and he calls his own sheep by name and he leads them out."
 4. "Whenever he sends out his own sheep, he goes before them and the sheep go after him, because they know his voice;"
-5. 
+5. "And they will not follow another, but will flee away from him, because they do not know the voice of the others."
+6. ""
