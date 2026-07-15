@@ -84,4 +84,9 @@
 5. "When I am in the cosmos, I am the light of the cosmos."
 6. And when he said these things he spat on the ground and he made clay with the saliva and spread his clay upon the eyes
 7. and said to him: "Go wash in the pool of Siloam," which being interpreted is, 'having sent away'. So he went away and washed and returned seeing.
-8. 
+## John 10
+1. "Truly truly I say to you, he that enters not through the door into the courtyard of the sheep but ascends from another place, that one is a thief and a robber;"
+2. "and he that enters through the door is the shepherd of the sheep."
+3. "To this one the porter opens and the sheep hear his voice and he calls his own sheep by name and he leads them out."
+4. "Whenever he sends out his own sheep, he goes before them and the sheep go after him, because they know his voice;"
+5. 
