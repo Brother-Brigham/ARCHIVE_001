@@ -100,4 +100,8 @@
 4. And Judas the Iscariot--one of his disciples, who is about to hand him over--says: 
 5. "Why was this sweet oil not sold for three hundred denarii and given to the poor?"
 6. And he said this not because he was thinking about the poor, but because he was a thief and, having the money-box, was stealing the things put in it.
-7. So Jesus said: "Let her be, "
+7. So Jesus said: "Let her be, she kept it for the day of my preparation for burial; 
+8. "for you will always have the poor with yourselves, but you will not always have me."
+9. Then the great crowd of the Jews came to know learned that he is there and came not because of Jesus only, but in order to also see Lazarus whom he had raised from the dead.
+10. And the high priests counseled among themselves also, in order that they might kill Lazarus,
+11. 
