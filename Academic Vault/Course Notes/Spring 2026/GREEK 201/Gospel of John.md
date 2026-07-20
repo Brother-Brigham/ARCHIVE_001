@@ -95,13 +95,13 @@
 
 ## John 12
 1. Then Jesus before the sixth day of the Passover came into Bethany, where Lazarus was, whom Jesus had raised from the dead.
-2. So they made for him a dinner there, and Martha was serving, and Lazarus was one of them that were laid up with him.
+2. So they made for him a dinner there, and Martha was serving, and Lazarus was one of them that were reclining with him.
 3. So Mary took a pound of genuine, highly priced, sweet oil of spikenard, anointed the feet of Jesus and wiped his feet with her hair; and the house filled with the scent of the sweet oil.
 4. And Judas the Iscariot--one of his disciples, who is about to hand him over--says: 
 5. "Why was this sweet oil not sold for three hundred denarii and given to the poor?"
 6. And he said this not because he was thinking about the poor, but because he was a thief and, having the money-box, was stealing the things put in it.
 7. So Jesus said: "Let her be, she kept it for the day of my preparation for burial; 
 8. "for you will always have the poor with yourselves, but you will not always have me."
-9. Then the great crowd of the Jews came to know learned that he is there and came not because of Jesus only, but in order to also see Lazarus whom he had raised from the dead.
+9. Then the great crowd of the Jews came to know that he is there and came not because of Jesus only, but in order to also see Lazarus whom he had raised from the dead.
 10. And the high priests counseled among themselves also, in order that they might kill Lazarus,
 11. 
