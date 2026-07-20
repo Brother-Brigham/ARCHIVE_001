@@ -95,4 +95,8 @@
 
 ## John 12
 1. Then Jesus before the sixth day of the Passover came into Bethany, where Lazarus was, whom Jesus had raised from the dead.
-2. 
+2. So they made for him a dinner there, and Martha was serving, and Lazarus was one of them that were laid up with him.
+3. So Mary took a pound of genuine, highly priced, sweet oil of spikenard, anointed the feet of Jesus and wiped his feet with her hair; and the house filled with the scent of the sweet oil.
+4. And Judas the Iscariot--one of his disciples, who is about to hand him over--says: 
+5. "Why was this sweet oil not sold for three hundred denarii and given to the poor?"
+6. And he said this not because he was thinking about the poor, but because he was a thief and the money-box 
