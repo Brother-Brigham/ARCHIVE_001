@@ -94,4 +94,5 @@
 ## John 11
 
 ## John 12
-1. 
+1. Then Jesus before the sixth day of the Passover came into Bethany, where Lazarus was, whom Jesus had raised from the dead.
+2. 
