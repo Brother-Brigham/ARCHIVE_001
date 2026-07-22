@@ -49,6 +49,10 @@
 10. and says to him: "Every man first places the good wine, then whenever they're drunk, the inferior; you have kept the good wine until now."
 
 ## John 3
+1. And there was a man of the Pharisees, Nicodemus is his name, a ruler of the Jews;
+2. This one came t
+3. 
+4. 
 5. And Jesus answered: "Verily of a truth, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
 6. "He having been born of the flesh is fleshly, and him having been born of the spirit is spiritual.
 7. "Don't be surprised at what I said to you; it is necessary for us to be born from above.
