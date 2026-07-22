@@ -50,7 +50,7 @@
 
 ## John 3
 1. And there was a man of the Pharisees, Nicodemus is his name, a ruler of the Jews;
-2. This one came t
+2. This one came to him by night and said to him "Rabbi, "
 3. 
 4. 
 5. And Jesus answered: "Verily of a truth, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
