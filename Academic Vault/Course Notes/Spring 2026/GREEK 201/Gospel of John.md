@@ -52,20 +52,20 @@
 1. And there was a man of the Pharisees, Nicodemus is his name, a ruler of the Jews;
 2. This one came to him by night and said to him: "Rabbi, we know that you have come, a teacher from god; for no one is able to do these, the signs that you have done, if the god is not with him."
 3. Jesus answered and said to him: "Truly truly, I say to you, if someone is not born from above, he will not be able to see the kingdom of the god."
-4. Nicodemus says to him: "How is a man able to be born, being old? "
+4. Nicodemus says to him: "How is a man able to be born, being old? Is he not able to come into the womb of his mother a second time and to be born?"
 5. And Jesus answered: "Truly truly, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
-6. "He having been born of the flesh is fleshly, and him having been born of the spirit is spiritual.
+6. "He being born of the flesh is fleshly, and he being born of the spirit is spiritual.
 7. "Don't be surprised at what I said to you; it is necessary for us to be born from above.
 8. "The spirit blows wherever he wishes and you hear his sound, but you do not know from whence he comes nor where he goes; thus is everyone who has been born of the spirit."
 9. Nicodemus answered and said to him: "How are these things possible?"
 10. Jesus answered and said to him: "You are the teacher of Israel and you don't know these things?
-11. "Verily of a truth I say to you that what we have known, we speak, and what we have seen, we testify, and you all do not receive our testimony.
-12. "If I said to you all earthly things and you all trusted not, how will you all trust if I said heavenly things to you all?
+11. "Truly truly, I say to you that what we have known, we speak, and what we have seen, we testify, and you all do not receive our testimony.
+12. "If I said earthly things to you all and you all trusted not, how will you all trust if I said heavenly things to you all?
 13. "And no one has gone up into the heaven if he, the son of man, descended not from the heaven.
 14. "And just as Moses lifted up the serpent in the wilderness, thus it is necessary that the son of man be lifted up, 
 15. "in order that all who trust in him might have eternal life.
-16. "For thus the god loved the cosmos, thus he gave the son, the one and only, in order that all who trust in him might not perish, but have eternal life.
-17. "For the god sent not the son into the cosmos in order that he might condemn the cosmos, but in order that the cosmos might be saved through him.
+16. "For thus the god loved the universe, thus he gave the son, the one and only, in order that all who trust in him might not perish, but have eternal life.
+17. "For the god sent the son into the universe not in order that he might condemn the universe, but in order that the universe might be saved through him.
 18. "He that trusts in him has not been condemned; but he that trusts not is already condemned, because he has not trusted in the name of the one and only son of the god.
 19. "And this condemnation is because the light has come into the cosmos and men loved the dark instead of the light; for the works of them were evil.
 20. "
