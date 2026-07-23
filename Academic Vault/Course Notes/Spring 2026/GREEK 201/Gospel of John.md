@@ -68,7 +68,8 @@
 17. "For the god sent the son into the universe not in order that he might condemn the universe, but in order that the universe might be saved through him.
 18. "He that trusts in him has not been condemned; but he that trusts not is already condemned, because he has not trusted in the name of the one and only son of the god.
 19. "And this condemnation is because the light has come into the universe and men loved the dark instead of the light; for their works were evil.
-20. "For he 
+20. "For all that do evil hate the light and don't come to the light, in order that their works are not cross-examined;
+21. "And those doing the truth come to the light, in order that "
 ## John 4
 1. Then as Jesus understood that the Pharisees heard that Jesus makes and baptizes many more disciples than John
 2. —although Jesus himself was not baptizing, but his disciples—
