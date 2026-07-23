@@ -50,10 +50,10 @@
 
 ## John 3
 1. And there was a man of the Pharisees, Nicodemus is his name, a ruler of the Jews;
-2. This one came to him by night and said to him "Rabbi, we know that you have come, a teacher from god; for no one is able to do these, the signs that you have done, if the god is not with him."
-3. 
-4. 
-5. And Jesus answered: "Verily of a truth, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
+2. This one came to him by night and said to him: "Rabbi, we know that you have come, a teacher from god; for no one is able to do these, the signs that you have done, if the god is not with him."
+3. Jesus answered and said to him: "Truly truly, I say to you, if someone is not born from above, he will not be able to see the kingdom of the god."
+4. Nicodemus says to him: "How is a man able to be born, being old? "
+5. And Jesus answered: "Truly truly, I say to you, if someone is not born out of water and spirit, he will not be able to enter into the kingdom of the god.
 6. "He having been born of the flesh is fleshly, and him having been born of the spirit is spiritual.
 7. "Don't be surprised at what I said to you; it is necessary for us to be born from above.
 8. "The spirit blows wherever he wishes and you hear his sound, but you do not know from whence he comes nor where he goes; thus is everyone who has been born of the spirit."
