@@ -1,6 +1,6 @@
 # Outlining
 
-**Related:** [[Judas Iscariot, Disciple-Betrayer?]] • [[Current Research]] • [[Theology & Scripture MOC]]
+**Related:** [[Judas Iscariot, Disciple-Betrayer]] • [[Current Research]] • [[Theology & Scripture MOC]]
 
 ## Ideas
 - Covenant violation curses
