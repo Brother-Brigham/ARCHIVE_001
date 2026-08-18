@@ -1,3 +1,7 @@
+# 8/18 Meeting Notes
+
+
+
 # Outlining
 ## Ideas
 - Covenant violation curses
