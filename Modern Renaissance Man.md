@@ -1,4 +1,179 @@
-## The 4 Pillars of a Modern Polymath
+---
+
+title: Polymath Study Plan - Analyst-Style Systematic Theology
+
+tags: [study-plan, theology, intelligence-analysis, polymath]
+
+created: 2026-10-17
+
+---
+# Polymath Study Plan: Analyst-Style Systematic Theology
+## Goals
+
+- **Long-term:** Develop a systematic theology within the Latter-day Saint tradition (confessional), using an intelligence-analyst approach rather than a typical academic one.
+
+- **Broader aim:** Become a modern-day polymath: deep in theology and source languages, fluent in logic, statistics, programming, and select sciences, and able to move ideas between fields.
+
+- **Starting position:** Strong in writing, analysis, and primary source research. Weak in math, statistics, the sciences, and programming. Language background: 1 year Biblical Hebrew, 1.5 years Classical Greek.
+
+- **Time budget:** About 8-10 hours per week.
+
+### Method commitments
+
+- Name confessional commitments up front as assumptions.
+
+- Distinguish evidence, inference, and assumption.
+
+- State confidence levels explicitly.
+
+- Red-team my own conclusions.
+
+- Be explicit about where I am analyzing and where I am committing.
+
+### Open decisions
+
+- [ ] How does revelation function in the system: a source weighed like others, or a foundational assumption?
+
+- [ ] Descriptive of current LDS teaching, or constructive (proposing coherent positions where the tradition is underdeveloped)?
+
+---
+## Timeline
+### Core tier (start now, run in parallel)
+
+| Area | Timeframe | Notes |
+
+|---|---|---|
+
+| Logic and epistemology | Months 1-6 | Formal logic, informal fallacies, Bayesian reasoning, theory of evidence, plus intelligence tradecraft |
+
+| Python | Months 1-4 | Project: searchable corpus of Joseph Smith Papers or Book of Mormon with word-frequency and concordance tools |
+
+| Statistics (in Python) | Months 4-12 | Sampling, inference, regression, Bayesian updating; practice on corpus project |
+
+| Biblical languages | Ongoing, 3-4 hrs/week | Daily Greek (Koine NT, then Septuagint, then Apostolic Fathers) and daily Hebrew (Genesis, then Isaiah and Psalms) |
+### Second tier (start around month 6)
+
+- Philosophy of religion and metaphysics (read alongside Ostler)
+
+- History of doctrine (patristic period, Nicaea, theosis)
+
+- Math as a slow background thread (20 min/day: algebra, then calculus and linear algebra)
+
+### Third tier (year 2)
+
+- Cognitive science of belief (including my own motivated reasoning)
+
+- One science, lightly (biology or physics, only where doctrine touches it)
+
+### Checkpoints
+
+- [ ] Each quarter: one written analysis applying new tools to a real doctrinal question.
+
+- [ ] Find one expert in each major area to critique my work.
+
+### Suggested order for months 1-6 (logic and epistemology)
+
+Major, *Communicating with Intelligence* (in progress), then Browne & Keeley, Hurley, Heuer, Kahneman, then Hacking, Heuer & Pherson (SATs), Pritchard, Anderson/Schum/Twining. Save Alston, the Oxford Handbook, Swinburne, and Plantinga for the end of the window.
+
+---
+## Books
+### Currently reading
+
+- [ ] Major, *Communicating with Intelligence*
+### Intelligence analysis and tradecraft
+
+- [ ] Heuer, *Psychology of Intelligence Analysis* (free from CIA) - priority
+
+- [ ] Heuer & Pherson, *Structured Analytic Techniques for Intelligence Analysis* - priority
+
+- [ ] Anderson, Schum & Twining, *Analysis of Evidence* - priority
+
+- [ ] Morgan Jones, *The Thinker's Toolkit*
+
+- [ ] Pherson & Pherson, *Critical Thinking for Strategic Intelligence*
+
+- [ ] Clark, *Intelligence Analysis: A Target-Centric Approach*
+
+- [ ] Tetlock & Gardner, *Superforecasting*
+
+- [ ] Lowenthal, *Intelligence: From Secrets to Policy*
+
+- [ ] Sherman Kent, *Strategic Intelligence for American World Policy* (and his essay on words of estimative probability)
+
+- [ ] Fischhoff & Chauvin (eds.), *Intelligence Analysis: Behavioral and Social Scientific Foundations*
+
+- [ ] Intelligence Community Directive 203 (Analytic Standards) - free document
+### Logic and critical thinking
+
+- [ ] Browne & Keeley, *Asking the Right Questions* (12th ed.) - in archive
+
+- [ ] *The Philosophical Journey: An Interactive Approach* (7th ed.) - in archive
+
+- [ ] Hurley, *A Concise Introduction to Logic*
+
+- [ ] Priest, *Logic: A Very Short Introduction*
+
+- [ ] Bergmann, Moor & Nelson, *The Logic Book*
+### Probability and evidence
+
+- [ ] Hacking, *An Introduction to Probability and Inductive Logic*
+
+- [ ] Skyrms, *Choice and Chance*
+
+- [ ] Howson & Urbach, *Scientific Reasoning: The Bayesian Approach*
+
+- [ ] McGrayne, *The Theory That Would Not Die*
+
+- [ ] Pearl & Mackenzie, *The Book of Why*
+
+- [ ] Okasha, *Philosophy of Science: A Very Short Introduction* - in archive
+
+- [ ] Garraghan, *A Guide to Historical Method* - in archive
+### Epistemology and cognition
+
+- [ ] Wood, *Epistemology: Becoming Intellectually Virtuous* - in archive
+
+- [ ] Sober, *Core Questions in Philosophy* - in archive
+
+- [ ] Pritchard, *What Is This Thing Called Knowledge?*
+
+- [ ] Audi, *Epistemology: A Contemporary Introduction*
+
+- [ ] Kahneman, *Thinking, Fast and Slow* - in archive
+### Epistemology of religion
+
+- [ ] Alston, *Perceiving God: The Epistemology of Religious Experience* - in archive
+
+- [ ] *The Oxford Handbook of the Epistemology of Theology* - in archive
+
+- [ ] Swinburne, *The Existence of God* - in archive
+
+- [ ] Plantinga, *Warranted Christian Belief*
+### LDS and theology (mentioned earlier, titles to be chosen)
+
+- [ ] Blake Ostler, *Exploring Mormon Thought* (philosophical treatment)
+
+- [ ] Terryl Givens (intellectual history; specific titles TBD)
+
+- [ ] James Talmage (earlier systematization; titles TBD)
+
+- [ ] B.H. Roberts (earlier systematization; titles TBD)
+
+- [ ] Scholarship on early Christian theosis and Second Temple Judaism (TBD)
+### Primary sources and case studies
+
+- Joseph Smith Papers and Church History Catalog (free online): trace revisions of the D&C and Book of Moses
+
+- Case studies: Adam-God teachings; history of priesthood and temple restrictions
+
+---
+## Notes
+
+- Items marked "in archive" were found in the Gospel Scholar Archive. All others come from memory, so verify editions and availability.
+
+- Math resources discussed: Khan Academy or a structured course (not a specific book).
+
+# The 4 Pillars of a Modern Polymath
 
 To design a well-rounded curriculum, it helps to structure your learning across four distinct domains:
 
