@@ -7,6 +7,127 @@ tags: [study-plan, theology, intelligence-analysis, polymath]
 created: 2026-10-17
 
 ---
+# Journalling/Tracking Template
+
+---
+
+title: Weekly Review - Domains and Diagnostic
+
+tags: [review, template, polymath, planning]
+
+week-of: YYYY-MM-DD
+
+---
+
+  
+
+# Weekly Review: Week of YYYY-MM-DD
+
+  
+
+## 1. Domain Check
+Rate each 1-5 (1 = neglected, 5 = thriving). Log hours against targets.
+
+| Domain                                 | Target hrs | Actual hrs | Rating | One concrete win or gap |
+| -------------------------------------- | ---------- | ---------- | ------ | ----------------------- |
+| Intellectual (study plan)              | 8-10       |            |        |                         |
+| Physical (exercise, sleep, food)       |            |            |        |                         |
+| Relational (family, friends, mentors)  |            |            |        |                         |
+| Vocational (work, finances, career)    |            |            |        |                         |
+| Spiritual (worship, scripture, prayer) |            |            |        |                         |
+## 2. Intellectual Domain Detail
+
+- [ ] Greek reading (daily)
+
+- [ ] Hebrew reading (daily)
+
+- [ ] Python / project work
+
+- [ ] Logic and epistemology reading
+
+- [ ] Math (20 min/day)
+
+- **Current book:** 
+
+- **Pages / chapters finished:** 
+
+- **Problem sets completed:** 
+
+  
+
+## 3. Diagnostic: Who Was Steering?
+
+  
+
+For each domain that mattered this week, name which part of the soul was in charge and note one example.
+
+  
+
+| Part | Question to ask | Evidence this week |
+
+|---|---|---|
+
+| **Reason** | Did I act on a plan and sound judgment, or on impulse? | |
+
+| **Spirit** | Did pride, defensiveness, or the wish for recognition drive me? Did I show courage (accepting critique, dropping a favored hypothesis)? | |
+
+| **Appetite** | Did novelty-chasing, comfort, or collecting (new books, new fields) override finishing what I started? | |
+
+  
+
+**Who was steering overall?** Reason / Spirit / Appetite
+
+  
+
+**One adjustment for next week:** 
+
+  
+
+## 4. Analyst Habits
+
+  
+
+- **Priors named:** Did I state my assumptions before reading or analyzing something contested?
+
+- **Evidence vs. inference vs. assumption:** Did I keep them separate in my notes?
+
+- **Confidence levels:** Did I assign explicit confidence to any conclusion?
+
+- **Red team:** What is the strongest case against my current view?
+
+  
+
+## 5. Checkpoints
+
+  
+
+- [ ] Written analysis this quarter (applying new tools to a doctrinal question)
+
+- [ ] Expert critique requested or received
+
+- **Status:** 
+
+  
+
+## 6. Next Week
+
+  
+
+1. 
+
+2. 
+
+3. 
+
+  
+
+**Things I will say no to (appetite guardrails):** 
+
+  
+
+---
+
+*Quarterly prompt: Which domain has been rated lowest for three or more weeks? What structural change, not just more willpower, would fix it?*
 # Polymath Study Plan: Analyst-Style Systematic Theology
 ## Goals
 
