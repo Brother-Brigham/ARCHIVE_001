@@ -9,7 +9,7 @@ Human [5.5e] Rogue [5.5e] 10/Warlock [5.5e] 8/Fighter [5.5e] 2 (Custom Backgroun
 5. Rogue 3 (alt: Warlock 2)
 6. Warlock 3
 7. Fighter 1
-8. Warlock 4
+8. Warlock 4 (Dual Wielder)
 9. Warlock 5
 10. Fighter 2
 11. Rogue 4
