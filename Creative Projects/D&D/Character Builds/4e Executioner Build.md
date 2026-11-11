@@ -30,7 +30,7 @@ Human [5.5e] Rogue [5.5e] 10/Warlock [5.5e] 8/Fighter [5.5e] 2 (Custom Backgroun
   
 **Abilities** Str 8, Dex 22, Con 14, Int 8, Wis 10, Cha 16  
   
-**Saving Throws** Strength +5, Dexterity +12, Constitution +8, Intelligence +5, Wisdom +6, Charisma +9  
+**Saving Throws** Strength -1, Dexterity +12, Constitution +2, Intelligence +5, Wisdom +0, Charisma +3  
 **Skills** Acrobatics +12, Deception +15, Insight +12, Investigation +5, Perception +12, Persuasion +9, Sleight of Hand +18, Stealth +18  
 **Senses** passive Perception 22  
   
