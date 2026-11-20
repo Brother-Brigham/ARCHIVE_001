@@ -1,5 +1,6 @@
 {
   "cssTheme": "Wikipedia",
   "theme": "moonstone",
-  "accentColor": "#b9bec6"
+  "accentColor": "#b9bec6",
+  "showRibbon": true
 }

@@ -4,7 +4,7 @@ tags:
   - type/moc
   - area/creative
 ---
-
+20261011_185832_e10e5f
 # Creative Projects
 
 This is the hub for my worldbuilding, creative writing, game modifications, and tabletop RPG notes. Unlike academic notes, these are living documents that track my creative process and project roadmaps.
