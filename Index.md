@@ -1,20 +1,13 @@
 ---
 title: Welcome
+tags:
+  - type/hub
+  - type/landing
 ---
+
 # Brigham Powelson
 
-Welcome! This site serves as both my professional portfolio and my personal digital garden—a working space where I document my studies, cultivate ideas, and learn in public. 
-
-## Professional Portfolio
-
-Here you can find my polished work, professional history, and active projects.
-
-* **[[Curriculum Vitae]]**: My education and work history.
-* **[[Work Samples]]**: Selected examples of my previous work and projects.
-* **[[Current Research]]**: An overview of the primary research project I am currently engaged with, alongside some brainstorming for future work.
-* **[My Substack](https://brighampowelson.substack.com)**: An informal publication focused on Latter-day Saint thought, history, and practice.
-
----
+Welcome! This site serves as my personal digital garden—a working space where I document my studies, cultivate ideas, and learn in public. 
 
 ## 🌱 The Digital Garden
 

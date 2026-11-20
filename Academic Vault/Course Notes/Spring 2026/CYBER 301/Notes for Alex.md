@@ -131,4 +131,62 @@ Violations of this policy, whether intentional or accidental, may result in disc
 **Software Inventory Lab**
 - Don't inventory more than 100 items.
 - Follow the lab document and submit it by the deadline.
-- Use AI for as much as possible (it is especially useful for finding license info, whether the software is outdated, etc.)
+- Use AI for as much as possible (it is especially useful for finding license info, whether the software is outdated, etc
+## June 1 Class
+**4.3 Topic Review**
+- OSINT
+	- osintframework.com
+- Dark Web
+	- Tor Browser
+		- Creates anonymity by routing traffic through a number of nodes to obscure user IP
+	- NetworkChuck has videos explaining what the dark web is and how to access it
+	- No reason to really use the dark web unless you're conducting research (e.g., is my company's data being sold there?)
+- National Vulnerability Database 
+	- CVE (Common Vulnerabilities and Exposures)
+	- [https://nvd.nist.gov/vuln/search](https://nvd.nist.gov/vuln/search)
+- CVSS Score Calculation
+	-  https://www.first.org/cvss/v3.1/specification-document
+	- Base Metric Group
+		- Exploitability Metrics
+			- Attack Vector
+				- Network (N)
+				- Adjacent (A)
+				- Local (L)
+				- Physical (P)
+			- Attack Complexity
+				- Low (L)
+				- High (H)
+			- Privileges Required
+				- None (N)
+				- Low (L)
+				- High (H)
+			- User Interaction
+				- None (N)
+				- Required (R)
+		- Scope 
+			- Unchanged (U)
+			- Changed (C)
+		- Impact Metrics
+			- Confidentiality
+				- High (H)
+				- Low (L)
+				- None (N)
+			- Integrity
+				- High (H)
+				- Low (L)
+				- None (N)
+			- Availability
+				- High (H)
+				- Low (L)
+				- None (N)
+	- Temporal Metric Group
+	- Environmental Metric Group
+- False Positive/Negative, True Positive/Negative (know these differences, they'll be on the test)
+**CVSS Lab**
+- Address: http://157.201.22.3/cvss_lab.html
+	- Address couldn't be connected to by anyone in class, probably prof's firewall config. He couldn't figure it out, so we just worked through it together.
+- You'll get a test question that gives you a CVSS and you'll need to be familiar with how CVSS works in order to get it right.
+	- Ask AI to give you realistic examples (10 or more, as needed) of common Security+ test questions about CVSS scores.
+	- Be wary of the test questions including made-up letters in the CVSS classifications to throw you off.
+
+## ___ ___ Class

@@ -1,0 +1,8 @@
+The death of Judas Iscariot is a rather graphic tale that grates on our modern sensibilities. After all, suicide, though a prevalent issue (Footnote on suicide statistics at time of writing), is a topic we often shy away from discussing (research on hesitance to discuss suicide? Does this vary by culture, or is it largely consistent across the globe?). Matthew, of the four New Testament Gospel accounts, is the only Gospel to include a story of Judas's death. The author of Luke-Acts includes a small mention of Judas's death in Acts 1:16-19 as Peter calls for the need to replace Judas in the twelve, but the Matthew account of his death is much longer and differs in the details. Why might this be? This paper will attempt to answer that question, explore the meaning Matthew's account might have held to his original audience, as well as take a look into what this story might mean for us, today. In answering these questions, we must first consider the authorship of the gospel and the nature of Matthew's original audience.
+
+**Related:** [[Judas Project]] • [[Theology & Scripture MOC]]
+
+**Matthew's Authorship Choices and Intended Audience**
+
+At the outset, 
+

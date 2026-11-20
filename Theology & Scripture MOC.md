@@ -1,6 +1,10 @@
 ---
 title: Theology & Scripture
+tags:
+  - type/moc
+  - area/theology
 ---
+
 # Theology & Scripture
 
 This is the central hub for my notes on Latter-day Saint history, theology, and personal scripture study. My method of study, motivated by my Hebrew professor, is geared toward linking concepts, symbols, and concrete parallels to deepen understanding. Obsidian's linking functions seem well equipped for his methodology.
@@ -23,4 +27,3 @@ These are links to the concepts I have found connections with throughout my deve
 - [[Observation, Space, and Seeing the Bigger Picture]]
 ## Intersections
 Where my theology overlaps with my other studies.
-* 
