@@ -1,3 +1,7 @@
+# 8/18 Meeting Notes
+
+
+
 # Outlining
 
 **Related:** [[Judas Iscariot, Disciple-Betrayer]] • [[Current Research]] • [[Theology & Scripture MOC]]
